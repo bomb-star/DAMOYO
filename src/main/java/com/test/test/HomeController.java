@@ -35,5 +35,17 @@ public class HomeController {
 		
 		return "home";
 	}
+	@RequestMapping(value = "/zicgurae/personal", method = RequestMethod.GET)
+	public String personal() {
+		return "zicgurae/personal";
+	}
+	@RequestMapping(value = "/zicgurae/company", method = RequestMethod.GET)
+	public String company() {
+		return "zicgurae/company";
+	}
+	@RequestMapping(value = "/zicgurae/national", method = RequestMethod.GET)
+	public String national() {
+		return "zicgurae/national";
+	}
 	
 }

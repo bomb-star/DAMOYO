@@ -64,15 +64,15 @@
 						</div>
 				</span></li>
 				<li class=""><span> <a
-						href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistPersonal">직거래</a>
+						href="zicgurae/personal">직거래</a>
 						<div class="layer_menu lm_3">
 							<ul>
 								<li><a
-									href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistPersonal">개인매물</a></li>
+									href="zicgurae/personal">개인매물</a></li>
 								<li><a
-									href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistEnterprise">기업매물</a></li>
+									href="zicgurae/company">기업매물</a></li>
 								<li><a
-									href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistState">국유재산
+									href="zicgurae/national">국유재산
 										사용/매각</a></li>
 							</ul>
 						</div>
