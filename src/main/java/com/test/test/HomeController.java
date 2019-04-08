@@ -48,4 +48,24 @@ public class HomeController {
 		return "zicgurae/national";
 	}
 	
+	@RequestMapping(value = "/sisae/mainSisae", method = RequestMethod.GET)
+	public String mainSisae() {
+		return "sisae/mainSisae";
+	}
+	
+	@RequestMapping(value = "/eroe/mainEroe", method = RequestMethod.GET)
+	public String mainEroe() {
+		return "eroe/mainEroe";
+	}
+	
+	@RequestMapping(value = "/eroe/eroeStatus", method = RequestMethod.GET)
+	public String eroeStatus() {
+		return "eroe/eroeStatus";
+	}
+	
+	@RequestMapping(value = "/eroe/eroeStatus_tab2", method = RequestMethod.GET)
+	public String eroeStatus_tab2() {
+		return "eroe/eroeStatus_tab2";
+	}
+	
 }
