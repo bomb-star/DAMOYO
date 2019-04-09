@@ -68,4 +68,14 @@ public class HomeController {
 		return "eroe/eroeStatus_tab2";
 	}
 	
+	@RequestMapping(value = "/eroe/customerReview", method = RequestMethod.GET)
+	public String customerReview() {
+		return "eroe/customerReview";
+	}
+	
+	@RequestMapping(value = "/eroe/searchSalesman", method = RequestMethod.GET)
+	public String searchSalesman() {
+		return "eroe/searchSalesman";
+	}
+	
 }

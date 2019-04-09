@@ -422,7 +422,7 @@ var _AceTM = (function (_j, _s, _b, _o, _y) {
 							<li class=""><a href="javascript:goAskSellPage();">내놓기</a></li>
 							<li class=""><a href="javascript:goAskBuyPage();">구하기</a></li>
 							<li class=""><a href="${pageContext.request.contextPath}/eroe/eroeStatus">의뢰현황</a></li>
-							<li class=""><a href="/?_c=ask&amp;_m=customerreview">고객후기</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/eroe/customerReview">고객후기</a></li>
 							<li class=""><a href="/?_c=ask&amp;_m=findagent">중개사무소찾기</a></li>
 						</ul>
 					</div>
@@ -431,8 +431,8 @@ var _AceTM = (function (_j, _s, _b, _o, _y) {
 					<li class=""><a href="javascript:goAskSellPage();">내놓기</a></li>
 					<li class=""><a href="javascript:goAskBuyPage();">구하기</a></li>
                     <li class=""><a href="${pageContext.request.contextPath}/eroe/eroeStatus">의뢰현황</a></li>
-                    <li class=""><a href="/?_c=ask&amp;_m=customerreview">고객후기</a></li>
-                    <li class=""><a href="/?_c=ask&amp;_m=findagent">중개사무소찾기</a></li>
+                    <li class=""><a href="${pageContext.request.contextPath}/eroe/customerReview">고객후기</a></li>
+                    <li class=""><a href="${pageContext.request.contextPath}/eroe/searchSalesman">중개사무소찾기</a></li>
                 </ul>
             </li>
 
@@ -729,7 +729,7 @@ var _AceTM = (function (_j, _s, _b, _o, _y) {
 
 	<div class="body_wrap">
 		<!-- 컨텐츠 시작 -->
-		<h4 class="h4_type4">고객후기<a href="/?_c=ask&amp;_m=customerreview" class="more_type1">더보기 <span class="ico_comm_s more1"></span></a></h4>
+		<h4 class="h4_type4">고객후기<a href="${pageContext.request.contextPath}/eroe/customerReview" class="more_type1">더보기 <span class="ico_comm_s more1"></span></a></h4>
 		<ul class="list_thumb_type2 profile">
 			
 
@@ -1199,9 +1199,9 @@ var _AceTM = (function (_j, _s, _b, _o, _y) {
                             <ul>
                                 <li><a href="javascript:goAskSellPage();">내놓기 등록</a></li>
                                 <li><a href="javascript:goAskBuyPage();">구하기 등록</a></li>
-                                <li><a href="/?_c=ask&amp;_m=asklist">의뢰현황</a></li>
-                                <li><a href="/?_c=ask&amp;_m=customerreview">고객후기</a></li>
-                                <li><a href="/?_c=ask&amp;_m=findagent">중개사무소 찾기</a></li>
+                                <li><a href="${pageContext.request.contextPath}/eroe/eroeStatus">의뢰현황</a></li>
+                                <li><a href="${pageContext.request.contextPath}/eroe/customerReview">고객후기</a></li>
+                                <li><a href="${pageContext.request.contextPath}/eroe/searchSalesman">중개사무소 찾기</a></li>
                             </ul>
                         </li>
 

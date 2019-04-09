@@ -8,7 +8,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta property="fb:app_id" content="1381871691878925">
-<meta id="metaURL" property="og:url" content="https://www.r114.com/Default.asp?_c=ask&amp;_m=asklist&amp;sellbuyType=1">
+<meta id="metaURL" property="og:url" content="https://www.r114.com/Default.asp?_c=ask&amp;_m=customerreview">
 <meta id="metaType" property="og:type" content="website">
 <meta id="metaImg" property="og:image" content="https://image.r114.co.kr/W1/images/common/fe_logo.png">
 <meta id="metaTitle" property="og:title" content="부동산 빅데이터 플랫폼 부동산114">
@@ -34,6 +34,7 @@
 	rel="stylesheet">
 </head>
 
+
 <!--AceCounter-II Log Gathering for AceTag Manager V.9.2.20170103 : 20170615-->
 <script type="text/javascript">
 var _AceTM = (function (_j, _s, _b, _o, _y) {
@@ -58,7 +59,7 @@ var _AceTM = (function (_j, _s, _b, _o, _y) {
 	var _ud3 = '' ;			// 사용자 정의변수 3 ( 1 ~ 10 정수값)
 	var _AceGID=(function(){var Inf=['gtb14.acecounter.com','8080','AH6A41105368933','AW','0','NaPm,Ncisy','ALL','0']; var _CI=(!_AceGID)?[]:_AceGID.val;var _N=0;var _T=new Image(0,0);if(_CI.join('.').indexOf(Inf[3])<0){ _T.src =( location.protocol=="https:"?"https://"+Inf[0]:"http://"+Inf[0]+":"+Inf[1]) +'/?cookie'; _CI.push(Inf);  _N=_CI.length; } return {o: _N,val:_CI}; })();
 	var _AceCounter=(function(){var G=_AceGID;if(G.o!=0){var _A=G.val[G.o-1];var _G=( _A[0]).substr(0,_A[0].indexOf('.'));var _C=(_A[7]!='0')?(_A[2]):_A[3];	var _U=( _A[5]).replace(/\,/g,'_');var _S=((['<scr','ipt','type="text/javascr','ipt"></scr','ipt>']).join('')).replace('tt','t src="'+location.protocol+ '//cr.acecounter.com/Web/AceCounter_'+_C+'.js?gc='+_A[2]+'&py='+_A[4]+'&gd='+_G+'&gp='+_A[1]+'&up='+_U+'&rd='+(new Date().getTime())+'" t');document.writeln(_S); return _S;} })();
-</script><script src="https://cr.acecounter.com/Web/AceCounter_AW.js?gc=AH6A41105368933&amp;py=0&amp;gd=gtb14&amp;gp=8080&amp;up=NaPm_Ncisy&amp;rd=1554694274205" type="text/javascript"></script>
+</script><script src="https://cr.acecounter.com/Web/AceCounter_AW.js?gc=AH6A41105368933&amp;py=0&amp;gd=gtb14&amp;gp=8080&amp;up=NaPm_Ncisy&amp;rd=1554785675169" type="text/javascript"></script>
 
 <noscript><img src='https://gtb14.acecounter.com/?uid=AH6A41105368933&je=n&' border='0' width='0' height='0' alt=''></noscript>
 <!-- AceCounter Log Gathering Script End -->
@@ -186,7 +187,7 @@ var _AceTM = (function (_j, _s, _b, _o, _y) {
 .fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#1d3c78;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
 .fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style></head>
 
-<body style="">
+<body class="p_02" style="">
 <!-- 스킵네비 시작 -->
 <div id="skipNavi">
 	<ul>
@@ -421,8 +422,8 @@ var _AceTM = (function (_j, _s, _b, _o, _y) {
 						<ul>
 							<li class=""><a href="javascript:goAskSellPage();">내놓기</a></li>
 							<li class=""><a href="javascript:goAskBuyPage();">구하기</a></li>
-							<li class="on"><a href="${pageContext.request.contextPath}/eroe/eroeStatus">의뢰현황</a></li>
-							<li class=""><a href="${pageContext.request.contextPath}/eroe/customerReview">고객후기</a></li>
+							<li class=""><a href="/?_c=ask&amp;_m=asklist">의뢰현황</a></li>
+							<li class="on"><a href="/?_c=ask&amp;_m=customerreview">고객후기</a></li>
 							<li class=""><a href="/?_c=ask&amp;_m=findagent">중개사무소찾기</a></li>
 						</ul>
 					</div>
@@ -430,8 +431,8 @@ var _AceTM = (function (_j, _s, _b, _o, _y) {
                 <ul>
 					<li class=""><a href="javascript:goAskSellPage();">내놓기</a></li>
 					<li class=""><a href="javascript:goAskBuyPage();">구하기</a></li>
-                    <li class="on"><a href="${pageContext.request.contextPath}/eroe/eroeStatus">의뢰현황</a></li>
-                    <li class=""><a href="${pageContext.request.contextPath}/eroe/customerReview">고객후기</a></li>
+                    <li class=""><a href="/?_c=ask&amp;_m=asklist">의뢰현황</a></li>
+                    <li class="on"><a href="/?_c=ask&amp;_m=customerreview">고객후기</a></li>
                     <li class=""><a href="/?_c=ask&amp;_m=findagent">중개사무소찾기</a></li>
                 </ul>
             </li>
@@ -635,24 +636,45 @@ var _AceTM = (function (_j, _s, _b, _o, _y) {
 <!-- 탑 끝 -->
 
 
+<!-- 바디 시작 -->
 <div id="body_layout">
 	<div class="body_wrap">
     	<!-- 타이틀 시작 -->
     	<div class="title_wrap">
             <div class="title">
-                <h3>의뢰현황</h3>
+                <h3>고객후기</h3>
             </div>
             <div class="location">
                 <ul>
                     <li><a href="/">홈</a></li>
                     <li><a href="/?_c=ask">매물의뢰</a></li>
-                    <li><a href="/?_c=ask&amp;_m=asklist">의뢰현황</a></li>
+                    <li><a href="/?_c=ask&amp;_m=customerreview">고객후기</a></li>
                 </ul>
             </div>
         </div>
     	<!-- 타이틀 끝 -->
         <!-- 컨텐츠 시작 -->
         <div class="contents_wrap">
+
+<!--
+			<div class="info_smr">
+				<div class="inner">
+					<strong>{중개의뢰검색월}월에는 총 {중개의뢰고객수}명의 고객이<br /> 중개의뢰를 이용하셨습니다.</strong>
+					<p>부동산114 ‘중개의뢰 서비스’ 를 이용하시면 지역 내 베테랑 중개사무소를 1:1로<br /> 연결하여 보다 빠르고 안전하게 거래하실 수 있습니다.</p>
+				</div>
+			</div>
+
+			<p class="txt_star type2 rt">35일 기준 실시간 현황</p>
+			<div class="req_count">
+				<div class="r1">
+					<em class="tag_comm5 type3">부동산114</em>
+					<dl>
+						<dt>중개의뢰 신청 총</dt>
+						<dd>{중개의뢰총건수}</dd>
+					</dl>
+				</div>
+			</div>
+-->
 
 			<div class="info_smr bm" style="background-image:url(https://image.r114.co.kr/W1/images/sub/bg_info_ask.jpg);">
 				<div class="inner">
@@ -672,277 +694,967 @@ var _AceTM = (function (_j, _s, _b, _o, _y) {
 					<em class="tag_comm5 type1">내놓기</em>
 					<dl>
 						<dt>의뢰</dt>
-						<dd>2,296</dd>
+						<dd>2,287</dd>
 						<dt>접수</dt>
-						<dd>1,555</dd>
+						<dd>1,556</dd>
 					</dl>
 				</div>
 				<div class="r2">
 					<em class="tag_comm5 type2">구하기</em>
 					<dl>
 						<dt>의뢰</dt>
-						<dd>222</dd>
+						<dd>220</dd>
 						<dt>접수</dt>
-						<dd>149</dd>
+						<dd>148</dd>
 					</dl>
 				</div>
 			</div>
 
 			<div class="tab_btn">
 				<ul class="tab_list">
-					<li id="sellbuyType2"><a href="${pageContext.request.contextPath}/eroe/eroeStatus">내놓기</a></li>
-					<li id="sellbuyType1" class="on">구하기</li>
+					<li id="askCategory2" class="on">내놓기</li>
+					<li id="askCategory1"><a href="/?_c=ask&amp;_m=customerreview&amp;sellbuyType=1">구하기</a></li>
 				</ul>
-				<a href="javascript:" class="btn_type1" id="cmdMyAsking">나의 의뢰현황</a>
 			</div>
-			<div class="sort_wrap">
-        		<!--<a href="#none">전체</a>-->
-				<a href="#none" class="selected">접수</a>
-        		<a href="#none">의뢰중</a>        		
-        	</div>
 
-			<ul class="list_sell">	
-				<li class="">
-					<!-- <a href="/?_c=memul&_m=HouseDetail&mulcode=14455"> -->
-					<!--<a {매물상세링크}> -->
-					<div class="s1">
-						<strong class="in">
-							<span class="tag_comm type14">접수</span>
-							<span class="area"><span class="ico_comm_s location5">위치</span>서울특별시 노원구 공릉동 공릉우성</span>
+			<ul class="list_review">	
+	<li>
+		<div class="in">
+			<span class="area"><span class="ico_comm_s location5">위치</span>서울특별시 중구 회현동3가</span>
+			<span class="info_wrap2">
+				<span>사무실</span><span>월세</span>
+			</span>
+			<span class="txt">보증금 518 만원 / 월세 52 ~ 52 만원</span>
+			<strong class="ellip">빠른 시간 내에 집을 구할 수 있었습니다.</strong>
+			<p>uggggghjjjjkkkkkkjjhhh hjjjeefffgggggggttfffgfffffffffgg</p>
+			<a href="javascript:" class="btn_type2" onclick="openLp('#lp_layout_339')" style="display: ">더보기<span class="ico_comm_s arrow1"></span></a>	
+			<span class="info_wrap2">
+				<span><span class="ico_comm_s writer">작성자</span>shamscoltd***</span>
+				<span>2019.04.09</span>
+			</span>
+		</div>
+		<div class="profile1">
+			<strong>거래전담 공인중개사</strong>
+			<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2016/05/F20111110155351_photo03_non.jpg" border="0"></span>
+			<em class="info">
+				<span class="shop"><i class="ico_class c">C</i>한길공인</span>
+				<span class="juso"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20111110155351')" class="link_blue">서울특별시 마포구 도화동 2-342 외1필지 </a></span>
+				<span class="tel"><i class="ico_comm_s tel">tel</i>02)713 - 5554</span>
+				<a href="javascript:fnGoJunHome('F20111110155351')" class="btn_type1" title="새창">홈페이지</a>
+			</em>
+			<span class="like"><span class="ico_comm_s like2">공감</span>4</span>
+		</div>
+	</li>
+
+	<!-- 팝업바디 -->
+	<div id="lp_layout_339">
+		<div class="lp_wrap" style="width:700px;">
+			<div class="inner">
+				<div class="lp_con">
+					<div class="list_review">
+						<div class="in">
 							<span class="info_wrap2">
-								<span>아파트</span>
-								<span>매매</span>
-								<span>66 ~ 98㎡</span>
-								<span><span class="ico_comm_s writer">작성자</span>mintaroma86***</span><!--2017-10-30 작성자 날짜 조회수 추가-->
-                                <span>2019.04.08</span>								
+								<em><span class="ico_comm_s location5"></span>서울특별시 중구 회현동3가</em><span>사무실</span><span>월세</span><span>46/32㎡</span>
 							</span>
-						</strong>
-						<span class="in2"><span class="tag_comm type15">매매</span> <span class="txt">매수가 30,000 ~ 39,999만원</span></span>
-						<a href="/?_c=memul&amp;_m=HouseDetail&amp;mulcode=14455" class="more_type1" style="display: none" target="_blank">해당매물보기 <span class="ico_comm_s more1"> </span></a>					
+							<div class="info_wrap2">
+								보증금 518 만원 / 월세 52 ~ 52 만원
+							</div>
+							<!-- //2017.08.23 수정 -->
+							<strong>빠른 시간 내에 집을 구할 수 있었습니다.</strong>
+							<p>uggggghjjjjkkkkkkjjhhh hjjjeefffgggggggttfffgfffffffffgg</p>
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="info_wrap2"> -->
+							<span class="info_wrap1">
+							<!-- //2017.08.23 수정 -->
+								<span><span class="ico_comm_s writer">작성자</span>shamscoltd***</span>
+								<span>2019.04.09</span>
+							</span>
+						</div>
+						<div class="profile1">
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="thumb"><img src="https://placeholdit.imgix.net/~text?txtsize=30&amp;txt=110%C3%9762&amp;w=200&amp;h=100" alt=""></span>
+							<em class="info">
+								<span class="shop"><i class="ico_class p">P</i>한별공인</span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>031)1234-5678</span>
+								<a href="#" class="btn_type1">홈페이지</a>
+							</em>
+							<span class="like"><span class="ico_comm_s like2">공감</span>24</span> -->
+							<em class="title_s">거래전담 공인중개사</em>
+							<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2016/05/F20111110155351_photo03_non.jpg" border="0"></span>
+							<span class="info">
+								<span class="shop"><i class="ico_class c">C</i>한길공인</span>
+								<span class="address"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20111110155351')" class="link_blue">서울특별시 마포구 도화동 2-342 외1필지 </a></span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>02)713 - 5554</span>
+								<a href="javascript:fnGoJunHome('F20111110155351')" class="btn_type1" title="새창">홈페이지</a>
+								<a href="javascript:fnGoJunHomeMemul('F20111110155351')" class="btn_type1" target="_blank">매물보기</a>
+							</span>
+							<span class="like"><span class="ico_comm_s like2">공감</span>4</span>
+							<!-- //2017.08.23 수정 -->
+						</div>
+						<!-- 2017.08.23 추가 -->
+						<!--
+						<div class="btn_nav">
+							<button type="button"><span class="ico_comm_s pv_arrow4">이전 글</span></button>
+							<button type="button"><span class="ico_comm_s nx_arrow4">다음 글</span></button>
+						</div>
+						-->
+						<!-- //2017.08.23 추가 -->
 					</div>
-					<!--</a> -->	
-					<div class="s2"><p>거래희망 중개사무소가 선택되었습니다.</p><div class="slide_type4">	<div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 199px;"><ul style="width: 1215%; position: relative; transition-duration: 0s; transform: translate3d(-666px, 0px, 0px);"><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"></span>		<div class="txt">			<i class="ico_class p">P</i>JK부동산공인중개사무소<em>대표 : 이형숙 070 ) 4042 - 8950</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20180511163044')" class="link_blue">인천광역시 부평구 부평동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 0건</span><span>주택,상가,오피스텔</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20180511163044')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20180511163044', 'JK부동산공인중개사무소 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20180511163044')"> 매물보기</button>	</div></div><p>안녕하십니까? JK부동산공인중개사무소입니다.<br>고객님께서 2019.04.08에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>수도권 최대 중개네트워크 JK공인중개사무소 최팀장입니다. 중개업소 선택해주시면 매물의뢰 진행해드리겠습니다. 감사합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" aria-hidden="false"><div class="list_office">	<div class="cont">		<span class="thumb"></span>		<div class="txt">			<i class="ico_class p">P</i>JK부동산공인중개사무소<em>대표 : 이형숙 070 ) 4042 - 8950</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20180511163044')" class="link_blue">인천광역시 부평구 부평동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 0건</span><span>주택,상가,오피스텔</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20180511163044')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20180511163044', 'JK부동산공인중개사무소 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20180511163044')"> 매물보기</button>	</div></div><p>안녕하십니까? JK부동산공인중개사무소입니다.<br>고객님께서 2019.04.08에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>수도권 최대 중개네트워크 JK공인중개사무소 최팀장입니다. 중개업소 선택해주시면 매물의뢰 진행해드리겠습니다. 감사합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li>	<li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"></span>		<div class="txt">			<i class="ico_class p">P</i>JK부동산공인중개사무소<em>대표 : 이형숙 070 ) 4042 - 8950</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20180511163044')" class="link_blue">인천광역시 부평구 부평동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 0건</span><span>주택,상가,오피스텔</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20180511163044')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20180511163044', 'JK부동산공인중개사무소 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20180511163044')"> 매물보기</button>	</div></div><p>안녕하십니까? JK부동산공인중개사무소입니다.<br>고객님께서 2019.04.08에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>수도권 최대 중개네트워크 JK공인중개사무소 최팀장입니다. 중개업소 선택해주시면 매물의뢰 진행해드리겠습니다. 감사합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li></ul></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev disabled" href="">Prev</a><a class="bx-next disabled" href="">Next</a></div></div></div></div>	</div>					
-				</li>
+				</div>
+				<div class="lp_close">
+					<a href="#none" onclick="closeLp('#lp_layout_339')">닫기</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //팝업바디 -->
 	
-				<li class="">
-					<!-- <a href="/?_c=memul&_m=HouseDetail&mulcode=14445"> -->
-					<!--<a {매물상세링크}> -->
-					<div class="s1">
-						<strong class="in">
-							<span class="tag_comm type14">접수</span>
-							<span class="area"><span class="ico_comm_s location5">위치</span>경기도 용인시 죽전동 꽃메마을IPARK</span>
+	<li>
+		<div class="in">
+			<span class="area"><span class="ico_comm_s location5">위치</span>부산광역시 연제구 연산동</span>
+			<span class="info_wrap2">
+				<span>오피스텔</span><span>매매</span>
+			</span>
+			<span class="txt">매매가 205 ~ 210,000 만원</span>
+			<strong class="ellip">빠른 시간 내에 집을 팔 수 있었습니다.</strong>
+			<p> 물건수정할 내용이 있어서 매물 내립니다. 관심 가져주셔서 감사합니다 다시 매물 접수하도록 하겠습니다</p>
+			<a href="javascript:" class="btn_type2" onclick="openLp('#lp_layout_338')" style="display: ">더보기<span class="ico_comm_s arrow1"></span></a>	
+			<span class="info_wrap2">
+				<span><span class="ico_comm_s writer">작성자</span>donmungchi1***</span>
+				<span>2019.04.09</span>
+			</span>
+		</div>
+		<div class="profile1">
+			<strong>거래전담 공인중개사</strong>
+			<span class="thumb"></span>
+			<em class="info">
+				<span class="shop"><i class="ico_class c">C</i>조은공인중개사</span>
+				<span class="juso"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20190226164900')" class="link_blue">부산광역시 연제구 연산동 1143-4 11층 (연산동)</a></span>
+				<span class="tel"><i class="ico_comm_s tel">tel</i>010 - 2209 - 8830</span>
+				<a href="javascript:fnGoJunHome('F20190226164900')" class="btn_type1" title="새창">홈페이지</a>
+			</em>
+			<span class="like"><span class="ico_comm_s like2">공감</span>0</span>
+		</div>
+	</li>
+
+	<!-- 팝업바디 -->
+	<div id="lp_layout_338">
+		<div class="lp_wrap" style="width:700px;">
+			<div class="inner">
+				<div class="lp_con">
+					<div class="list_review">
+						<div class="in">
 							<span class="info_wrap2">
-								<span>아파트</span>
-								<span>매매</span>
-								<span>132 ~ 152㎡</span>
-								<span><span class="ico_comm_s writer">작성자</span>buraboman***</span><!--2017-10-30 작성자 날짜 조회수 추가-->
-                                <span>2019.04.04</span>								
+								<em><span class="ico_comm_s location5"></span>부산광역시 연제구 연산동</em><span>오피스텔</span><span>매매</span><span>62/46㎡</span>
 							</span>
-						</strong>
-						<span class="in2"><span class="tag_comm type15">매매</span> <span class="txt">매수가 46,000 ~ 48,000만원</span></span>
-						<a href="/?_c=memul&amp;_m=HouseDetail&amp;mulcode=14445" class="more_type1" style="display: none" target="_blank">해당매물보기 <span class="ico_comm_s more1"> </span></a>					
+							<div class="info_wrap2">
+								매매가 205 ~ 210,000 만원
+							</div>
+							<!-- //2017.08.23 수정 -->
+							<strong>빠른 시간 내에 집을 팔 수 있었습니다.</strong>
+							<p>물건수정할 내용이 있어서 매물 내립니다.
+관심 가져주셔서 감사합니다
+다시 매물 접수하도록 하겠습니다</p>
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="info_wrap2"> -->
+							<span class="info_wrap1">
+							<!-- //2017.08.23 수정 -->
+								<span><span class="ico_comm_s writer">작성자</span>donmungchi1***</span>
+								<span>2019.04.09</span>
+							</span>
+						</div>
+						<div class="profile1">
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="thumb"><img src="https://placeholdit.imgix.net/~text?txtsize=30&amp;txt=110%C3%9762&amp;w=200&amp;h=100" alt=""></span>
+							<em class="info">
+								<span class="shop"><i class="ico_class p">P</i>한별공인</span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>031)1234-5678</span>
+								<a href="#" class="btn_type1">홈페이지</a>
+							</em>
+							<span class="like"><span class="ico_comm_s like2">공감</span>24</span> -->
+							<em class="title_s">거래전담 공인중개사</em>
+							<span class="thumb"></span>
+							<span class="info">
+								<span class="shop"><i class="ico_class c">C</i>조은공인중개사</span>
+								<span class="address"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20190226164900')" class="link_blue">부산광역시 연제구 연산동 1143-4 11층 (연산동)</a></span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>010 - 2209 - 8830</span>
+								<a href="javascript:fnGoJunHome('F20190226164900')" class="btn_type1" title="새창">홈페이지</a>
+								<a href="javascript:fnGoJunHomeMemul('F20190226164900')" class="btn_type1" target="_blank">매물보기</a>
+							</span>
+							<span class="like"><span class="ico_comm_s like2">공감</span>0</span>
+							<!-- //2017.08.23 수정 -->
+						</div>
+						<!-- 2017.08.23 추가 -->
+						<!--
+						<div class="btn_nav">
+							<button type="button"><span class="ico_comm_s pv_arrow4">이전 글</span></button>
+							<button type="button"><span class="ico_comm_s nx_arrow4">다음 글</span></button>
+						</div>
+						-->
+						<!-- //2017.08.23 추가 -->
 					</div>
-					<!--</a> -->	
-					<div class="s2"><p>거래희망 중개사무소가 선택되었습니다.</p><div class="slide_type4">	<div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 199px;"><ul style="width: 1215%; position: relative; transition-duration: 0s; transform: translate3d(-666px, 0px, 0px);"><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/BrokersImagesSub/F20140508172646_photo_junmain_reg1.png" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>신촌부동산공인<em>대표 : 정희선 031 ) 898 - 2300</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20140508172646')" class="link_blue">경기도 용인시 보정동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 65건</span><span>아파트,상가,주택</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20140508172646')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20140508172646', '신촌부동산공인 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20140508172646')"> 매물보기</button>	</div></div><p>안녕하십니까? 신촌부동산공인입니다.<br>고객님께서 2019.04.04에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>저희 부동산으로 연락주시면 더욱 성심성의껏 최선을 다하겠습니다~<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" aria-hidden="false"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/BrokersImagesSub/F20140508172646_photo_junmain_reg1.png" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>신촌부동산공인<em>대표 : 정희선 031 ) 898 - 2300</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20140508172646')" class="link_blue">경기도 용인시 보정동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 65건</span><span>아파트,상가,주택</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20140508172646')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20140508172646', '신촌부동산공인 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20140508172646')"> 매물보기</button>	</div></div><p>안녕하십니까? 신촌부동산공인입니다.<br>고객님께서 2019.04.04에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>저희 부동산으로 연락주시면 더욱 성심성의껏 최선을 다하겠습니다~<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li>	<li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/BrokersImagesSub/F20140508172646_photo_junmain_reg1.png" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>신촌부동산공인<em>대표 : 정희선 031 ) 898 - 2300</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20140508172646')" class="link_blue">경기도 용인시 보정동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 65건</span><span>아파트,상가,주택</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20140508172646')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20140508172646', '신촌부동산공인 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20140508172646')"> 매물보기</button>	</div></div><p>안녕하십니까? 신촌부동산공인입니다.<br>고객님께서 2019.04.04에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>저희 부동산으로 연락주시면 더욱 성심성의껏 최선을 다하겠습니다~<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li></ul></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev disabled" href="">Prev</a><a class="bx-next disabled" href="">Next</a></div></div></div></div>	</div>					
-				</li>
+				</div>
+				<div class="lp_close">
+					<a href="#none" onclick="closeLp('#lp_layout_338')">닫기</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //팝업바디 -->
 	
-				<li class="">
-					<!-- <a href="/?_c=memul&_m=HouseDetail&mulcode=14443"> -->
-					<!--<a {매물상세링크}> -->
-					<div class="s1">
-						<strong class="in">
-							<span class="tag_comm type14">접수</span>
-							<span class="area"><span class="ico_comm_s location5">위치</span>대전광역시 유성구 원신흥동</span>
+	<li>
+		<div class="in">
+			<span class="area"><span class="ico_comm_s location5">위치</span>경기도 김포시 양촌읍</span>
+			<span class="info_wrap2">
+				<span>분양권</span><span>매매</span>
+			</span>
+			<span class="txt">매매가 2,916,000 ~ 2,950,000 만원</span>
+			<strong class="ellip">빠른 시간 내에 집을 구할 수 있었습니다.</strong>
+			<p>매물 올리고나서 연락이 금방왔습니다   좋은 가격에 거래가 잘 진행됐으면   좋겠네요</p>
+			<a href="javascript:" class="btn_type2" onclick="openLp('#lp_layout_337')" style="display: ">더보기<span class="ico_comm_s arrow1"></span></a>	
+			<span class="info_wrap2">
+				<span><span class="ico_comm_s writer">작성자</span>seokjae0203</span>
+				<span>2019.04.08</span>
+			</span>
+		</div>
+		<div class="profile1">
+			<strong>거래전담 공인중개사</strong>
+			<span class="thumb"></span>
+			<em class="info">
+				<span class="shop"><i class="ico_class c">C</i>현대아이파크공인</span>
+				<span class="juso"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20160526155158')" class="link_blue">경기도 김포시 사우동 878 제이팰리스 103호</a></span>
+				<span class="tel"><i class="ico_comm_s tel">tel</i>031)9911 - 114</span>
+				<a href="javascript:fnGoJunHome('F20160526155158')" class="btn_type1" title="새창">홈페이지</a>
+			</em>
+			<span class="like"><span class="ico_comm_s like2">공감</span>0</span>
+		</div>
+	</li>
+
+	<!-- 팝업바디 -->
+	<div id="lp_layout_337">
+		<div class="lp_wrap" style="width:700px;">
+			<div class="inner">
+				<div class="lp_con">
+					<div class="list_review">
+						<div class="in">
 							<span class="info_wrap2">
-								<span>원룸</span>
-								<span>전세</span>
-								<span>0 ~ 0㎡</span>
-								<span><span class="ico_comm_s writer">작성자</span>namyh358***</span><!--2017-10-30 작성자 날짜 조회수 추가-->
-                                <span>2019.04.03</span>								
+								<em><span class="ico_comm_s location5"></span>경기도 김포시 양촌읍</em><span>분양권</span><span>매매</span><span>99/77㎡</span>
 							</span>
-						</strong>
-						<span class="in2"><span class="tag_comm type15">전세</span> <span class="txt">전세가 0 ~ 10,000만원</span></span>
-						<a href="/?_c=memul&amp;_m=HouseDetail&amp;mulcode=14443" class="more_type1" style="display: none" target="_blank">해당매물보기 <span class="ico_comm_s more1"> </span></a>					
+							<div class="info_wrap2">
+								매매가 2,916,000 ~ 2,950,000 만원
+							</div>
+							<!-- //2017.08.23 수정 -->
+							<strong>빠른 시간 내에 집을 구할 수 있었습니다.</strong>
+							<p>매물 올리고나서 연락이 금방왔습니다   좋은 가격에 거래가 잘 진행됐으면   좋겠네요</p>
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="info_wrap2"> -->
+							<span class="info_wrap1">
+							<!-- //2017.08.23 수정 -->
+								<span><span class="ico_comm_s writer">작성자</span>seokjae0203</span>
+								<span>2019.04.08</span>
+							</span>
+						</div>
+						<div class="profile1">
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="thumb"><img src="https://placeholdit.imgix.net/~text?txtsize=30&amp;txt=110%C3%9762&amp;w=200&amp;h=100" alt=""></span>
+							<em class="info">
+								<span class="shop"><i class="ico_class p">P</i>한별공인</span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>031)1234-5678</span>
+								<a href="#" class="btn_type1">홈페이지</a>
+							</em>
+							<span class="like"><span class="ico_comm_s like2">공감</span>24</span> -->
+							<em class="title_s">거래전담 공인중개사</em>
+							<span class="thumb"></span>
+							<span class="info">
+								<span class="shop"><i class="ico_class c">C</i>현대아이파크공인</span>
+								<span class="address"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20160526155158')" class="link_blue">경기도 김포시 사우동 878 제이팰리스 103호</a></span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>031)9911 - 114</span>
+								<a href="javascript:fnGoJunHome('F20160526155158')" class="btn_type1" title="새창">홈페이지</a>
+								<a href="javascript:fnGoJunHomeMemul('F20160526155158')" class="btn_type1" target="_blank">매물보기</a>
+							</span>
+							<span class="like"><span class="ico_comm_s like2">공감</span>0</span>
+							<!-- //2017.08.23 수정 -->
+						</div>
+						<!-- 2017.08.23 추가 -->
+						<!--
+						<div class="btn_nav">
+							<button type="button"><span class="ico_comm_s pv_arrow4">이전 글</span></button>
+							<button type="button"><span class="ico_comm_s nx_arrow4">다음 글</span></button>
+						</div>
+						-->
+						<!-- //2017.08.23 추가 -->
 					</div>
-					<!--</a> -->	
-					<div class="s2"><p>거래희망 중개사무소가 선택되었습니다.</p><div class="slide_type4">	<div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 180px;"><ul style="width: 1215%; position: relative; transition-duration: 0s; transform: translate3d(-666px, 0px, 0px);"><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2019/03/F20190108172345_photo02_np.jpg" border="0"></span>		<div class="txt">			<i class="ico_class c">C</i>반석원공인중개사사무소<em>대표 : 이현중 042 ) 823 - 3900</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20190108172345')" class="link_blue">대전광역시 유성구 반석동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 8건</span><span>상가,사무실</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20190108172345')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20190108172345', '반석원공인중개사사무소 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20190108172345')"> 매물보기</button>	</div></div><p>안녕하십니까? 반석원공인중개사사무소입니다.<br>고객님께서 2019.04.03에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" aria-hidden="false"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2019/03/F20190108172345_photo02_np.jpg" border="0"></span>		<div class="txt">			<i class="ico_class c">C</i>반석원공인중개사사무소<em>대표 : 이현중 042 ) 823 - 3900</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20190108172345')" class="link_blue">대전광역시 유성구 반석동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 8건</span><span>상가,사무실</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20190108172345')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20190108172345', '반석원공인중개사사무소 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20190108172345')"> 매물보기</button>	</div></div><p>안녕하십니까? 반석원공인중개사사무소입니다.<br>고객님께서 2019.04.03에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li>	<li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2019/03/F20190108172345_photo02_np.jpg" border="0"></span>		<div class="txt">			<i class="ico_class c">C</i>반석원공인중개사사무소<em>대표 : 이현중 042 ) 823 - 3900</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20190108172345')" class="link_blue">대전광역시 유성구 반석동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 8건</span><span>상가,사무실</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20190108172345')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20190108172345', '반석원공인중개사사무소 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20190108172345')"> 매물보기</button>	</div></div><p>안녕하십니까? 반석원공인중개사사무소입니다.<br>고객님께서 2019.04.03에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li></ul></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev disabled" href="">Prev</a><a class="bx-next disabled" href="">Next</a></div></div></div></div>	</div>					
-				</li>
+				</div>
+				<div class="lp_close">
+					<a href="#none" onclick="closeLp('#lp_layout_337')">닫기</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //팝업바디 -->
 	
-				<li class="">
-					<!-- <a href="/?_c=memul&_m=HouseDetail&mulcode=14442"> -->
-					<!--<a {매물상세링크}> -->
-					<div class="s1">
-						<strong class="in">
-							<span class="tag_comm type14">접수</span>
-							<span class="area"><span class="ico_comm_s location5">위치</span>경기도 수원시 권선동 한양</span>
+	<li>
+		<div class="in">
+			<span class="area"><span class="ico_comm_s location5">위치</span>강원도 횡성군 안흥면</span>
+			<span class="info_wrap2">
+				<span>토지</span><span>매매</span>
+			</span>
+			<span class="txt">매매가 4,900 ~ 4,900 만원</span>
+			<strong class="ellip">OK</strong>
+			<p>OKerrr ghhj bbbn  hhgff ffgh ooptew6 hhjjbbnnn jjggg hbhff hhfg  qweqd hjjbh hffvbj</p>
+			<a href="javascript:" class="btn_type2" onclick="openLp('#lp_layout_336')" style="display: ">더보기<span class="ico_comm_s arrow1"></span></a>	
+			<span class="info_wrap2">
+				<span><span class="ico_comm_s writer">작성자</span>m821371***</span>
+				<span>2019.04.07</span>
+			</span>
+		</div>
+		<div class="profile1">
+			<strong>거래전담 공인중개사</strong>
+			<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2017/08/F09182258000010_photo03_non.jpg" border="0"></span>
+			<em class="info">
+				<span class="shop"><i class="ico_class c">C</i>엉클과금여사공인</span>
+				<span class="juso"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F09182258000010')" class="link_blue">강원도 횡성군 횡성읍 311 </a></span>
+				<span class="tel"><i class="ico_comm_s tel">tel</i>033)344 - 0004</span>
+				<a href="javascript:fnGoJunHome('F09182258000010')" class="btn_type1" title="새창">홈페이지</a>
+			</em>
+			<span class="like"><span class="ico_comm_s like2">공감</span>0</span>
+		</div>
+	</li>
+
+	<!-- 팝업바디 -->
+	<div id="lp_layout_336">
+		<div class="lp_wrap" style="width:700px;">
+			<div class="inner">
+				<div class="lp_con">
+					<div class="list_review">
+						<div class="in">
 							<span class="info_wrap2">
-								<span>아파트</span>
-								<span>전세</span>
-								<span>49 ~ 82㎡</span>
-								<span><span class="ico_comm_s writer">작성자</span>dkwl237</span><!--2017-10-30 작성자 날짜 조회수 추가-->
-                                <span>2019.04.03</span>								
+								<em><span class="ico_comm_s location5"></span>강원도 횡성군 안흥면</em><span>토지</span><span>매매</span><span>805㎡</span>
 							</span>
-						</strong>
-						<span class="in2"><span class="tag_comm type15">전세</span> <span class="txt">전세가 0 ~ 12,000만원</span></span>
-						<a href="/?_c=memul&amp;_m=HouseDetail&amp;mulcode=14442" class="more_type1" style="display: none" target="_blank">해당매물보기 <span class="ico_comm_s more1"> </span></a>					
+							<div class="info_wrap2">
+								매매가 4,900 ~ 4,900 만원
+							</div>
+							<!-- //2017.08.23 수정 -->
+							<strong>OK</strong>
+							<p>OKerrr ghhj bbbn  hhgff ffgh ooptew6 hhjjbbnnn jjggg hbhff hhfg  qweqd hjjbh hffvbj</p>
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="info_wrap2"> -->
+							<span class="info_wrap1">
+							<!-- //2017.08.23 수정 -->
+								<span><span class="ico_comm_s writer">작성자</span>m821371***</span>
+								<span>2019.04.07</span>
+							</span>
+						</div>
+						<div class="profile1">
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="thumb"><img src="https://placeholdit.imgix.net/~text?txtsize=30&amp;txt=110%C3%9762&amp;w=200&amp;h=100" alt=""></span>
+							<em class="info">
+								<span class="shop"><i class="ico_class p">P</i>한별공인</span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>031)1234-5678</span>
+								<a href="#" class="btn_type1">홈페이지</a>
+							</em>
+							<span class="like"><span class="ico_comm_s like2">공감</span>24</span> -->
+							<em class="title_s">거래전담 공인중개사</em>
+							<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2017/08/F09182258000010_photo03_non.jpg" border="0"></span>
+							<span class="info">
+								<span class="shop"><i class="ico_class c">C</i>엉클과금여사공인</span>
+								<span class="address"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F09182258000010')" class="link_blue">강원도 횡성군 횡성읍 311 </a></span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>033)344 - 0004</span>
+								<a href="javascript:fnGoJunHome('F09182258000010')" class="btn_type1" title="새창">홈페이지</a>
+								<a href="javascript:fnGoJunHomeMemul('F09182258000010')" class="btn_type1" target="_blank">매물보기</a>
+							</span>
+							<span class="like"><span class="ico_comm_s like2">공감</span>0</span>
+							<!-- //2017.08.23 수정 -->
+						</div>
+						<!-- 2017.08.23 추가 -->
+						<!--
+						<div class="btn_nav">
+							<button type="button"><span class="ico_comm_s pv_arrow4">이전 글</span></button>
+							<button type="button"><span class="ico_comm_s nx_arrow4">다음 글</span></button>
+						</div>
+						-->
+						<!-- //2017.08.23 추가 -->
 					</div>
-					<!--</a> -->	
-					<div class="s2"><p>거래희망 중개사무소가 선택되었습니다.</p><div class="slide_type4">	<div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 180px;"><ul style="width: 1215%; position: relative; transition-duration: 0s; transform: translate3d(-666px, 0px, 0px);"><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2018/06/F02104413900047_photo03_non.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>대신공인<em>대표 : 왕예숙 031 ) 232 - 3337</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F02104413900047')" class="link_blue">경기도 수원시 권선동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 60건</span><span>아파트,상가,주택</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F02104413900047')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F02104413900047', '대신공인 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F02104413900047')"> 매물보기</button>	</div></div><p>안녕하십니까? 대신공인입니다.<br>고객님께서 2019.04.03에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" aria-hidden="false"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2018/06/F02104413900047_photo03_non.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>대신공인<em>대표 : 왕예숙 031 ) 232 - 3337</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F02104413900047')" class="link_blue">경기도 수원시 권선동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 60건</span><span>아파트,상가,주택</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F02104413900047')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F02104413900047', '대신공인 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F02104413900047')"> 매물보기</button>	</div></div><p>안녕하십니까? 대신공인입니다.<br>고객님께서 2019.04.03에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li>	<li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2018/06/F02104413900047_photo03_non.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>대신공인<em>대표 : 왕예숙 031 ) 232 - 3337</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F02104413900047')" class="link_blue">경기도 수원시 권선동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 60건</span><span>아파트,상가,주택</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F02104413900047')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F02104413900047', '대신공인 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F02104413900047')"> 매물보기</button>	</div></div><p>안녕하십니까? 대신공인입니다.<br>고객님께서 2019.04.03에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li></ul></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev disabled" href="">Prev</a><a class="bx-next disabled" href="">Next</a></div></div></div></div>	</div>					
-				</li>
+				</div>
+				<div class="lp_close">
+					<a href="#none" onclick="closeLp('#lp_layout_336')">닫기</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //팝업바디 -->
 	
-				<li class="">
-					<!-- <a href="/?_c=memul&_m=HouseDetail&mulcode=14440"> -->
-					<!--<a {매물상세링크}> -->
-					<div class="s1">
-						<strong class="in">
-							<span class="tag_comm type14">접수</span>
-							<span class="area"><span class="ico_comm_s location5">위치</span>경기도 평택시 합정동</span>
+	<li>
+		<div class="in">
+			<span class="area"><span class="ico_comm_s location5">위치</span>서울특별시 금천구 가산동</span>
+			<span class="info_wrap2">
+				<span>사무실</span><span>월세</span>
+			</span>
+			<span class="txt">보증금 500 만원 / 월세 40 ~ 40 만원</span>
+			<strong class="ellip">빠른 시간 내에 집을 팔 수 있었습니다.</strong>
+			<p> 코오롱 공인 중개사의 좋은 사장님을 통해 거래가 잘 이루어졌습니다.  다음에도 계속 잘 부탁드리겠습니다.</p>
+			<a href="javascript:" class="btn_type2" onclick="openLp('#lp_layout_335')" style="display: ">더보기<span class="ico_comm_s arrow1"></span></a>	
+			<span class="info_wrap2">
+				<span><span class="ico_comm_s writer">작성자</span>choyoseop***</span>
+				<span>2019.04.05</span>
+			</span>
+		</div>
+		<div class="profile1">
+			<strong>거래전담 공인중개사</strong>
+			<span class="thumb"></span>
+			<em class="info">
+				<span class="shop"><i class="ico_class c">C</i>코오롱공인</span>
+				<span class="juso"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20150416113510')" class="link_blue">서울특별시 금천구 가산동 60-4 코오롱테크노 벨리 110호</a></span>
+				<span class="tel"><i class="ico_comm_s tel">tel</i>02)865 - 4100</span>
+				<a href="javascript:fnGoJunHome('F20150416113510')" class="btn_type1" title="새창">홈페이지</a>
+			</em>
+			<span class="like"><span class="ico_comm_s like2">공감</span>1</span>
+		</div>
+	</li>
+
+	<!-- 팝업바디 -->
+	<div id="lp_layout_335">
+		<div class="lp_wrap" style="width:700px;">
+			<div class="inner">
+				<div class="lp_con">
+					<div class="list_review">
+						<div class="in">
 							<span class="info_wrap2">
-								<span>연립빌라다세대</span>
-								<span>전세</span>
-								<span>82 ~ 82㎡</span>
-								<span><span class="ico_comm_s writer">작성자</span>zzalsdn90***</span><!--2017-10-30 작성자 날짜 조회수 추가-->
-                                <span>2019.04.03</span>								
+								<em><span class="ico_comm_s location5"></span>서울특별시 금천구 가산동</em><span>사무실</span><span>월세</span><span>23㎡</span>
 							</span>
-						</strong>
-						<span class="in2"><span class="tag_comm type15">전세</span> <span class="txt">전세가 12,000 ~ 12,000만원</span></span>
-						<a href="/?_c=memul&amp;_m=HouseDetail&amp;mulcode=14440" class="more_type1" style="display: none" target="_blank">해당매물보기 <span class="ico_comm_s more1"> </span></a>					
+							<div class="info_wrap2">
+								보증금 500 만원 / 월세 40 ~ 40 만원
+							</div>
+							<!-- //2017.08.23 수정 -->
+							<strong>빠른 시간 내에 집을 팔 수 있었습니다.</strong>
+							<p>코오롱 공인 중개사의 좋은 사장님을 통해 거래가 잘 이루어졌습니다. 
+다음에도 계속 잘 부탁드리겠습니다.</p>
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="info_wrap2"> -->
+							<span class="info_wrap1">
+							<!-- //2017.08.23 수정 -->
+								<span><span class="ico_comm_s writer">작성자</span>choyoseop***</span>
+								<span>2019.04.05</span>
+							</span>
+						</div>
+						<div class="profile1">
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="thumb"><img src="https://placeholdit.imgix.net/~text?txtsize=30&amp;txt=110%C3%9762&amp;w=200&amp;h=100" alt=""></span>
+							<em class="info">
+								<span class="shop"><i class="ico_class p">P</i>한별공인</span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>031)1234-5678</span>
+								<a href="#" class="btn_type1">홈페이지</a>
+							</em>
+							<span class="like"><span class="ico_comm_s like2">공감</span>24</span> -->
+							<em class="title_s">거래전담 공인중개사</em>
+							<span class="thumb"></span>
+							<span class="info">
+								<span class="shop"><i class="ico_class c">C</i>코오롱공인</span>
+								<span class="address"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20150416113510')" class="link_blue">서울특별시 금천구 가산동 60-4 코오롱테크노 벨리 110호</a></span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>02)865 - 4100</span>
+								<a href="javascript:fnGoJunHome('F20150416113510')" class="btn_type1" title="새창">홈페이지</a>
+								<a href="javascript:fnGoJunHomeMemul('F20150416113510')" class="btn_type1" target="_blank">매물보기</a>
+							</span>
+							<span class="like"><span class="ico_comm_s like2">공감</span>1</span>
+							<!-- //2017.08.23 수정 -->
+						</div>
+						<!-- 2017.08.23 추가 -->
+						<!--
+						<div class="btn_nav">
+							<button type="button"><span class="ico_comm_s pv_arrow4">이전 글</span></button>
+							<button type="button"><span class="ico_comm_s nx_arrow4">다음 글</span></button>
+						</div>
+						-->
+						<!-- //2017.08.23 추가 -->
 					</div>
-					<!--</a> -->	
-					<div class="s2"><p>거래희망 중개사무소가 선택되었습니다.</p><div class="slide_type4">	<div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 218px;"><ul style="width: 1215%; position: relative; transition-duration: 0s; transform: translate3d(-666px, 0px, 0px);"><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2019/03/F20141126130230_photo03_non.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>박사공인중개사<em>대표 : 박화숙 010 - 2090 - 3290</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20141126130230')" class="link_blue">경기도 평택시 용이동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 156건</span><span>주택,토지,상가건물</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20141126130230')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20141126130230', '박사공인중개사 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20141126130230')"> 매물보기</button>	</div></div><p>안녕하십니까? 박사공인중개사입니다.<br>고객님께서 2019.04.03에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>전화번호를 문자로 주셔봐요<br> 010-2090-3290<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" aria-hidden="false"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2019/03/F20141126130230_photo03_non.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>박사공인중개사<em>대표 : 박화숙 010 - 2090 - 3290</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20141126130230')" class="link_blue">경기도 평택시 용이동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 156건</span><span>주택,토지,상가건물</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20141126130230')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20141126130230', '박사공인중개사 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20141126130230')"> 매물보기</button>	</div></div><p>안녕하십니까? 박사공인중개사입니다.<br>고객님께서 2019.04.03에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>전화번호를 문자로 주셔봐요<br> 010-2090-3290<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li>	<li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2019/03/F20141126130230_photo03_non.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>박사공인중개사<em>대표 : 박화숙 010 - 2090 - 3290</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20141126130230')" class="link_blue">경기도 평택시 용이동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 156건</span><span>주택,토지,상가건물</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20141126130230')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20141126130230', '박사공인중개사 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20141126130230')"> 매물보기</button>	</div></div><p>안녕하십니까? 박사공인중개사입니다.<br>고객님께서 2019.04.03에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>전화번호를 문자로 주셔봐요<br> 010-2090-3290<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li></ul></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev disabled" href="">Prev</a><a class="bx-next disabled" href="">Next</a></div></div></div></div>	</div>					
-				</li>
+				</div>
+				<div class="lp_close">
+					<a href="#none" onclick="closeLp('#lp_layout_335')">닫기</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //팝업바디 -->
 	
-				<li class="">
-					<!-- <a href="/?_c=memul&_m=HouseDetail&mulcode=14438"> -->
-					<!--<a {매물상세링크}> -->
-					<div class="s1">
-						<strong class="in">
-							<span class="tag_comm type14">접수</span>
-							<span class="area"><span class="ico_comm_s location5">위치</span>인천광역시 연수구 송도동 송도더샵퍼스트월드2차</span>
+	<li>
+		<div class="in">
+			<span class="area"><span class="ico_comm_s location5">위치</span>부산광역시 북구 금곡동</span>
+			<span class="info_wrap2">
+				<span>상가</span><span>매매</span>
+			</span>
+			<span class="txt">매매가 170,000 ~ 170,000 만원</span>
+			<strong class="ellip">빠른 시간 내에 집을 구할 수 있었습니다.</strong>
+			<p></p>
+			<a href="javascript:" class="btn_type2" onclick="openLp('#lp_layout_334')" style="display: ">더보기<span class="ico_comm_s arrow1"></span></a>	
+			<span class="info_wrap2">
+				<span><span class="ico_comm_s writer">작성자</span>inokpark1980***</span>
+				<span>2019.04.04</span>
+			</span>
+		</div>
+		<div class="profile1">
+			<strong>거래전담 공인중개사</strong>
+			<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2019/03/F20180124170638_photo03_non.jpg" border="0"></span>
+			<em class="info">
+				<span class="shop"><i class="ico_class p">P</i>명인부동산중개사무소</span>
+				<span class="juso"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20180124170638')" class="link_blue">부산광역시 부산진구 부전동 260-59 2동 203호</a></span>
+				<span class="tel"><i class="ico_comm_s tel">tel</i>010 - 4336 - 3971</span>
+				<a href="javascript:fnGoJunHome('F20180124170638')" class="btn_type1" title="새창">홈페이지</a>
+			</em>
+			<span class="like"><span class="ico_comm_s like2">공감</span>0</span>
+		</div>
+	</li>
+
+	<!-- 팝업바디 -->
+	<div id="lp_layout_334">
+		<div class="lp_wrap" style="width:700px;">
+			<div class="inner">
+				<div class="lp_con">
+					<div class="list_review">
+						<div class="in">
 							<span class="info_wrap2">
-								<span>오피스텔</span>
-								<span>전세</span>
-								<span>15 ~ 85㎡</span>
-								<span><span class="ico_comm_s writer">작성자</span>날씨좋다</span><!--2017-10-30 작성자 날짜 조회수 추가-->
-                                <span>2019.04.02</span>								
+								<em><span class="ico_comm_s location5"></span>부산광역시 북구 금곡동</em><span>상가</span><span>매매</span><span>449/1,355㎡</span>
 							</span>
-						</strong>
-						<span class="in2"><span class="tag_comm type15">전세</span> <span class="txt">전세가 1,000 ~ 10,000만원</span></span>
-						<a href="/?_c=memul&amp;_m=HouseDetail&amp;mulcode=14438" class="more_type1" style="display: none" target="_blank">해당매물보기 <span class="ico_comm_s more1"> </span></a>					
+							<div class="info_wrap2">
+								매매가 170,000 ~ 170,000 만원
+							</div>
+							<!-- //2017.08.23 수정 -->
+							<strong>빠른 시간 내에 집을 구할 수 있었습니다.</strong>
+							<p></p>
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="info_wrap2"> -->
+							<span class="info_wrap1">
+							<!-- //2017.08.23 수정 -->
+								<span><span class="ico_comm_s writer">작성자</span>inokpark1980***</span>
+								<span>2019.04.04</span>
+							</span>
+						</div>
+						<div class="profile1">
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="thumb"><img src="https://placeholdit.imgix.net/~text?txtsize=30&amp;txt=110%C3%9762&amp;w=200&amp;h=100" alt=""></span>
+							<em class="info">
+								<span class="shop"><i class="ico_class p">P</i>한별공인</span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>031)1234-5678</span>
+								<a href="#" class="btn_type1">홈페이지</a>
+							</em>
+							<span class="like"><span class="ico_comm_s like2">공감</span>24</span> -->
+							<em class="title_s">거래전담 공인중개사</em>
+							<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2019/03/F20180124170638_photo03_non.jpg" border="0"></span>
+							<span class="info">
+								<span class="shop"><i class="ico_class p">P</i>명인부동산중개사무소</span>
+								<span class="address"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20180124170638')" class="link_blue">부산광역시 부산진구 부전동 260-59 2동 203호</a></span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>010 - 4336 - 3971</span>
+								<a href="javascript:fnGoJunHome('F20180124170638')" class="btn_type1" title="새창">홈페이지</a>
+								<a href="javascript:fnGoJunHomeMemul('F20180124170638')" class="btn_type1" target="_blank">매물보기</a>
+							</span>
+							<span class="like"><span class="ico_comm_s like2">공감</span>0</span>
+							<!-- //2017.08.23 수정 -->
+						</div>
+						<!-- 2017.08.23 추가 -->
+						<!--
+						<div class="btn_nav">
+							<button type="button"><span class="ico_comm_s pv_arrow4">이전 글</span></button>
+							<button type="button"><span class="ico_comm_s nx_arrow4">다음 글</span></button>
+						</div>
+						-->
+						<!-- //2017.08.23 추가 -->
 					</div>
-					<!--</a> -->	
-					<div class="s2"><p>거래희망 중개사무소가 선택되었습니다.</p><div class="slide_type4">	<div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 180px;"><ul style="width: 1215%; position: relative; transition-duration: 0s; transform: translate3d(-666px, 0px, 0px);"><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2017/02/F20161102151931_photo03_non.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>송도나라공인중개사사무소<em>대표 : 양현주 032 ) 811 - 8001</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20161102151931')" class="link_blue">인천광역시 연수구 송도동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 183건</span><span>상가,아파트,오피스텔</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20161102151931')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20161102151931', '송도나라공인중개사사무소 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20161102151931')"> 매물보기</button>	</div></div><p>안녕하십니까? 송도나라공인중개사사무소입니다.<br>고객님께서 2019.04.02에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" aria-hidden="false"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2017/02/F20161102151931_photo03_non.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>송도나라공인중개사사무소<em>대표 : 양현주 032 ) 811 - 8001</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20161102151931')" class="link_blue">인천광역시 연수구 송도동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 183건</span><span>상가,아파트,오피스텔</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20161102151931')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20161102151931', '송도나라공인중개사사무소 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20161102151931')"> 매물보기</button>	</div></div><p>안녕하십니까? 송도나라공인중개사사무소입니다.<br>고객님께서 2019.04.02에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li>	<li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2017/02/F20161102151931_photo03_non.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>송도나라공인중개사사무소<em>대표 : 양현주 032 ) 811 - 8001</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20161102151931')" class="link_blue">인천광역시 연수구 송도동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 183건</span><span>상가,아파트,오피스텔</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20161102151931')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20161102151931', '송도나라공인중개사사무소 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20161102151931')"> 매물보기</button>	</div></div><p>안녕하십니까? 송도나라공인중개사사무소입니다.<br>고객님께서 2019.04.02에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li></ul></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev disabled" href="">Prev</a><a class="bx-next disabled" href="">Next</a></div></div></div></div>	</div>					
-				</li>
+				</div>
+				<div class="lp_close">
+					<a href="#none" onclick="closeLp('#lp_layout_334')">닫기</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //팝업바디 -->
 	
-				<li class="">
-					<!-- <a href="/?_c=memul&_m=HouseDetail&mulcode=14437"> -->
-					<!--<a {매물상세링크}> -->
-					<div class="s1">
-						<strong class="in">
-							<span class="tag_comm type14">접수</span>
-							<span class="area"><span class="ico_comm_s location5">위치</span>경기도 성남시 수진동</span>
+	<li>
+		<div class="in">
+			<span class="area"><span class="ico_comm_s location5">위치</span>강원도 정선군 신동읍</span>
+			<span class="info_wrap2">
+				<span>토지</span><span>매매</span>
+			</span>
+			<span class="txt">매매가 21,000 ~ 21,000 만원</span>
+			<strong class="ellip">조건에 맞는 좋은 집을 찾았습니다.</strong>
+			<p> 사장님이 친절하게 답해주시네요   조목조목 따져서 말해주신고요
+ 또 질문도 꼼꼼 하게 해주시고요</p>
+			<a href="javascript:" class="btn_type2" onclick="openLp('#lp_layout_333')" style="display: ">더보기<span class="ico_comm_s arrow1"></span></a>	
+			<span class="info_wrap2">
+				<span><span class="ico_comm_s writer">작성자</span>kiss0208***</span>
+				<span>2019.04.04</span>
+			</span>
+		</div>
+		<div class="profile1">
+			<strong>거래전담 공인중개사</strong>
+			<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2016/05/F20160426105241_photo03_non.jpg" border="0"></span>
+			<em class="info">
+				<span class="shop"><i class="ico_class c">C</i>강남공인중개사사무소</span>
+				<span class="juso"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20160426105241')" class="link_blue">서울특별시 서초구 서초동 1315 1층33호</a></span>
+				<span class="tel"><i class="ico_comm_s tel">tel</i>02)533 - 3365</span>
+				<a href="javascript:fnGoJunHome('F20160426105241')" class="btn_type1" title="새창">홈페이지</a>
+			</em>
+			<span class="like"><span class="ico_comm_s like2">공감</span>3</span>
+		</div>
+	</li>
+
+	<!-- 팝업바디 -->
+	<div id="lp_layout_333">
+		<div class="lp_wrap" style="width:700px;">
+			<div class="inner">
+				<div class="lp_con">
+					<div class="list_review">
+						<div class="in">
 							<span class="info_wrap2">
-								<span>단독다가구</span>
-								<span>매매</span>
-								<span>132 ~ 164㎡</span>
-								<span><span class="ico_comm_s writer">작성자</span>eunyoung4001***</span><!--2017-10-30 작성자 날짜 조회수 추가-->
-                                <span>2019.04.01</span>								
+								<em><span class="ico_comm_s location5"></span>강원도 정선군 신동읍</em><span>토지</span><span>매매</span><span>4,628㎡</span>
 							</span>
-						</strong>
-						<span class="in2"><span class="tag_comm type15">매매</span> <span class="txt">매수가 30,000 ~ 39,999만원</span></span>
-						<a href="/?_c=memul&amp;_m=HouseDetail&amp;mulcode=14437" class="more_type1" style="display: none" target="_blank">해당매물보기 <span class="ico_comm_s more1"> </span></a>					
+							<div class="info_wrap2">
+								매매가 21,000 ~ 21,000 만원
+							</div>
+							<!-- //2017.08.23 수정 -->
+							<strong>조건에 맞는 좋은 집을 찾았습니다.</strong>
+							<p>사장님이 친절하게 답해주시네요   조목조목 따져서 말해주신고요
+또 질문도 꼼꼼 하게 해주시고요</p>
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="info_wrap2"> -->
+							<span class="info_wrap1">
+							<!-- //2017.08.23 수정 -->
+								<span><span class="ico_comm_s writer">작성자</span>kiss0208***</span>
+								<span>2019.04.04</span>
+							</span>
+						</div>
+						<div class="profile1">
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="thumb"><img src="https://placeholdit.imgix.net/~text?txtsize=30&amp;txt=110%C3%9762&amp;w=200&amp;h=100" alt=""></span>
+							<em class="info">
+								<span class="shop"><i class="ico_class p">P</i>한별공인</span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>031)1234-5678</span>
+								<a href="#" class="btn_type1">홈페이지</a>
+							</em>
+							<span class="like"><span class="ico_comm_s like2">공감</span>24</span> -->
+							<em class="title_s">거래전담 공인중개사</em>
+							<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2016/05/F20160426105241_photo03_non.jpg" border="0"></span>
+							<span class="info">
+								<span class="shop"><i class="ico_class c">C</i>강남공인중개사사무소</span>
+								<span class="address"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20160426105241')" class="link_blue">서울특별시 서초구 서초동 1315 1층33호</a></span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>02)533 - 3365</span>
+								<a href="javascript:fnGoJunHome('F20160426105241')" class="btn_type1" title="새창">홈페이지</a>
+								<a href="javascript:fnGoJunHomeMemul('F20160426105241')" class="btn_type1" target="_blank">매물보기</a>
+							</span>
+							<span class="like"><span class="ico_comm_s like2">공감</span>3</span>
+							<!-- //2017.08.23 수정 -->
+						</div>
+						<!-- 2017.08.23 추가 -->
+						<!--
+						<div class="btn_nav">
+							<button type="button"><span class="ico_comm_s pv_arrow4">이전 글</span></button>
+							<button type="button"><span class="ico_comm_s nx_arrow4">다음 글</span></button>
+						</div>
+						-->
+						<!-- //2017.08.23 추가 -->
 					</div>
-					<!--</a> -->	
-					<div class="s2"><p>거래희망 중개사무소가 선택되었습니다.</p><div class="slide_type4">	<div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 275px;"><ul style="width: 1215%; position: relative; transition-duration: 0s; transform: translate3d(-666px, 0px, 0px);"><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2015/01/F20121217113346_photo03_non.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>수진역성일(단지내)부동산<em>대표 : 정옥경 031 ) 756 - 5400</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20121217113346')" class="link_blue">경기도 성남시 성남동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 114건</span><span>상가,오피스텔,주택</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20121217113346')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20121217113346', '수진역성일(단지내)부동산 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20121217113346')"> 매물보기</button>	</div></div><p>안녕하십니까? 수진역성일(단지내)부동산입니다.<br>고객님께서 2019.04.01에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>수진역성일단지내 부동산입니다. <br>수진1동 주택 19.1평 41500 전세 13000-월세35안고매매<br>신흥1동 20.5평 39500 보21200월세 30안고 <br>매매 있습니다.다 올수리 된집<br>연락주세요.010-9018-9720<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" aria-hidden="false"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2015/01/F20121217113346_photo03_non.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>수진역성일(단지내)부동산<em>대표 : 정옥경 031 ) 756 - 5400</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20121217113346')" class="link_blue">경기도 성남시 성남동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 114건</span><span>상가,오피스텔,주택</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20121217113346')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20121217113346', '수진역성일(단지내)부동산 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20121217113346')"> 매물보기</button>	</div></div><p>안녕하십니까? 수진역성일(단지내)부동산입니다.<br>고객님께서 2019.04.01에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>수진역성일단지내 부동산입니다. <br>수진1동 주택 19.1평 41500 전세 13000-월세35안고매매<br>신흥1동 20.5평 39500 보21200월세 30안고 <br>매매 있습니다.다 올수리 된집<br>연락주세요.010-9018-9720<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li>	<li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2015/01/F20121217113346_photo03_non.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>수진역성일(단지내)부동산<em>대표 : 정옥경 031 ) 756 - 5400</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20121217113346')" class="link_blue">경기도 성남시 성남동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 114건</span><span>상가,오피스텔,주택</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20121217113346')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20121217113346', '수진역성일(단지내)부동산 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20121217113346')"> 매물보기</button>	</div></div><p>안녕하십니까? 수진역성일(단지내)부동산입니다.<br>고객님께서 2019.04.01에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>수진역성일단지내 부동산입니다. <br>수진1동 주택 19.1평 41500 전세 13000-월세35안고매매<br>신흥1동 20.5평 39500 보21200월세 30안고 <br>매매 있습니다.다 올수리 된집<br>연락주세요.010-9018-9720<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li></ul></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev disabled" href="">Prev</a><a class="bx-next disabled" href="">Next</a></div></div></div></div>	</div>					
-				</li>
+				</div>
+				<div class="lp_close">
+					<a href="#none" onclick="closeLp('#lp_layout_333')">닫기</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //팝업바디 -->
 	
-				<li class="">
-					<!-- <a href="/?_c=memul&_m=HouseDetail&mulcode=14436"> -->
-					<!--<a {매물상세링크}> -->
-					<div class="s1">
-						<strong class="in">
-							<span class="tag_comm type14">접수</span>
-							<span class="area"><span class="ico_comm_s location5">위치</span>서울특별시 송파구 석촌동</span>
+	<li>
+		<div class="in">
+			<span class="area"><span class="ico_comm_s location5">위치</span>대구광역시 달서구 이곡동</span>
+			<span class="info_wrap2">
+				<span>원룸</span><span>월세</span>
+			</span>
+			<span class="txt">보증금 500 만원 / 월세 43 ~ 45 만원</span>
+			<strong class="ellip">거래완료 되었습니다</strong>
+			<p> 부동산을 통하여 중개 거래완료 되었습니다 
+   감사합니다  부동산114 많은사람들에 알려져
+   사업이번창하기를 기원합니다   다시한번 감사 드립니다ㆍ
+ </p>
+			<a href="javascript:" class="btn_type2" onclick="openLp('#lp_layout_332')" style="display: ">더보기<span class="ico_comm_s arrow1"></span></a>	
+			<span class="info_wrap2">
+				<span><span class="ico_comm_s writer">작성자</span>du637***</span>
+				<span>2019.04.02</span>
+			</span>
+		</div>
+		<div class="profile1">
+			<strong>거래전담 공인중개사</strong>
+			<span class="thumb"></span>
+			<em class="info">
+				<span class="shop"><i class="ico_class r">R</i>동우부동산중개사무소</span>
+				<span class="juso"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F04027041600012')" class="link_blue">대구광역시 달서구 장기동 131-1 3층</a></span>
+				<span class="tel"><i class="ico_comm_s tel">tel</i>053)583 - 7722</span>
+				<a href="javascript:fnGoJunHome('F04027041600012')" class="btn_type1" title="새창">홈페이지</a>
+			</em>
+			<span class="like"><span class="ico_comm_s like2">공감</span>0</span>
+		</div>
+	</li>
+
+	<!-- 팝업바디 -->
+	<div id="lp_layout_332">
+		<div class="lp_wrap" style="width:700px;">
+			<div class="inner">
+				<div class="lp_con">
+					<div class="list_review">
+						<div class="in">
 							<span class="info_wrap2">
-								<span>단독다가구</span>
-								<span>매매</span>
-								<span>99 ~ 131㎡</span>
-								<span><span class="ico_comm_s writer">작성자</span>eunyoung4001***</span><!--2017-10-30 작성자 날짜 조회수 추가-->
-                                <span>2019.04.01</span>								
+								<em><span class="ico_comm_s location5"></span>대구광역시 달서구 이곡동</em><span>원룸</span><span>월세</span><span>52㎡</span>
 							</span>
-						</strong>
-						<span class="in2"><span class="tag_comm type15">매매</span> <span class="txt">매수가 30,000 ~ 39,999만원</span></span>
-						<a href="/?_c=memul&amp;_m=HouseDetail&amp;mulcode=14436" class="more_type1" style="display: none" target="_blank">해당매물보기 <span class="ico_comm_s more1"> </span></a>					
+							<div class="info_wrap2">
+								보증금 500 만원 / 월세 43 ~ 45 만원
+							</div>
+							<!-- //2017.08.23 수정 -->
+							<strong>거래완료 되었습니다</strong>
+							<p>부동산을 통하여 중개 거래완료 되었습니다 
+  감사합니다  부동산114 많은사람들에 알려져
+  사업이번창하기를 기원합니다   다시한번 감사 드립니다ㆍ
+</p>
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="info_wrap2"> -->
+							<span class="info_wrap1">
+							<!-- //2017.08.23 수정 -->
+								<span><span class="ico_comm_s writer">작성자</span>du637***</span>
+								<span>2019.04.02</span>
+							</span>
+						</div>
+						<div class="profile1">
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="thumb"><img src="https://placeholdit.imgix.net/~text?txtsize=30&amp;txt=110%C3%9762&amp;w=200&amp;h=100" alt=""></span>
+							<em class="info">
+								<span class="shop"><i class="ico_class p">P</i>한별공인</span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>031)1234-5678</span>
+								<a href="#" class="btn_type1">홈페이지</a>
+							</em>
+							<span class="like"><span class="ico_comm_s like2">공감</span>24</span> -->
+							<em class="title_s">거래전담 공인중개사</em>
+							<span class="thumb"></span>
+							<span class="info">
+								<span class="shop"><i class="ico_class r">R</i>동우부동산중개사무소</span>
+								<span class="address"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F04027041600012')" class="link_blue">대구광역시 달서구 장기동 131-1 3층</a></span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>053)583 - 7722</span>
+								<a href="javascript:fnGoJunHome('F04027041600012')" class="btn_type1" title="새창">홈페이지</a>
+								<a href="javascript:fnGoJunHomeMemul('F04027041600012')" class="btn_type1" target="_blank">매물보기</a>
+							</span>
+							<span class="like"><span class="ico_comm_s like2">공감</span>0</span>
+							<!-- //2017.08.23 수정 -->
+						</div>
+						<!-- 2017.08.23 추가 -->
+						<!--
+						<div class="btn_nav">
+							<button type="button"><span class="ico_comm_s pv_arrow4">이전 글</span></button>
+							<button type="button"><span class="ico_comm_s nx_arrow4">다음 글</span></button>
+						</div>
+						-->
+						<!-- //2017.08.23 추가 -->
 					</div>
-					<!--</a> -->	
-					<div class="s2"><p>거래희망 중개사무소가 선택되었습니다.</p><div class="slide_type4">	<div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 180px;"><ul style="width: 1215%; position: relative; transition-duration: 0s; transform: translate3d(-666px, 0px, 0px);"><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2013/11/F01181381300088_photo02_np.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>행운공인중개사<em>대표 : 송한철 02 ) 448 - 8489</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F01181381300088')" class="link_blue">서울특별시 송파구 오금동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 146건</span><span>아파트,주택,사무실</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F01181381300088')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F01181381300088', '행운공인중개사 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F01181381300088')"> 매물보기</button>	</div></div><p>안녕하십니까? 행운공인중개사입니다.<br>고객님께서 2019.04.01에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" aria-hidden="false"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2013/11/F01181381300088_photo02_np.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>행운공인중개사<em>대표 : 송한철 02 ) 448 - 8489</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F01181381300088')" class="link_blue">서울특별시 송파구 오금동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 146건</span><span>아파트,주택,사무실</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F01181381300088')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F01181381300088', '행운공인중개사 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F01181381300088')"> 매물보기</button>	</div></div><p>안녕하십니까? 행운공인중개사입니다.<br>고객님께서 2019.04.01에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li>	<li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2013/11/F01181381300088_photo02_np.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>행운공인중개사<em>대표 : 송한철 02 ) 448 - 8489</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F01181381300088')" class="link_blue">서울특별시 송파구 오금동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 146건</span><span>아파트,주택,사무실</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F01181381300088')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F01181381300088', '행운공인중개사 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F01181381300088')"> 매물보기</button>	</div></div><p>안녕하십니까? 행운공인중개사입니다.<br>고객님께서 2019.04.01에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li></ul></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev disabled" href="">Prev</a><a class="bx-next disabled" href="">Next</a></div></div></div></div>	</div>					
-				</li>
+				</div>
+				<div class="lp_close">
+					<a href="#none" onclick="closeLp('#lp_layout_332')">닫기</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //팝업바디 -->
 	
-				<li class="">
-					<!-- <a href="/?_c=memul&_m=HouseDetail&mulcode=14435"> -->
-					<!--<a {매물상세링크}> -->
-					<div class="s1">
-						<strong class="in">
-							<span class="tag_comm type14">접수</span>
-							<span class="area"><span class="ico_comm_s location5">위치</span>경기도 고양시 일산동</span>
+	<li>
+		<div class="in">
+			<span class="area"><span class="ico_comm_s location5">위치</span>서울특별시 동대문구 장안동</span>
+			<span class="info_wrap2">
+				<span>아파트</span><span>전세</span>
+			</span>
+			<span class="txt">전세가 30,000 ~ 30,000 만원</span>
+			<strong class="ellip">빠른 시간 내에 집을 구할 수 있었습니다.</strong>
+			<p> 요즘 거래가 어렵네요
+ 대출규제로 더욱 그런거 같아요
+ 최소한 돈 융통은 되게 해 줘야지
+ 이게 사는건지</p>
+			<a href="javascript:" class="btn_type2" onclick="openLp('#lp_layout_331')" style="display: ">더보기<span class="ico_comm_s arrow1"></span></a>	
+			<span class="info_wrap2">
+				<span><span class="ico_comm_s writer">작성자</span>ujbhwd***</span>
+				<span>2019.03.30</span>
+			</span>
+		</div>
+		<div class="profile1">
+			<strong>거래전담 공인중개사</strong>
+			<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2014/01/F20080729090104_photo02_np.jpg" border="0"></span>
+			<em class="info">
+				<span class="shop"><i class="ico_class c">C</i>뉴서울공인중개사사무소</span>
+				<span class="juso"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20080729090104')" class="link_blue">서울특별시 동대문구 전농동 687 신성미소지움 101동 상가 101호</a></span>
+				<span class="tel"><i class="ico_comm_s tel">tel</i>02)2246 - 9444</span>
+				<a href="javascript:fnGoJunHome('F20080729090104')" class="btn_type1" title="새창">홈페이지</a>
+			</em>
+			<span class="like"><span class="ico_comm_s like2">공감</span>0</span>
+		</div>
+	</li>
+
+	<!-- 팝업바디 -->
+	<div id="lp_layout_331">
+		<div class="lp_wrap" style="width:700px;">
+			<div class="inner">
+				<div class="lp_con">
+					<div class="list_review">
+						<div class="in">
 							<span class="info_wrap2">
-								<span>연립빌라다세대</span>
-								<span>전세</span>
-								<span>56 ~ 82㎡</span>
-								<span><span class="ico_comm_s writer">작성자</span>무적트윈스</span><!--2017-10-30 작성자 날짜 조회수 추가-->
-                                <span>2019.04.01</span>								
+								<em><span class="ico_comm_s location5"></span>서울특별시 동대문구 장안동</em><span>아파트</span><span>전세</span><span>107/84㎡</span>
 							</span>
-						</strong>
-						<span class="in2"><span class="tag_comm type15">전세</span> <span class="txt">전세가 7,000 ~ 10,000만원</span></span>
-						<a href="/?_c=memul&amp;_m=HouseDetail&amp;mulcode=14435" class="more_type1" style="display: none" target="_blank">해당매물보기 <span class="ico_comm_s more1"> </span></a>					
+							<div class="info_wrap2">
+								전세가 30,000 ~ 30,000 만원
+							</div>
+							<!-- //2017.08.23 수정 -->
+							<strong>빠른 시간 내에 집을 구할 수 있었습니다.</strong>
+							<p>요즘 거래가 어렵네요
+대출규제로 더욱 그런거 같아요
+최소한 돈 융통은 되게 해 줘야지
+이게 사는건지</p>
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="info_wrap2"> -->
+							<span class="info_wrap1">
+							<!-- //2017.08.23 수정 -->
+								<span><span class="ico_comm_s writer">작성자</span>ujbhwd***</span>
+								<span>2019.03.30</span>
+							</span>
+						</div>
+						<div class="profile1">
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="thumb"><img src="https://placeholdit.imgix.net/~text?txtsize=30&amp;txt=110%C3%9762&amp;w=200&amp;h=100" alt=""></span>
+							<em class="info">
+								<span class="shop"><i class="ico_class p">P</i>한별공인</span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>031)1234-5678</span>
+								<a href="#" class="btn_type1">홈페이지</a>
+							</em>
+							<span class="like"><span class="ico_comm_s like2">공감</span>24</span> -->
+							<em class="title_s">거래전담 공인중개사</em>
+							<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2014/01/F20080729090104_photo02_np.jpg" border="0"></span>
+							<span class="info">
+								<span class="shop"><i class="ico_class c">C</i>뉴서울공인중개사사무소</span>
+								<span class="address"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20080729090104')" class="link_blue">서울특별시 동대문구 전농동 687 신성미소지움 101동 상가 101호</a></span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>02)2246 - 9444</span>
+								<a href="javascript:fnGoJunHome('F20080729090104')" class="btn_type1" title="새창">홈페이지</a>
+								<a href="javascript:fnGoJunHomeMemul('F20080729090104')" class="btn_type1" target="_blank">매물보기</a>
+							</span>
+							<span class="like"><span class="ico_comm_s like2">공감</span>0</span>
+							<!-- //2017.08.23 수정 -->
+						</div>
+						<!-- 2017.08.23 추가 -->
+						<!--
+						<div class="btn_nav">
+							<button type="button"><span class="ico_comm_s pv_arrow4">이전 글</span></button>
+							<button type="button"><span class="ico_comm_s nx_arrow4">다음 글</span></button>
+						</div>
+						-->
+						<!-- //2017.08.23 추가 -->
 					</div>
-					<!--</a> -->	
-					<div class="s2"><p>거래희망 중개사무소가 선택되었습니다.</p><div class="slide_type4">	<div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 199px;"><ul style="width: 1215%; position: relative; transition-duration: 0s; transform: translate3d(-666px, 0px, 0px);"><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2014/07/F02014113200026_photo02_np.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>현대공인<em>대표 : 최선숙 031 ) 915 - 0405</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F02014113200026')" class="link_blue">경기도 고양시 일산동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 116건</span><span>아파트,주택,사무실</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F02014113200026')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F02014113200026', '현대공인 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F02014113200026')"> 매물보기</button>	</div></div><p>안녕하십니까? 현대공인입니다.<br>고객님께서 2019.04.01에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>현대부동산입니다,가능한 물건이 있습니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" aria-hidden="false"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2014/07/F02014113200026_photo02_np.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>현대공인<em>대표 : 최선숙 031 ) 915 - 0405</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F02014113200026')" class="link_blue">경기도 고양시 일산동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 116건</span><span>아파트,주택,사무실</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F02014113200026')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F02014113200026', '현대공인 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F02014113200026')"> 매물보기</button>	</div></div><p>안녕하십니까? 현대공인입니다.<br>고객님께서 2019.04.01에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>현대부동산입니다,가능한 물건이 있습니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li>	<li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2014/07/F02014113200026_photo02_np.jpg" border="0"></span>		<div class="txt">			<i class="ico_class r">R</i>현대공인<em>대표 : 최선숙 031 ) 915 - 0405</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F02014113200026')" class="link_blue">경기도 고양시 일산동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 116건</span><span>아파트,주택,사무실</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F02014113200026')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F02014113200026', '현대공인 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F02014113200026')"> 매물보기</button>	</div></div><p>안녕하십니까? 현대공인입니다.<br>고객님께서 2019.04.01에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>현대부동산입니다,가능한 물건이 있습니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li></ul></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev disabled" href="">Prev</a><a class="bx-next disabled" href="">Next</a></div></div></div></div>	</div>					
-				</li>
+				</div>
+				<div class="lp_close">
+					<a href="#none" onclick="closeLp('#lp_layout_331')">닫기</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //팝업바디 -->
 	
-				<li class="">
-					<!-- <a href="/?_c=memul&_m=HouseDetail&mulcode=14434"> -->
-					<!--<a {매물상세링크}> -->
-					<div class="s1">
-						<strong class="in">
-							<span class="tag_comm type14">접수</span>
-							<span class="area"><span class="ico_comm_s location5">위치</span>서울특별시 강북구 수유동</span>
+	<li>
+		<div class="in">
+			<span class="area"><span class="ico_comm_s location5">위치</span>대전광역시 서구 둔산동</span>
+			<span class="info_wrap2">
+				<span>오피스텔</span><span>매매</span>
+			</span>
+			<span class="txt">매매가 5,300 ~ 5,300 만원</span>
+			<strong class="ellip">잘 부탁합니다</strong>
+			<p> 한마루 공인중개사님 안녕하세요
+ 원활한 중개가 될 수 있도록 잘 부탁 드립니다 
+ 좋은날 되세요</p>
+			<a href="javascript:" class="btn_type2" onclick="openLp('#lp_layout_330')" style="display: ">더보기<span class="ico_comm_s arrow1"></span></a>	
+			<span class="info_wrap2">
+				<span><span class="ico_comm_s writer">작성자</span>ad79ya***</span>
+				<span>2019.03.28</span>
+			</span>
+		</div>
+		<div class="profile1">
+			<strong>거래전담 공인중개사</strong>
+			<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2018/01/F20151130121250_photo02_np.jpg" border="0"></span>
+			<em class="info">
+				<span class="shop"><i class="ico_class c">C</i>한마루공인</span>
+				<span class="juso"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20151130121250')" class="link_blue">대전광역시 서구 둔산동 1383 상가106호(둔산동,햇님아파트)</a></span>
+				<span class="tel"><i class="ico_comm_s tel">tel</i>042)487 - 5454</span>
+				<a href="javascript:fnGoJunHome('F20151130121250')" class="btn_type1" title="새창">홈페이지</a>
+			</em>
+			<span class="like"><span class="ico_comm_s like2">공감</span>0</span>
+		</div>
+	</li>
+
+	<!-- 팝업바디 -->
+	<div id="lp_layout_330">
+		<div class="lp_wrap" style="width:700px;">
+			<div class="inner">
+				<div class="lp_con">
+					<div class="list_review">
+						<div class="in">
 							<span class="info_wrap2">
-								<span>사무실</span>
-								<span>월세</span>
-								<span>9 ~ 33㎡</span>
-								<span><span class="ico_comm_s writer">작성자</span>r114kimid</span><!--2017-10-30 작성자 날짜 조회수 추가-->
-                                <span>2019.04.01</span>								
+								<em><span class="ico_comm_s location5"></span>대전광역시 서구 둔산동</em><span>오피스텔</span><span>매매</span><span>54/27㎡</span>
 							</span>
-						</strong>
-						<span class="in2"><span class="tag_comm type15">월세</span> <span class="txt">보증금 100만원 / 월세 10 ~ 10만원</span></span>
-						<a href="/?_c=memul&amp;_m=HouseDetail&amp;mulcode=14434" class="more_type1" style="display: none" target="_blank">해당매물보기 <span class="ico_comm_s more1"> </span></a>					
+							<div class="info_wrap2">
+								매매가 5,300 ~ 5,300 만원
+							</div>
+							<!-- //2017.08.23 수정 -->
+							<strong>잘 부탁합니다</strong>
+							<p>한마루 공인중개사님 안녕하세요
+원활한 중개가 될 수 있도록 잘 부탁 드립니다 
+좋은날 되세요</p>
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="info_wrap2"> -->
+							<span class="info_wrap1">
+							<!-- //2017.08.23 수정 -->
+								<span><span class="ico_comm_s writer">작성자</span>ad79ya***</span>
+								<span>2019.03.28</span>
+							</span>
+						</div>
+						<div class="profile1">
+							<!-- 2017.08.23 수정 -->
+							<!-- <span class="thumb"><img src="https://placeholdit.imgix.net/~text?txtsize=30&amp;txt=110%C3%9762&amp;w=200&amp;h=100" alt=""></span>
+							<em class="info">
+								<span class="shop"><i class="ico_class p">P</i>한별공인</span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>031)1234-5678</span>
+								<a href="#" class="btn_type1">홈페이지</a>
+							</em>
+							<span class="like"><span class="ico_comm_s like2">공감</span>24</span> -->
+							<em class="title_s">거래전담 공인중개사</em>
+							<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2018/01/F20151130121250_photo02_np.jpg" border="0"></span>
+							<span class="info">
+								<span class="shop"><i class="ico_class c">C</i>한마루공인</span>
+								<span class="address"><i class="ico_comm_s home">주소</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20151130121250')" class="link_blue">대전광역시 서구 둔산동 1383 상가106호(둔산동,햇님아파트)</a></span>
+								<span class="tel"><i class="ico_comm_s tel">tel</i>042)487 - 5454</span>
+								<a href="javascript:fnGoJunHome('F20151130121250')" class="btn_type1" title="새창">홈페이지</a>
+								<a href="javascript:fnGoJunHomeMemul('F20151130121250')" class="btn_type1" target="_blank">매물보기</a>
+							</span>
+							<span class="like"><span class="ico_comm_s like2">공감</span>0</span>
+							<!-- //2017.08.23 수정 -->
+						</div>
+						<!-- 2017.08.23 추가 -->
+						<!--
+						<div class="btn_nav">
+							<button type="button"><span class="ico_comm_s pv_arrow4">이전 글</span></button>
+							<button type="button"><span class="ico_comm_s nx_arrow4">다음 글</span></button>
+						</div>
+						-->
+						<!-- //2017.08.23 추가 -->
 					</div>
-					<!--</a> -->	
-					<div class="s2"><p>거래희망 중개사무소가 선택되었습니다.</p><div class="slide_type4">	<div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 180px;"><ul style="width: 1215%; position: relative; transition-duration: 0s; transform: translate3d(-666px, 0px, 0px);"><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2017/12/F20170912164347_photo02_np.jpg" border="0"></span>		<div class="txt">			<i class="ico_class c">C</i>이오부동산공인중개사사무소<em>대표 : 이영애 02 ) 988 - 7080</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20170912164347')" class="link_blue">서울특별시 강북구 미아동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 161건</span><span>주택,아파트,상가</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20170912164347')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20170912164347', '이오부동산공인중개사사무소 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20170912164347')"> 매물보기</button>	</div></div><p>안녕하십니까? 이오부동산공인중개사사무소입니다.<br>고객님께서 2019.04.01에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li><li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" aria-hidden="false"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2017/12/F20170912164347_photo02_np.jpg" border="0"></span>		<div class="txt">			<i class="ico_class c">C</i>이오부동산공인중개사사무소<em>대표 : 이영애 02 ) 988 - 7080</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20170912164347')" class="link_blue">서울특별시 강북구 미아동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 161건</span><span>주택,아파트,상가</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20170912164347')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20170912164347', '이오부동산공인중개사사무소 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20170912164347')"> 매물보기</button>	</div></div><p>안녕하십니까? 이오부동산공인중개사사무소입니다.<br>고객님께서 2019.04.01에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li>	<li style="float: left; list-style: none; position: relative; margin-right: 10px; width: 656px;" class="bx-clone" aria-hidden="true"><div class="list_office">	<div class="cont">		<span class="thumb"><img src="https://image.r114.co.kr/brokersimages/2017/12/F20170912164347_photo02_np.jpg" border="0"></span>		<div class="txt">			<i class="ico_class c">C</i>이오부동산공인중개사사무소<em>대표 : 이영애 02 ) 988 - 7080</em><br>			<p class="juso"><i class="ico_comm_s home">홈페이지</i><a href="javascript:;" onclick="fnMapLayerPop(this, 'popup','','','F20170912164347')" class="link_blue">서울특별시 강북구 미아동</a></p>			<em class="info_wrap2"><span class="m_num">전체 보유매물 : 161건</span><span>주택,아파트,상가</span></em>		</div>	</div>	<div class="btn_wrap">		<button class="btn_type1" onclick="fnGoJunHome('F20170912164347')"> 홈페이지</button>		<button class="btn_type1" onclick="openQuestionToAgent('#lp_layout_questionToAgent', '일반문의', 'F20170912164347', '이오부동산공인중개사사무소 ', '', '', '1')">1:1문의</button>		<button class="btn_type1" onclick="fnGoJunHomeMemul('F20170912164347')"> 매물보기</button>	</div></div><p>안녕하십니까? 이오부동산공인중개사사무소입니다.<br>고객님께서 2019.04.01에 부동산114의 중개의뢰서비스를 통해 등록하신 매물을 중개하고자 합니다.<br>거래가 성사될 수 있도록 저희가 최선을 다하겠습니다.<br>감사합니다.</p></li></ul></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev disabled" href="">Prev</a><a class="bx-next disabled" href="">Next</a></div></div></div></div>	</div>					
-				</li>
+				</div>
+				<div class="lp_close">
+					<a href="#none" onclick="closeLp('#lp_layout_330')">닫기</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //팝업바디 -->
 	
 </ul>
 
-<!--
-	        <div class="srch_bbs">
-	            <span class="inp_slt">
-	                <select>
-	                    <option>제목</option>
-	                    <option>내용</option>
-	                </select>
-	            </span>
-	            <div class="srch_box">
-	                <input type="text" class="inp_txt" title="검색어 입력" value="검색어를 입력하세요">
-	                <a href="#none" class="ico_comm_l btn_srch">검색</a>
-	            </div>
-	        </div>
--->
-	        
 	        <div class="paging"><strong><span class="skip">현재페이지</span>1</strong><a href="javascript:goPage(2, 1);">2</a><a href="javascript:goPage(3, 1);">3</a><a href="javascript:goPage(4, 1);">4</a><a href="javascript:goPage(5, 1);">5</a><a href="javascript:goPage(6, 1);">6</a><a href="javascript:goPage(7, 1);">7</a><a href="javascript:goPage(8, 1);">8</a><a href="javascript:goPage(9, 1);">9</a><a href="javascript:goPage(10, 1);">10</a><a href="javascript:next_page(1);"><span class="ico_comm_s next_10">다음 10페이지</span></a></div>
 
         </div>
-        <!-- 컨텐츠 끝 -->
+        <!-- 컨텐츠 끝 -->  
         
         <!-- 라이트 시작 -->
 		<div class="right_wrap" id="divAskRight"><!-- <div class="bx_gray banner">
@@ -967,7 +1679,7 @@ var _AceTM = (function (_j, _s, _b, _o, _y) {
 		<h4 class="h4_type2">분양뉴스</h4>
 
 		<div class="slide_type6">
-			<div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 164px;"><ul style="width: 4215%; position: relative; transition-duration: 0s; transform: translate3d(-190px, 0px, 0px);"><li style="float: left; list-style: none; position: relative; width: 190px;" class="bx-clone" aria-hidden="true">
+			<div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 164px;"><ul style="width: 4215%; position: relative; transition-duration: 0s; transform: translate3d(-760px, 0px, 0px);"><li style="float: left; list-style: none; position: relative; width: 190px;" class="bx-clone" aria-hidden="true">
 					<a href="/?_c=lots&amp;_m=lotsnews&amp;_a=newsdetail&amp;bno=70&amp;kind=&amp;search_keyword=&amp;search_writer=&amp;search_addr1=&amp;search_addr2=&amp;search_addr3=&amp;sort=1&amp;page=1&amp;num=14286" class="thumb_wrap">
 						<span class="thumb gra"><img src="https://image.r114.co.kr/images/r114/2014/jo_h20190325.png" width="190" height="120" alt=""></span>
 						<strong class="tit"><b>현대건설 힐스테이트 리뉴얼로No.1 브랜드 위상 강화</b>
@@ -979,7 +1691,7 @@ var _AceTM = (function (_j, _s, _b, _o, _y) {
 					</a>
 				</li>
 				
-				<li style="float: left; list-style: none; position: relative; width: 190px;" aria-hidden="false">
+				<li style="float: left; list-style: none; position: relative; width: 190px;" aria-hidden="true">
 					<a href="/?_c=lots&amp;_m=lotsnews&amp;_a=newsdetail&amp;bno=70&amp;kind=&amp;search_keyword=&amp;search_writer=&amp;search_addr1=&amp;search_addr2=&amp;search_addr3=&amp;sort=1&amp;page=1&amp;num=14290" class="thumb_wrap">
 						<span class="thumb gra"><img src="https://image.r114.co.kr/images/r114/2014/jo_g20190405.png" width="190" height="120" alt=""></span>
 						<strong class="tit">트리플역세권으로 강남까지 더 빠르게! "금정역동양라파크"</strong>
@@ -1014,7 +1726,7 @@ var _AceTM = (function (_j, _s, _b, _o, _y) {
 					</a>
 				</li>
 				
-				<li style="float: left; list-style: none; position: relative; width: 190px;" aria-hidden="true">
+				<li style="float: left; list-style: none; position: relative; width: 190px;" aria-hidden="false">
 					<a href="/?_c=lots&amp;_m=lotsnews&amp;_a=newsdetail&amp;bno=70&amp;kind=&amp;search_keyword=&amp;search_writer=&amp;search_addr1=&amp;search_addr2=&amp;search_addr3=&amp;sort=1&amp;page=1&amp;num=14286" class="thumb_wrap">
 						<span class="thumb gra"><img src="https://image.r114.co.kr/images/r114/2014/jo_h20190325.png" width="190" height="120" alt=""></span>
 						<strong class="tit"><b>현대건설 힐스테이트 리뉴얼로No.1 브랜드 위상 강화</b>
@@ -1037,7 +1749,7 @@ var _AceTM = (function (_j, _s, _b, _o, _y) {
  
    금정역동양라파크 에서 아파트 조합원 모집을 모집 중이다. 경..</span>-->
 					</a>
-				</li></ul></div><div class="bx-controls bx-has-pager"><div class="bx-pager bx-default-pager"><div class="bx-pager-item"><a href="" data-slide-index="0" class="bx-pager-link active">1</a></div><div class="bx-pager-item"><a href="" data-slide-index="1" class="bx-pager-link">2</a></div><div class="bx-pager-item"><a href="" data-slide-index="2" class="bx-pager-link">3</a></div><div class="bx-pager-item"><a href="" data-slide-index="3" class="bx-pager-link">4</a></div></div></div></div>
+				</li></ul></div><div class="bx-controls bx-has-pager"><div class="bx-pager bx-default-pager"><div class="bx-pager-item"><a href="" data-slide-index="0" class="bx-pager-link">1</a></div><div class="bx-pager-item"><a href="" data-slide-index="1" class="bx-pager-link">2</a></div><div class="bx-pager-item"><a href="" data-slide-index="2" class="bx-pager-link">3</a></div><div class="bx-pager-item"><a href="" data-slide-index="3" class="bx-pager-link active">4</a></div></div></div></div>
 		</div>
 		<a href="/?_c=lots&amp;_m=lotsnews" class="more_type1" title="분양뉴스">더보기 <span class="ico_comm_s more1"></span></a>
 	</div>
@@ -1153,11 +1865,6 @@ $(document).ready(function() {
     </div>
 </div>
 <!-- 바디 끝 -->
-
-<!-- 중개사무소 문의 팝업 -->        
-<div id="lp_layout_questionToAgent">
-</div>
-<!-- //중개사무소 문의 팝업 -->
 
 <!--전체로딩-->
 <div class="loading_wrap" style="display:none;">
@@ -1434,74 +2141,44 @@ $(document).ready(function() {
 
 <script type="text/javascript" src="/W1/js/Ask/ask.js"></script>
 <script type="text/javascript" src="/W1/js/Research/Research.js"></script>
-<script type="text/javascript" src="/W1/js/MyPage/questionToAgent.js"></script>
 <script type="text/javascript" src="/W1/js/PageUtil.js"></script>
 <script type="text/javascript">
 
 	var util = new PageUtil();
-	var sellbuyType;
-	var statusType;
-
+	
 	$(document).ready(function() {
-		var defaultSellbuyType = "2";
-		var defaultStatusType = "2";
-		var paramSellbuyType;
-		var otherSellbuyType;
+		var defaultAskCategory = "2";
+		var paramAskCategory;
+		var askCategory;
+		var otherAskCategory;
+		
+		util.curPage = 1;
+		util.setNum = 1;
+		util.callFunction = getCustomerReviewList;
 		
 		// 파라미터로 넘어온 중개의뢰 구분값
-		paramSellbuyType = getParameterByName("sellbuyType");
-		sellbuyType = isEmpty(paramSellbuyType) ? defaultSellbuyType : paramSellbuyType;
-		if (sellbuyType == "1") {
-			otherSellbuyType = "2"
+		paramAskCategory = getParameterByName('sellbuyType');
+		askCategory = isEmpty(paramAskCategory) ? defaultAskCategory : paramAskCategory;
+		
+		if (askCategory == "1") {
+			otherAskCategory = "2"
 		} else {
-			otherSellbuyType = "1"
+			otherAskCategory = "1"
 		}
 		
-		// 중개의뢰 상태 
-		statusType = isEmpty(statusType) ? defaultStatusType  : statusType;		
+		$('div.tab_btn > ul.tab_list').children('li').removeClass('on')
 		
-		// 기본 중개의뢰 조회 타입
-		$("div.tab_btn > ul.tab_list").children("li").removeClass("on")
+		$('#askCategory' + askCategory).addClass("on");
 		
-		$("#sellbuyType" + sellbuyType).addClass("on");
-		
-		$("div.tab_btn > ul.tab_list").children("li").each(function(index) {
-			if (!$(this).hasClass("on")) {
+		$('div.tab_btn > ul.tab_list').children('li').each(function(index) {
+			if (!$(this).hasClass('on')) {
 				var text = $(this).text();
-				$(this).html("<a href=" + "/?_c=ask&_m=asklist&sellbuyType=" + otherSellbuyType + ">" + text +"</a>");
+				$(this).html('<a href="' + '/?_c=ask&_m=customerreview&sellbuyType=' + otherAskCategory + '">' + text +'</a>');
 			}
 		});
-		
-		// 이벤트 바인딩. 전체/의뢰중/접수 탭
-		$("div.sort_wrap a").on("click", function(e) {
-			var _text = $(this).text();
-			$(this).parent('.sort_wrap').find('a').removeClass('selected');
-			$(this).addClass('selected');
 			
-			if (_text ==  "접수")
-			{
-				statusType = "2";
-			}
-			else
-			{
-				statusType = "1";
-			}
-			
-			util.curPage = 1;
-			getAskList();
-		});
-		
-		// 이벤트 바인딩. 나의의뢰현황 버튼
-		$("#cmdMyAsking").on("click", function(e) {
-			var url = "/?_c=mypage&_m=myasking";
-			if (fn_isLogin() == "") {
-				alert(ALERT_REQUEST_LOGIN);
-				fn_loginDiv(url);
-			} else {
-				// 마이페이지 > 나의 의뢰내역으로 이동				
-				window.location.href = url;
-			}
-		});
+		var formData = {page: util.curPage, sellbuyType: getParameterByName('sellbuyType')};
+		getCustomerReviewList(formData);
 		
 		// 내놓기 등록 페지이로 이동
 		$("#cmdGoAskSell").on("click", function(e) {
@@ -1528,16 +2205,15 @@ $(document).ready(function() {
 			}
 		});
 		
-		util.curPage = 1;
-		util.setNum = 1;
-		util.callFunction = getAskList;
-			
-		getAskList();
-		
 		/* 우측배너*/
 		loadAskRightBanner();
 		
-	});		
+	});	
+	
+	
+	$(window).load(function(){
+		$("body").addClass("p_02"); // 공통 상단에 지정되어 있지 않은 body class가 추가 되어 있어서 로딩 시에 추가해 준다.
+	});
 	
 	// 페이지유틸 객체 리턴한다.
 	function setUtilObj(setNum){
@@ -1551,7 +2227,7 @@ $(document).ready(function() {
 		var setUtil = setUtilObj(setNum)
 
 		if(setUtil.setNum == 1){
-			$(".paging").html(setUtil.Drow());
+			$('.paging').html(setUtil.Drow());
 		}		
 	}
 	
@@ -1595,37 +2271,36 @@ $(document).ready(function() {
 		setUtil.callFunction();
 	}
 	
-	// 중개의뢰현황 목록을 화면에 출력한다.
-	var getAskList = function() {
+	// 고객후기 목록을 화면에 출력한다.
+	var getCustomerReviewList = function() {
 	
-		var formData = {page: util.curPage, sellbuyType: sellbuyType, statusGubun: statusType, serviceMenu:"ask"};
+		var formData = {page: util.curPage, sellbuyType: getParameterByName('sellbuyType')};
 	
-//		$("div.contents_wrap ul.list_review").html("<li>" + util.curPage + " 페이지 자료조회 중 입니다." + "</li>");
-		
+		//$("div.contents_wrap ul.list_review").html("<li>" + util.curPage + ' 페이지 자료조회 중 입니다.' + "</li>");
 		$.ajax({
-			url : "/?_c=ask&_m=asklist&_a=ListAsk.ajax",
+			url : "/?_c=ask&_m=customerreview&_a=ListCustomerReviews",
 			type: "POST",
 			data : formData,
 			success: function(data, textStatus, jqXHR){
 				var res = data.split("<!--@#$ INFO AREA $#@-->");
 				if (data.length > 0) { // 자료가 있을때.
-					// $("div.tab_btn").scrollintoview({duration: "normal", complete: function() {
-					// 	} 
-					// });
-					
-					$("ul.list_sell").html(res[0]);
-					slide_type4_load();
-					
-					util.totalCnt = parseInt(res[1]); // {총글수};
-					util.curPage  = parseInt(res[2]); // {현재페이지}; 
-					util.pageRows = parseInt(res[3]); // {출력글수};  
+					$("div.contents_wrap ul.list_review").html(res[0]);
+					util.totalCnt = parseInt(res[1]); // 0;
+					util.curPage  = parseInt(res[2]); // 1; 
+					util.pageRows = parseInt(res[3]); // 10;  
 					util.disPagepCnt = parseInt(res[4]); // {출력페이지수}     
 					util.setTotalPage(); 
 					
 					drawPageNumber(1);
+					
+					//$("div.tab_btn").scrollintoview({ 
+					//				duration: "normal", 
+					//				complete: function() {
+					//				} 
+					//});
 				}
 				else { // 자료가 없을때.
-					$("ul.list_sell").html("");
+					$("div.contents_wrap ul.list_review").html("");
 					util.totalCnt = 0;
 					drawPageNumber(1);
 				}
@@ -1635,5 +2310,35 @@ $(document).ready(function() {
 			}
 		});
 	}	
+	
+	/*
+	// 고객후기 상세를 화면에 출력한다.
+    function openCustomerReviewDetail(askCategory, reviewNo) {
 
-</script><iframe name="easyXDM_Kakao_default2018_provider" id="easyXDM_Kakao_default2018_provider" src="https://kapi.kakao.com/cors/?xdm_e=https%3A%2F%2Fwww.r114.com&amp;xdm_c=default2018&amp;xdm_p=1" frameborder="0" style="position: absolute; top: -2000px; left: 0px;"></iframe><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/d_vbiawPdxB.js?version=44#channel=f1a8af350e35a7&amp;origin=https%3A%2F%2Fwww.r114.com" style="border: none;"></iframe></div><div></div></div></div></body></html>
+    	var formData = {reviewNo: reviewNo, sellbuyType: getParameterByName('sellbuyType')};
+		
+		$.ajax({
+			url : "/?_c=ask&_m=customerreview&_a=DetailCustomerReview",
+			type: "POST",
+			data : formData,
+			success: function(data, textStatus, jqXHR){
+				var res = data.split("<!--@#$ INFO AREA $#@-->");
+				if (data.length > 0) { // 자료가 있을때.
+					$('#lp_layout1').html(res[0]);
+					console.log(res[0]);
+					openLp('type1');
+				}
+				else { // 자료가 없을때.
+					$('#lp_layout1').html("");
+				}
+			},
+			error: function (jqXHR, textStatus, errorThrown){
+		 	 	alert("code:"+jqXHR.status+"\n"+"message:"+jqXHR.responseText+"\n"+"error:"+errorThrown);
+			}
+		});
+		
+	}
+	*/
+		
+</script>	
+<iframe name="easyXDM_Kakao_default1365_provider" id="easyXDM_Kakao_default1365_provider" src="https://kapi.kakao.com/cors/?xdm_e=https%3A%2F%2Fwww.r114.com&amp;xdm_c=default1365&amp;xdm_p=1" frameborder="0" style="position: absolute; top: -2000px; left: 0px;"></iframe><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/d_vbiawPdxB.js?version=44#channel=f17cf19cf475b7c&amp;origin=https%3A%2F%2Fwww.r114.com" style="border: none;"></iframe></div><div></div></div></div></body></html>

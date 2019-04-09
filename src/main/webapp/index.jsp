@@ -57,8 +57,8 @@
 							<ul>
 								<li><a href="javascript:goAskSellPage();">내놓기</a></li>
 								<li><a href="javascript:goAskBuyPage();">구하기</a></li>
-								<li><a href="eroe/eroeStatus">의뢰현황</a></li>
-								<li><a href="/?_c=ask&amp;_m=customerreview">고객후기</a></li>
+								<li><a href="${pageContext.request.contextPath}/eroe/eroeStatus">의뢰현황</a></li>
+								<li><a href="${pageContext.request.contextPath}/eroe/customerReview">고객후기</a></li>
 								<li><a href="/?_c=ask&amp;_m=findagent">중개사무소찾기</a></li>
 							</ul>
 						</div>
