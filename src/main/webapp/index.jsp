@@ -28,7 +28,7 @@
 		</div>
 		<div class="menu_wrap">
 			<ul class="menu">
-				<li class=""><span> <a href="/?_c=memul&amp;_m=p10">매물/시세</a>
+				<li class=""><span> <a href="${pageContext.request.contextPath}/sisae/mainSisae">매물/시세</a>
 						<div class="layer_menu lm_1">
 							<ul class="col">
 								<li><a href="/?_c=memul&amp;_m=p10&amp;direct=A">아파트</a></li>
@@ -52,13 +52,13 @@
 							</ul>
 						</div>
 				</span></li>
-				<li class=""><span> <a href="/?_c=ask">매물의뢰</a>
+				<li class=""><span> <a href="${pageContext.request.contextPath}/eroe/mainEroe">매물의뢰</a>
 						<div class="layer_menu lm_2">
 							<ul>
 								<li><a href="javascript:goAskSellPage();">내놓기</a></li>
 								<li><a href="javascript:goAskBuyPage();">구하기</a></li>
-								<li><a href="/?_c=ask&amp;_m=asklist">의뢰현황</a></li>
-								<li><a href="/?_c=ask&amp;_m=customerreview">고객후기</a></li>
+								<li><a href="${pageContext.request.contextPath}/eroe/eroeStatus">의뢰현황</a></li>
+								<li><a href="${pageContext.request.contextPath}/eroe/customerReview">고객후기</a></li>
 								<li><a href="/?_c=ask&amp;_m=findagent">중개사무소찾기</a></li>
 							</ul>
 						</div>
