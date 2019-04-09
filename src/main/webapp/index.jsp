@@ -64,32 +64,32 @@
 						</div>
 				</span></li>
 				<li class=""><span> <a
-						href="zicgurae/personal">직거래</a>
+						href="${pageContext.request.contextPath}/zicgurae/personal">직거래</a>
 						<div class="layer_menu lm_3">
 							<ul>
 								<li><a
-									href="zicgurae/personal">개인매물</a></li>
+									href="${pageContext.request.contextPath}/zicgurae/personal">개인매물</a></li>
 								<li><a
-									href="zicgurae/company">기업매물</a></li>
+									href="${pageContext.request.contextPath}/zicgurae/company">기업매물</a></li>
 								<li><a
-									href="zicgurae/national">국유재산
+									href="${pageContext.request.contextPath}/zicgurae/national">국유재산
 										사용/매각</a></li>
 							</ul>
 						</div>
 				</span></li>
 
-				<li class=""><span> <a href="/?_c=lots">분양</a>
+				<li class=""><span> <a href="${pageContext.request.contextPath}/bunyang/main">분양</a>
 						<div class="layer_menu lm_5">
 							<ul>
-								<li><a href="/?_c=lots&amp;_s=info&amp;_m=infolist">분양정보</a></li>
+								<li><a href="${pageContext.request.contextPath}/bunyang/information">분양정보</a></li>
 								<li><a
-									href="/?_c=lots&amp;_s=lotsSchedule&amp;_m=lotsSchedule">분양일정</a></li>
-								<li><a href="/?_c=lots&amp;_m=lotsnews">분양뉴스</a></li>
-								<li><a href="/?_c=lots&amp;_s=lotsScene&amp;_m=lotsScene">분양&amp;현장</a></li>
-								<li><a href="/?_c=lots&amp;_m=ipjuinfo">입주지원센터</a></li>
+									href="${pageContext.request.contextPath}/bunyang/plan">분양일정</a></li>
+								<li><a href="${pageContext.request.contextPath}/bunyang/news">분양뉴스</a></li>
+								<li><a href="${pageContext.request.contextPath}/bunyang/site">분양&amp;현장</a></li>
+								<li><a href="${pageContext.request.contextPath}/bunyang/supply">입주지원센터</a></li>
 								<li><a
-									href="/?_c=lots&amp;_s=offerStrategy&amp;_m=lotsOfferGuide">청약전략</a></li>
-								<li><a href="/?_c=lots&amp;_s=Jigu&amp;_m=JiguList">지역개발정보</a></li>
+									href="${pageContext.request.contextPath}/bunyang/supply">청약전략</a></li>
+								<li><a href="${pageContext.request.contextPath}/bunyang/develop">지역개발정보</a></li>
 								<!--<li><a href="/?_c=lots&_m=VrCenterlist&_s=VrCenterlist">VR분양관</a></li>-->
 							</ul>
 						</div>

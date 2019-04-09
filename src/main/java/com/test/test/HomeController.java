@@ -78,4 +78,40 @@ public class HomeController {
 		return "eroe/searchSalesman";
 	}
 	
+	/* 분양 */
+	@RequestMapping(value = "/bunyang/main", method = RequestMethod.GET)
+	public String bunyangMain() {
+		return "bunyang/main";
+	}
+	@RequestMapping(value = "/bunyang/information", method = RequestMethod.GET)
+	public String bunyangInformation() {
+		return "bunyang/information";
+	}
+	@RequestMapping(value = "/bunyang/plan", method = RequestMethod.GET)
+	public String bunyangPlan() {
+		return "bunyang/plan";
+	}
+	@RequestMapping(value = "/bunyang/news", method = RequestMethod.GET)
+	public String bunyangNews() {
+		return "bunyang/news";
+	}
+	@RequestMapping(value = "/bunyang/site", method = RequestMethod.GET)
+	public String bunyangSite() {
+		return "bunyang/site";
+	}
+	@RequestMapping(value = "/bunyang/supply", method = RequestMethod.GET)
+	public String bunyangSupply() {
+		return "bunyang/supply";
+	}
+	@RequestMapping(value = "/bunyang/strategy", method = RequestMethod.GET)
+	public String bunyangStrategy() {
+		return "bunyang/strategy";
+	}
+	@RequestMapping(value = "/bunyang/develop", method = RequestMethod.GET)
+	public String bunyangDevelop() {
+		return "bunyang/develop";
+	}
+	
+	
+	
 }

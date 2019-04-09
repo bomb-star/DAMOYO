@@ -293,7 +293,7 @@
 							<li class=""><a href="/?_c=lots&amp;_s=lotsSchedule&amp;_m=lotsSchedule">분양일정</a></li>
 							<li class=""><a href="/?_c=lots&amp;_m=lotsnews">분양뉴스</a></li>
 							<li class=""><a href="/?_c=lots&amp;_s=lotsScene&amp;_m=lotsScene">분양&amp;현장</a></li>
-							<li class="on"><a href="/?_c=lots&amp;_m=ipjuinfo">입주지원센터</a></li>
+							<li class=""><a href="/?_c=lots&amp;_m=ipjuinfo">입주지원센터</a></li>
 							<li class=""><a href="/?_c=lots&amp;_s=offerStrategy&amp;_m=lotsOfferGuide">청약전략</a></li>
 							<li class=""><a href="/?_c=lots&amp;_s=Jigu&amp;_m=JiguList">지역개발정보</a></li>
 							<!--<li class=""><a href="/?_c=lots&_m=VrCenterlist&_s=VrCenterlist">VR분양관</a></li>			-->
@@ -305,7 +305,7 @@
 					<li class=""><a href="/?_c=lots&amp;_s=lotsSchedule&amp;_m=lotsSchedule">분양일정</a></li>
 					<li class=""><a href="/?_c=lots&amp;_m=lotsnews">분양뉴스</a></li>
 					<li class=""><a href="/?_c=lots&amp;_s=lotsScene&amp;_m=lotsScene">분양&amp;현장</a></li>
-					<li class="on"><a href="/?_c=lots&amp;_m=ipjuinfo">입주지원센터</a></li>
+					<li class=""><a href="/?_c=lots&amp;_m=ipjuinfo">입주지원센터</a></li>
 					<li class=""><a href="/?_c=lots&amp;_s=offerStrategy&amp;_m=lotsOfferGuide">청약전략</a></li>
 					<li class=""><a href="/?_c=lots&amp;_s=Jigu&amp;_m=JiguList">지역개발정보</a></li>
 					<!--<li class=""><a href="/?_c=lots&_m=VrCenterlist&_s=VrCenterlist">VR분양관</a></li>-->
@@ -466,148 +466,532 @@
 
 
 <!-- 바디 시작 -->
-<div id="body_layout">
+<div id="body_layout" class="submain_sale">
+	<div class="submain_cont">
+		<div class="w_fix clearfix">
+			<!-- 분양정보 -->
+			<div class="sale_info fl">
+				<h4 class="h4_type4">분양정보<a href="javascript:" class="more_type1" id="cmdInfoList">더보기 <span class="ico_comm_s more1"></span></a></h4>
+				<!-- 지도 영역 -->
+				<div class="map_area">
+					<iframe id="frameMap" src="/?_c=lots&amp;_s=imageMap&amp;_m=imageMap&amp;_a=drawImageMap&amp;addr1Code=01" frameborder="0" width="100%" height="100%">
+					</iframe>
+				</div>
+				<!-- //지도영역 -->
+
+				<!-- sort -->
+				<div class="sort_wrap type2" id="estateType">
+					<a href="javascript:" onclick="changeEstateType(1)" class="selected">아파트</a>
+					<a href="javascript:" onclick="changeEstateType(2)">오피스텔</a>
+					<a href="javascript:" onclick="changeEstateType(3)">도시형생활주택</a>
+					<a href="javascript:" onclick="changeEstateType(4)">상가</a>
+					<a href="javascript:" onclick="changeEstateType(5)">아파트형공장</a>
+				</div>
+				<!-- //sort -->
+
+				<!-- 이미지맵 선택으로 분양정보 조회 -->
+				<ul class="list_sale_info" id="saleInfoList">			
+		<li><!-- loop, max : 6 -->
+			<a href="javascript:goLotsInfoDetailPage('B', 'A01020039080000')">
+				<span class="txt">[강동구] 강일2준주거1(행복주택)</span>
+				<span class="tag_comm type4">분양중</span>
+				<!-- <span class="tag_comm type22">계약</span> -->
+			</a>
+		</li>
+			
+		<li><!-- loop, max : 6 -->
+			<a href="javascript:goLotsInfoDetailPage('B', 'A01110038680003')">
+				<span class="txt">[동대문구] 답십리엘림퍼스트</span>
+				<span class="tag_comm type4">분양중</span>
+				<!-- <span class="tag_comm type22">계약</span> -->
+			</a>
+		</li>
+			
+		<li><!-- loop, max : 6 -->
+			<a href="javascript:goLotsInfoDetailPage('B', 'A01250008770003')">
+				<span class="txt">[중랑구] 신내글로리움(행복주택)</span>
+				<span class="tag_comm type4">분양중</span>
+				<!-- <span class="tag_comm type22">계약</span> -->
+			</a>
+		</li>
+			
+		<li><!-- loop, max : 6 -->
+			<a href="javascript:goLotsInfoDetailPage('B', 'A01250027850001')">
+				<span class="txt">[중랑구] 신내역금강펜테리움센트럴파크(C2)</span>
+				<span class="tag_comm type4">분양중</span>
+				<!-- <span class="tag_comm type22">계약</span> -->
+			</a>
+		</li>
+			
+		<li><!-- loop, max : 6 -->
+			<a href="javascript:goLotsInfoDetailPage('B', 'A01220014330010')">
+				<span class="txt">[은평구] 은평서해그랑블</span>
+				<span class="tag_comm type4">분양중</span>
+				<!-- <span class="tag_comm type22">계약</span> -->
+			</a>
+		</li>
+			
+		<li><!-- loop, max : 6 -->
+			<a href="javascript:goLotsInfoDetailPage('B', 'A01110026420002')">
+				<span class="txt">[동대문구] 청량리역한양수자인192</span>
+				<span class="tag_comm type4">분양중</span>
+				<!-- <span class="tag_comm type22">계약</span> -->
+			</a>
+		</li>
+		</ul>
+				<!-- //이미지맵 선택으로 분양정보 조회 -->
+			</div>
+			<!-- status :
+				<span class="tag_comm type4">분양중</span>
+				<span class="tag_comm type20">미분양</span>
+				<span class="tag_comm type15">오픈</span>
+				<span class="tag_comm type21">분양예정</span>
+				<span class="tag_comm type22">계약</span>
+			//status -->
+			<!-- //분양정보 -->
+
+			<!-- 분양뉴스 top 3 -->
+			<div class="sale_news fr">
+				<h4 class="h4_type4">분양뉴스<a href="/?_c=lots&amp;_m=lotsnews" class="more_type1">더보기 <span class="ico_comm_s more1"></span></a></h4>
+				<div class="list_thumb_type2">
+					<ul class="list_news" id="lotsNewsList">	
+		<li>
+			<a href="http://www.r114.com/?_c=lots&amp;_m=lotsnews&amp;_a=newsdetail&amp;bno=70&amp;num=14290">
+				<span class="thumb"><img src="https://image.r114.co.kr/MainGnb/2019/20190405090809.png" alt=""></span>	
+				<strong class="tit"><strong class="tit">"금정역동양라파크"</strong></strong>		
+				<span class="desc">트리플역세권으로 강남까지 더 빠르게!</span>				
+			</a>
+		</li>
+	
+		<li>
+			<a href="http://www.r114.com/?_c=lots&amp;_m=lotsnews&amp;_a=newsdetail&amp;bno=70&amp;num=14289">
+					
+				<strong class="tit">GS건설,"성남고등자이" 5월 분양</strong>		
+								
+			</a>
+		</li>
+	
+		<li>
+			<a href="http://www.r114.com/?_c=lots&amp;_m=lotsnews&amp;_a=newsdetail&amp;bno=70&amp;num=14288">
+					
+				<strong class="tit">다세권확보한 똘똘한한채! "송파대우이안(이스트원)"</strong>		
+								
+			</a>
+		</li>
+	
+		<li>
+			<a href="http://www.r114.com/?_c=lots&amp;_m=lotsnews&amp;_a=newsdetail&amp;bno=70&amp;num=14280">
+					
+				<strong class="tit">"상계뉴타운,상계신도시프리미엄선점/4호선당고개역초역세권대단지</strong>		
+								
+			</a>
+		</li>
+	
+		<li>
+			<a href="http://www.r114.com/?_c=lots&amp;_m=lotsnews&amp;_a=newsdetail&amp;bno=70&amp;num=14258">
+					
+				<strong class="tit">배후수요16만명, 마곡 10분대 서울전세가보다 싼 생활권</strong>		
+								
+			</a>
+		</li>
+		</ul>
+					<ul id="list_trends">	
+		<li>
+			<a href="/?_c=lots&amp;_m=lotsnews&amp;_a=newsdetail&amp;bno=200&amp;kind=8&amp;num=6951">
+				<strong class="tit">4월 둘째 주 분양캘린더 - 봄 분양시장 활짝, 수성레이크푸르지오 등 전국 1.1만 가구 분양</strong>
+			</a>
+		</li>
+	
+		<li>
+			<a href="/?_c=lots&amp;_m=lotsnews&amp;_a=newsdetail&amp;bno=200&amp;kind=8&amp;num=6945">
+				<strong class="tit">4월 첫째 주 분양캘린더 - 봄 분양시장 본격 개막, 힐스테이트북위례 등 전국 1만 가구 분양</strong>
+			</a>
+		</li>
+		</ul>
+				</div>
+			</div>
+			<!-- //분양뉴스 -->
+		</div>
+	</div>
 	<div class="body_wrap">
-		<!-- 타이틀 시작 -->
-		<div class="title_wrap">
-			<div class="title">
-				<h3>입주지원센터</h3>
-			</div>
-			<div class="location">
-				<ul>
-					<li><a href="/">홈</a></li>
-					<li><a href="/?_c=lots">분양</a></li>
-					<li><a href="/?_c=lots&amp;_m=ipjuinfo">입주지원센터</a></li>
-					<li>이달의 입주정보</li>
-				</ul>
-			</div>
-		</div>
-		<!-- 타이틀 끝 -->
-		<!-- 컨텐츠 시작 -->
-		<div class="contents_wrap">
-
-			<ul class="list_tab type3">
-				<li class="on"><a>이달의 입주정보<span class="skip">현재메뉴</span></a></li>
-				<li><a href="/?_c=lots&amp;_m=ipjuinfo&amp;_a=ipjunews">입주가이드</a></li>
-				<li><a href="/?_c=lots&amp;_m=ipjuinfo&amp;_a=ipjucheck">입주체크리스트</a></li>
+		<div class="clearfix">
+			<!-- 추천분양현장 top 3 -->
+			<div class="sale_recomm bg_b fl">
+				<h4 class="h4_type5">추천분양현장<a href="/?_c=lots&amp;_m=lotsnews" class="more_type1 rb">더보기 <span class="ico_comm_s more1"></span></a></h4>
+				<ul class="list_thumb_type5" id="lotsRecommendList">	
+		<li>
+			<a href="http://www.r114.com/?_c=lots&amp;_m=lotsnews&amp;_a=newsdetail&amp;bno=70&amp;kind=&amp;search_keyword=전체&amp;search_writer=&amp;search_addr1=&amp;search_addr2=&amp;search_addr3=&amp;sort=1&amp;sort2=down&amp;page=1&amp;num=14290">
+				<div class="thumb">
+					<img src="https://image.r114.co.kr/MainGnb/2019/20190405090621.png" alt="">
+				</div>
+				<span class="s_type">“금정역동양라파크”</span>
+				<span class="s_type sub">GTX개통예정</span>
+				<p class="desc">트리플역세권으로 강남까지 더 빠르게!</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="http://www.r114.com/?_c=lots&amp;_m=lotsnews&amp;_a=newsdetail&amp;bno=70&amp;kind=&amp;search_keyword=&amp;search_writer=&amp;search_addr1=&amp;search_addr2=&amp;search_addr3=&amp;sort=1&amp;sort2=down&amp;page=1&amp;num=14288">
+				<div class="thumb">
+					<img src="https://image.r114.co.kr/MainGnb/2019/20190402101449.jpg" alt="">
+				</div>
+				<span class="s_type">"송파대우이안(이스트원)"</span>
+				<span class="s_type sub">거여역 초 역세권</span>
+				<p class="desc">다세권 확보한 똘똘한 한 채</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="http://www.r114.com/?_c=lots&amp;_m=lotsnews&amp;_a=newsdetail&amp;bno=70&amp;num=14278">
+				<div class="thumb">
+					<img src="https://image.r114.co.kr/MainGnb/2018/20180906090729.jpg" alt="">
+				</div>
+				<span class="s_type">"신마곡지구 송정서희스타힐스"</span>
+				<span class="s_type sub">서울의 마지막 황금알 땅</span>
+				<p class="desc">전세대 소형아파트 위주로 공급할 예정</p>
+			</a>
+		</li>
 			</ul>
-
-			<form name="ipjuSearch" id="ipjuSearch" action="/" method="GET">
-			<input type="hidden" name="_c" value="lots">
-			<input type="hidden" name="_m" value="ipjuinfo">
-			<input type="hidden" name="type_g" value="">
-			<input type="hidden" name="ArrType_g" value="">
-			<input type="hidden" name="orderby" value="입주시기">
-			<input type="hidden" name="ordersort" value="desc">
-			<input type="hidden" name="page" value="1">
-			<input type="hidden" name="addr1" value="서울특별시">
-			<input type="hidden" name="addr2" value="">
-			<input type="hidden" name="addr3" value="">
-
-			<input type="hidden" name="minDate" value="201810">
-			<input type="hidden" name="maxDate" value="201910">
-
-			<!-- 기간 -->
-			<div class="srch_deal_wrap srch_period">
-				<div class="period_setting">
-					<button type="button" class="btn_cal" onclick="fn_go('-')"><span class="ico_comm_s pv_cal">이전</span></button>
-
-					<span class="inp_slt" style="width:80px;margin-right:6px;">
-						<select title="연도 선택" name="year" id="ipjuYear" style="display: none;">
-							<option value="2018">2018</option><option value="2019" selected="">2019</option>
-						</select><span tabindex="0" id="ipjuYear-button" role="combobox" aria-expanded="false" aria-autocomplete="list" aria-owns="ipjuYear-menu" aria-haspopup="true" title="연도 선택" class="ui-selectmenu-button ui-selectmenu-button-closed ui-corner-all ui-button ui-widget"><span class="ui-selectmenu-icon ui-icon ui-icon-triangle-1-s"></span><span class="ui-selectmenu-text">2019</span></span>
-					</span>
-					년
-					<span class="inp_slt" style="width:80px;margin:0 6px 0 9px;">
-						<select title="월 선택" name="month" id="ipjuMonth" style="display: none;">
-							<option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4" selected="">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option>
-						</select><span tabindex="0" id="ipjuMonth-button" role="combobox" aria-expanded="false" aria-autocomplete="list" aria-owns="ipjuMonth-menu" aria-haspopup="true" title="월 선택" class="ui-selectmenu-button ui-selectmenu-button-closed ui-corner-all ui-button ui-widget"><span class="ui-selectmenu-icon ui-icon ui-icon-triangle-1-s"></span><span class="ui-selectmenu-text">4</span></span>
-					</span>
-					월
-					<button type="button" class="btn_cal" onclick="fn_go('+')"><span class="ico_comm_s nx_cal">다음</span></button>
-				</div>
-				<p><span class="fc_blue">이달의 입주정보를 한달단위</span>로 넘겨보세요. <br>입주정보는 현재시점으로 6개월간만 서비스하고 있습니다. </p>
 			</div>
-			<!-- //기간 -->
-
-			<!-- 검색 및 옵션 -->
-			<div class="srch_deal_wrap srch_sale_wrap2">
-				<div class="option_item">
-					<span class="option_tit">지역</span>
-					<span class="inp_wrap btn_type">
-						<button type="button" class="btn_srchbox">
-							<span class="ico_comm_s search">검색</span>
-						</button>
-						<input type="text" class="inp_txt" name="addr1search" onclick="search_CreateAddrHtml('body', this.value);" placeholder="시,구,동 등을 입력하세요." style="width:308px;margin-right:0;" value="서울특별시">
-					</span>
-					<div id="moveAutoFillAddressDiv" style="display:none;position:absolute;height:150px;width:500px;border:1px solid #003366;z-index:1;background-color:#FFFFFF;overflow-y:auto;"></div>
-				</div>
-
-				<div class="option_item">
-					<strong class="option_tit">종류</strong>
-					<span class="sort_wrap3">
-						<a href="javascript:;" onclick="fn_type('')" class="txt_sel selected">전체</a>
-						<a href="javascript:;" onclick="fn_type('A')" class="txt_sel ">아파트</a>
-						<a href="javascript:;" onclick="fn_type('C')" class="txt_sel ">오피스텔</a>
-						<a href="javascript:;" onclick="fn_type('D')" class="txt_sel ">도시형생활주택</a>
-					</span>
+			<!-- //추천분양현장 -->
+			<!-- 분양N현장 top 1 -->
+			<div class="sale_n fr">
+				<h4 class="h4_type5">분양&amp;현장<a href="/?_c=lots&amp;_s=lotsScene&amp;_m=lotsScene" class="more_type1 rb">더보기 <span class="ico_comm_s more1"></span></a></h4>
+				<div class="list_thumb_type4">
+					<ul id="lotsSceneList">	
+		<li>
+			<a href="http://www.r114.com/?_c=lots&amp;_s=lotsScene&amp;_m=lotsScene&amp;_a=moviedetail&amp;bno=200&amp;num=6492#page=1">
+				<span class="thumb"><img src="https://image.r114.co.kr/MainGnb/2017/20170928114812.jpg" alt=""></span>
+				<strong class="tit">여수웅천 꿈에그린 더 테라스</strong>
+				<span class="subtit">여가생활이 가능한 </span>
+				<p class="desc">여수 바다 View가 펼쳐진 아파트를 분양하는데요...</p>
+			</a>
+		</li>
+			</ul>
 				</div>
 			</div>
-			<!-- //검색 및 옵션 -->
-			</form>
+			<!-- //분양N현장 -->
+			</div>
+		<div class="clearfix mgt4">
+			<!-- 분양달력 -->
+			<div class="calendar_wrap2 bg_b fl">
+				<h4 class="h4_type5">분양 캘린더<a href="/?_c=lots&amp;_s=lotsSchedule&amp;_m=lotsSchedule" class="more_type1 rb">더보기<span class="ico_comm_s more1"></span></a></h4>
+				<div class="clearfix">
+					<!-- 달력 -->
+					<div class="calendar2">
+						 <div class="period">
+							<button type="button" class="btn_cal" id="cmdPrevDate"><span class="ico_comm_s pv_cal2">이전</span></button>
+							<span id="todayYearMonth">2019. 04</span>
+							<button type="button" class="btn_cal" id="cmdNextDate"><span class="ico_comm_s nx_cal2">다음</span></button>
+						</div>
+						<table class="tbl_calendar">
+							<caption>달력</caption>
+							<colgroup>
+								<col><col><col><col><col><col><col>
+							</colgroup>
+							<thead><tr><th>일</th><th>월</th><th>화</th><th>수</th><th>목</th><th>금</th><th>토</th></tr>			<tr>				<td> </td>				<td><span>1</span></td>				<td><span>2</span></td>				<td><span>3</span></td>				<td><span>4</span></td>				<td><span>5</span></td>				<td><span>6</span></td>			</tr>			<tr>				<td><span style="color:red">7</span></td>				<td><span>8</span></td>				<td><span>9</span></td>				<td><span class="today"><a href="javascript:getLotsScheduleInfo('20190410')"><span>10</span></a></span></td>				<td><a href="javascript:getLotsScheduleInfo('20190411')"><span>11</span></a></td>				<td><a href="javascript:getLotsScheduleInfo('20190412')"><span>12</span></a></td>				<td><span>13</span></td>			</tr>			<tr>				<td><span style="color:red">14</span></td>				<td><a href="javascript:getLotsScheduleInfo('20190415')"><span>15</span></a></td>				<td><a href="javascript:getLotsScheduleInfo('20190416')"><span>16</span></a></td>				<td><a href="javascript:getLotsScheduleInfo('20190417')"><span>17</span></a></td>				<td><a href="javascript:getLotsScheduleInfo('20190418')"><span>18</span></a></td>				<td><a href="javascript:getLotsScheduleInfo('20190419')"><span>19</span></a></td>				<td><span>20</span></td>			</tr>			<tr>				<td><span style="color:red">21</span></td>				<td><a href="javascript:getLotsScheduleInfo('20190422')"><span>22</span></a></td>				<td><a href="javascript:getLotsScheduleInfo('20190423')"><span>23</span></a></td>				<td><a href="javascript:getLotsScheduleInfo('20190424')"><span>24</span></a></td>				<td><span>25</span></td>				<td><a href="javascript:getLotsScheduleInfo('20190426')"><span>26</span></a></td>				<td><span>27</span></td>			</tr>			<tr>				<td><span style="color:red">28</span></td>				<td><a href="javascript:getLotsScheduleInfo('20190429')"><span>29</span></a></td>				<td><a href="javascript:getLotsScheduleInfo('20190430')"><span>30</span></a></td>				<td> </td>				<td> </td>				<td> </td>				<td> </td>			</tr></thead>
+						</table>
+					</div>
+					<!-- //달력 -->
 
-			<!-- sort -->
-			<div class="sort_wrap mgt3">
-				<a href="javascript:;" onclick="fn_orderby('입주시기')" class="selected down">입주시기순</a>
-				<a href="javascript:;" onclick="fn_orderby('총세대수')" class=" ">총세대수순</a>
-				<div class="total_cnt">
-					분양단지 총 <span id="ipjuListTotal">14</span>건
+					<!-- 분양일정 -->
+					<div class="schedule">
+						<em class="fc_blue" id="lotsScheduleDate">&lt;4월 10일(수) 분양일정&gt; </em>
+						<div class="list_schedule">
+							<ul id="lotsScheduleList">	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A02011426550000', 'schedule')">
+				<em class="fc_skyblue">접수</em>[아파트] 민간분양 - 1순위<br>
+				<p class="ellip">경기도 고양시 일산동 e편한세상일산어반스카이</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A02790039910010', 'schedule')">
+				<em class="fc_skyblue">접수</em>[아파트] 공공임대<br>
+				<p class="ellip">경기도 화성시 남양읍 화성남양뉴타운A5(행복주택)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A02180005760005', 'schedule')">
+				<em class="fc_skyblue">접수</em>[아파트] 공공임대<br>
+				<p class="ellip">경기도 하남시 감일동 하남감일A6(행복주택)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A02640039980000', 'schedule')">
+				<em class="fc_skyblue">접수</em>[아파트] 공공임대<br>
+				<p class="ellip">경기도 평택시 청북읍 평택청북B12(행복주택)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A02640016300009', 'schedule')">
+				<em class="fc_skyblue">접수</em>[아파트] 공공임대<br>
+				<p class="ellip">경기도 평택시 고덕면 평택고덕Ca2(행복주택)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A02640016300010', 'schedule')">
+				<em class="fc_skyblue">접수</em>[아파트] 공공임대<br>
+				<p class="ellip">경기도 평택시 고덕면 평택고덕Ca1(행복주택)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A02170029800001', 'schedule')">
+				<em class="fc_skyblue">접수</em>[아파트] 공공임대<br>
+				<p class="ellip">경기도 파주시 법원읍 파주법원(행복주택)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A15020317200001', 'schedule')">
+				<em class="fc_skyblue">접수</em>[아파트] 공공임대<br>
+				<p class="ellip">충청북도 청주시 운동동 청주동남A5(행복주택)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('C', 'G01110026420007', 'schedule')">
+				<em class="fc_skyblue">접수</em>[오피스텔] 민간분양<br>
+				<p class="ellip">서울특별시 동대문구 용두동 청량리역해링턴플레이스</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A14062819150003', 'schedule')">
+				<em class="fc_skyblue">접수</em>[아파트] 공공임대<br>
+				<p class="ellip">충청남도 천안시 두정동 천안두정A1(행복주택)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A05030017280003', 'schedule')">
+				<em class="fc_skyblue">접수</em>[아파트] 공공임대<br>
+				<p class="ellip">인천광역시 남동구 서창동 인천서창2지구14BL(행복주택)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A12190013890005', 'schedule')">
+				<em class="fc_skyblue">접수</em>[아파트] 공공임대<br>
+				<p class="ellip">전라남도 영암군 삼호읍 영암용앙(행복주택)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A14050002290007', 'schedule')">
+				<em class="fc_skyblue">접수</em>[아파트] 공공임대<br>
+				<p class="ellip">충청남도 아산시 배방읍 아산배방2A12(행복주택)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A04060032630000', 'schedule')">
+				<em class="fc_skyblue">접수</em>[아파트] 민간분양 - 1순위<br>
+				<p class="ellip">대구광역시 수성구 두산동 수성레이크푸르지오</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('C', 'G04060032630003', 'schedule')">
+				<em class="fc_skyblue">접수</em>[오피스텔] 민간분양<br>
+				<p class="ellip">대구광역시 수성구 두산동 수성레이크푸르지오</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A13051222520000', 'schedule')">
+				<em class="fc_skyblue">접수</em>[아파트] 민간분양 - 1순위<br>
+				<p class="ellip">전라북도 전주시 서완산동2가 서완산골드클래스</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A14020021490000', 'schedule')">
+				<em class="fc_skyblue">접수</em>[아파트] 민간분양 - 1순위<br>
+				<p class="ellip">충청남도 논산시 취암동 논산골든타워</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A02070036850002', 'schedule')">
+				<em class="fc_skyblue">접수</em>[아파트] 민간분양 - 1순위<br>
+				<p class="ellip">경기도 남양주시 진접읍 남양주더샵퍼스트시티(A1)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A13070025880003', 'schedule')">
+				<em class="fc_skyblue">접수</em>[아파트] 민간분양 - 2순위<br>
+				<p class="ellip">전라북도 고창군 고창읍 고창석정파크빌3차</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A02790027680006', 'schedule')">
+				<em class="fc_orange">발표</em>[아파트] 공공임대<br>
+				<p class="ellip">경기도 화성시 향남읍 화성향남2A20(행복주택)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A02790027680007', 'schedule')">
+				<em class="fc_orange">발표</em>[아파트] 공공임대<br>
+				<p class="ellip">경기도 화성시 향남읍 화성발안A1(행복주택)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('C', 'G05070004130018', 'schedule')">
+				<em class="fc_orange">발표</em>[오피스텔] 민간분양<br>
+				<p class="ellip">인천광역시 연수구 송도동 호반써밋송도(M2)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A05060007900000', 'schedule')">
+				<em class="fc_orange">발표</em>[아파트] 민간분양<br>
+				<p class="ellip">인천광역시 서구 당하동 인천검단대방노블랜드1차(AB4)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A08010001420005', 'schedule')">
+				<em class="fc_orange">발표</em>[아파트] 민간분양<br>
+				<p class="ellip">울산광역시 남구 신정동 문수로두산위브더제니스</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A07040018190004', 'schedule')">
+				<em class="fc_orange">발표</em>[아파트] 민간임대<br>
+				<p class="ellip">대전광역시 유성구 복용동 대전아이파크시티2단지(민간임대)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A07040018190003', 'schedule')">
+				<em class="fc_orange">발표</em>[아파트] 민간임대<br>
+				<p class="ellip">대전광역시 유성구 복용동 대전아이파크시티1단지(민간임대)</p>
+			</a>
+		</li>
+	
+		<li>
+			<a href="javascript:goLotsInfoDetailPage('B', 'A02640016300008', 'schedule')">
+				<em class="fc_green">계약</em>[아파트] 공공분양<br>
+				<p class="ellip">경기도 평택시 서정동 평택고덕신혼희망타운(공공분양)</p>
+			</a>
+		</li>
+	</ul>
+						</div>
+					</div>
+					<!-- //분양일정 -->
 				</div>
 			</div>
-			<!-- //sort -->
-			<!-- table -->
-			<table class="tbl_type1 type11">
-				<caption>분양단지 안내</caption>
-				<colgroup>
-					<col style="width:13%;">
-					<col style="width:27%;">
-					<col style="width:14%;">
-					<col style="width:14%;">
-					<col style="width:18%;">
-					<col style="width:14%;">
-				</colgroup>
-				<thead>
-					<tr>
-						<th scope="col">종류</th>
-						<th scope="col">단지명/소재지</th>
-						<th scope="col">공급/전용(㎡)</th>
-						<th scope="col">분양가(만원)</th>
-						<th scope="col">가구수</th>
-						<th scope="col">분양/입주시기</th>
-					</tr>
-				</thead>
-				<tbody class="list_ipju"><tr><td><span class="lf">도시형생활주택<br>민간분양</span></td><td class="lf"><a href="javascript:" onclick="goDetail(&quot;D&quot;, &quot;Q20180126110019&quot;);" class="link_s"><span class="fc_blue">답십리파크팰리스</span><br>동대문구 답십리동</a></td><td><span class="lf">31A/24A<br>32B/25B<br>30C/23C<br>32D/25D<br>32E/25E<br></span></td><td><span class="lf">미정<br>미정<br>미정<br>미정<br>미정<br></span></td><td><span class="lf">4<br>4<br>4<br>4<br>4<br></span></td><td>2018.01 분양<br>2019.04 입주</td></tr><tr class="even"><td colspan="4"></td><td class="fc_gray6">총 가구수 <em class="fc_black">20 </em>가구</td><td></td></tr><tr><td><span class="lf">도시형생활주택<br>민간분양</span></td><td class="lf"><a href="javascript:" onclick="goDetail(&quot;D&quot;, &quot;Q20170421152503&quot;);" class="link_s"><span class="fc_blue">보광타워</span><br>동대문구 답십리동</a></td><td><span class="lf">25A/14A<br>27B/16B<br>38D/22D<br>38E/22E<br>41C/24C<br>41F/24F<br></span></td><td><span class="lf">13,190<br>13,795<br>21,225<br>21,190<br>22,205<br>22,305<br></span></td><td><span class="lf">72<br>16<br>8<br>24<br>8<br>32<br></span></td><td>2017.03 분양<br>2019.04 입주</td></tr><tr class="even"><td colspan="4"></td><td class="fc_gray6">총 가구수 <em class="fc_black">160 </em>가구</td><td></td></tr><tr><td><span class="lf">도시형생활주택<br>민간분양</span></td><td class="lf"><a href="javascript:" onclick="goDetail(&quot;D&quot;, &quot;Q20170414105932&quot;);" class="link_s"><span class="fc_blue">청계센트럴큐브</span><br>성동구 상왕십리동</a></td><td><span class="lf">33A/19A<br>33A1/19A1<br>33A2/19A2<br>42B/24B<br>40B1/23B1<br></span></td><td><span class="lf">26,300<br>26,300<br>26,300<br>30,500<br>29,500<br></span></td><td><span class="lf">15<br>15<br>15<br>15<br>15<br></span></td><td>2017.04 분양<br>2019.04 입주</td></tr><tr class="even"><td colspan="4"></td><td class="fc_gray6">총 가구수 <em class="fc_black">75 </em>가구</td><td></td></tr><tr><td><span class="lf">도시형생활주택<br>민간분양</span></td><td class="lf"><a href="javascript:" onclick="goDetail(&quot;D&quot;, &quot;Q20180807103154&quot;);" class="link_s"><span class="fc_blue">항동하버라인(10단지)</span><br>구로구 항동</a></td><td><span class="lf">46A/29A<br>46AS/29AS<br>61A/39A<br>61AS/39AS<br></span></td><td><span class="lf">미정<br>미정<br>미정<br>미정<br></span></td><td><span class="lf">176<br>19<br>91<br>11<br></span></td><td>2018.04 분양<br>2019.04 입주</td></tr><tr class="even"><td colspan="4"></td><td class="fc_gray6">총 가구수 <em class="fc_black">297 </em>가구</td><td></td></tr><tr><td><span class="lf">도시형생활주택<br>민간분양</span></td><td class="lf"><a href="javascript:" onclick="goDetail(&quot;D&quot;, &quot;Q20180807103431&quot;);" class="link_s"><span class="fc_blue">항동하버라인(11단지)</span><br>구로구 항동</a></td><td><span class="lf">47A/29A<br>47AS/29AS<br>62A/39A<br>62AS/39AS<br></span></td><td><span class="lf">미정<br>미정<br>미정<br>미정<br></span></td><td><span class="lf">158<br>24<br>90<br>4<br></span></td><td>2018.04 분양<br>2019.04 입주</td></tr><tr class="even"><td colspan="4"></td><td class="fc_gray6">총 가구수 <em class="fc_black">276 </em>가구</td><td></td></tr><tr><td><span class="lf">도시형생활주택<br>민간분양</span></td><td class="lf"><a href="javascript:" onclick="goDetail(&quot;D&quot;, &quot;Q20180807102705&quot;);" class="link_s"><span class="fc_blue">항동하버라인(9단지)</span><br>구로구 항동</a></td><td><span class="lf">47A/29A<br>47AS/29AS<br>62A/39A<br>62AS/39AS<br></span></td><td><span class="lf">미정<br>미정<br>미정<br>미정<br></span></td><td><span class="lf">176<br>23<br>92<br>7<br></span></td><td>2018.04 분양<br>2019.04 입주</td></tr><tr class="even"><td colspan="4"></td><td class="fc_gray6">총 가구수 <em class="fc_black">298 </em>가구</td><td></td></tr><tr><td><span class="lf">아파트<br>민간분양</span></td><td class="lf"><a href="javascript:" onclick="goDetail(&quot;A&quot;, &quot;A01211401200015&quot;);" class="link_s"><span class="fc_blue">용산롯데캐슬센터포레</span><br>용산구 효창동</a></td><td><span class="lf">56/38<br>58/40<br>73/50<br>81A/59A<br>82B/59B<br>82C/59C<br>113A/84A<br>112B/84B<br>117C/84C<br>151/110<br></span></td><td><span class="lf">미정<br>미정<br>미정<br>57,630<br>57,630<br>55,370<br>78,970<br>79,920<br>78,340<br>87,500<br></span></td><td><span class="lf">39<br>33<br>10<br>74<br>80<br>24<br>92<br>96<br>18<br>12<br></span></td><td>2016.11 분양<br>2019.04 입주</td></tr><tr class="even"><td colspan="4"></td><td class="fc_gray6">총 가구수 <em class="fc_black">478 </em>가구</td><td></td></tr><tr><td><span class="lf">오피스텔<br>민간분양</span></td><td class="lf"><a href="javascript:" onclick="goDetail(&quot;C&quot;, &quot;G01020039080001&quot;);" class="link_s"><span class="fc_blue">강일테라우드</span><br>강동구 강일동</a></td><td><span class="lf">-/59A<br>-/59B<br></span></td><td><span class="lf">미정<br>미정<br></span></td><td><span class="lf">27<br>9<br></span></td><td>2017.12 분양<br>2019.04 입주</td></tr><tr class="even"><td colspan="4"></td><td class="fc_gray6">총 가구수 <em class="fc_black">36 </em>가구</td><td></td></tr><tr><td><span class="lf">오피스텔<br>민간분양</span></td><td class="lf"><a href="javascript:" onclick="goDetail(&quot;C&quot;, &quot;G01060019810003&quot;);" class="link_s"><span class="fc_blue">군자아스하임</span><br>광진구 중곡동</a></td><td><span class="lf">-/16A<br>-/16B<br>-/27<br></span></td><td><span class="lf">미정<br>미정<br>미정<br></span></td><td><span class="lf">28<br>50<br>1<br></span></td><td>2017.08 분양<br>2019.04 입주</td></tr><tr class="even"><td colspan="4"></td><td class="fc_gray6">총 가구수 <em class="fc_black">79 </em>가구</td><td></td></tr><tr><td><span class="lf">오피스텔<br>민간분양</span></td><td class="lf"><a href="javascript:" onclick="goDetail(&quot;C&quot;, &quot;G01110038680004&quot;);" class="link_s"><span class="fc_blue">답십리파크팰리스</span><br>동대문구 답십리동</a></td><td><span class="lf">46A/36A<br>46C/36C<br>47B/36B<br></span></td><td><span class="lf">26,700<br>26,200<br>26,500<br></span></td><td><span class="lf">20<br>10<br>20<br></span></td><td>2018.01 분양<br>2019.04 입주</td></tr><tr class="even"><td colspan="4"></td><td class="fc_gray6">총 가구수 <em class="fc_black">50 </em>가구</td><td></td></tr></tbody>
-			</table>
-			<!-- //table -->
-			<!-- paging -->
-			<div class="paging"><strong><span class="skip">현재페이지</span>1</strong><a href="javascript:goPage(2, 1);">2</a></div>
-			<!-- //paging -->
-
-			<!--분양 바디 하단 광고 -->
-			<div>
-			<iframe src="/?_c=Common&amp;_m=Ad&amp;banner=pc_boonyang_bottom_ad" scrolling="no" marginheight="0" marginwidth="0" frameborder="0" width="100%" height="90px" style="border:0; margin:0; padding-top:0px"></iframe>
+			<!-- //분양달력 -->
+			<!-- 광고 -->
+			<div class="ad_wrap fr">
+				<script language="JavaScript1.1" src="https://md.r114.co.kr/RealMedia/ads/adstream_jx.ads/www.r114.co.kr/MR@x18"></script><a href="https://md.r114.co.kr/RealMedia/ads/click_lx.ads/www.r114.co.kr/MR/1281257846/x18/OasDefault/byuyang_RIGHT_20180129/278x301_e20190320.jpg/30316536633231613563393131656230" target="_new"><img src="https://md.r114.co.kr/RealMedia/ads/Creatives/OasDefault/byuyang_RIGHT_20180129/278x301_e20190320.jpg" alt="" border="0"></a>
 			</div>
-			<!--//분양 바디 하단 광고 -->
-
+			<!-- //광고 -->
 		</div>
-		<!-- 컨텐츠 끝 -->
-        <!-- 라이트 시작 -->
-		<div class="right_wrap" id="divLotsRight"></div>
-		<!-- 라이트 끝 -->
+		<!-- util -->
+		<div class="quick_a type2 mgt4">
+			<div class="cont clearfix">
+				<a href="/?_c=lots&amp;_s=FreeRegistration&amp;_m=FreeRegistrationOfficetel" class="util_sale1"><span>분양정보<br>무료등록</span></a>
+				<!--<a href="javascript:openReceiveWebzine('#lp_layout_webzine');" class="util_sale2"><span>분양정보를 한눈에<br>분양웹진 신청</span></a>-->
+				<a href="/?_c=solution&amp;_m=solutiondefault&amp;_a=reps" class="util_sale3"><span>트랜드를 읽어내는<br>통계분석솔루션 REPS</span></a>
+				<a href="/?_c=solution&amp;_m=solutiondefault&amp;_a=katlas" class="util_sale4"><span>국내 최대 데이터<br>융합지역분석서비스 K-Atlas</span></a>
+				<a href="/?_c=lots&amp;_s=saleDB&amp;_m=saleDB" class="util_sale5"><span>분양 및 입주예정<br>DB구입 문의</span></a>
+			</div>
+		</div>
+		<!-- //util -->
+		<div class="clearfix mgt4">
+			<!-- 핫이슈현장 top 2 -->
+			<div class="sale_issue fl">
+				<h4 class="h4_type4">핫이슈현장<a href="/?_c=lots&amp;_m=lotsnews" class="more_type1 rb">더보기 <span class="ico_comm_s more1"></span></a></h4>
+				<div class="list_thumb_type4">
+					<ul id="lotsHotIssueList">	
+		<li>
+			<a href="http://www.r114.com/?_c=lots&amp;_m=lotsnews&amp;_a=newsdetail&amp;bno=70&amp;num=14288">
+				<span class="thumb"><img src="https://image.r114.co.kr/images/r114/2014/jo_g20190402.jpg" alt=""></span>
+				<strong class="tit">송파대우이안(이스트원)</strong>
+				<p class="desc">서울시 송파구 거여동</p>
+				<div class="info_wrap2">
+					<span>총 624세대 </span><span> 지하2층 </span><span>지상 33층</span>
+				</div>
+				<div class="info_wrap2">
+					분양면적  &nbsp;<span>1666-0887</span>
+				</div>
+				<div class="info_wrap2">
+					<span>분양 2019 </span><span> 세대 624(예정)</span>
+				</div>
+			</a>
+		</li>
+	
+		<li>
+			<a href="http://www.r114.com/?_c=lots&amp;_m=lotsnews&amp;_a=newsdetail&amp;bno=70&amp;num=14278">
+				<span class="thumb"><img src="https://image.r114.co.kr/images/r114/2014/jo_s201809006(1).jpg" alt=""></span>
+				<strong class="tit">신마곡지구 송정서희스타힐스</strong>
+				<p class="desc">서울시 강서구 방화동</p>
+				<div class="info_wrap2">
+					<span>총 480세대(예정) </span><span> 5개동</span>
+				</div>
+				<div class="info_wrap2">
+					분양면적  &nbsp;<span>1800-3884</span>
+				</div>
+				<div class="info_wrap2">
+					<span>분양 2018 </span><span> 세대 480(예정)</span>
+				</div>
+			</a>
+		</li>
+	</ul>
+				</div>
+			</div>
+			<!-- //핫이슈현장 -->
+			<!-- 브랜드PR관 -->
+			<div class="brand_pr fr">
+				<h4 class="h4_type4">브랜드PR관</h4>
+				<div class="aff_company">
+					<a href="javascript:" class="logo_company aff7" onclick="goBrandPR('http://www.hillstate.co.kr/')">힐스테이트</a>
+					<a href="javascript:" class="logo_company aff8" onclick="goBrandPR('http://www.dreamapt.co.kr/index.jsp')">꿈에그린</a>
+					<a href="javascript:" class="logo_company aff9" onclick="goBrandPR('http://www.prugio.com/')">푸르지오</a>
+					<a href="javascript:" class="logo_company aff10" onclick="goBrandPR('http://www.raemian.co.kr/')">래미안</a>
+					<a href="javascript:" class="logo_company aff11" onclick="goBrandPR('http://www.khug.or.kr/')">주택도시보증공사</a>
+					<a href="javascript:" class="logo_company aff12" onclick="goBrandPR('http://www.thesharp.co.kr/')">더샵</a>
+					<a href="javascript:" class="logo_company aff13" onclick="goBrandPR('http://www.lh.or.kr/')">한국토지주택공사</a>
+					<a href="javascript:" class="logo_company aff14" onclick="goBrandPR('http://www.hf.go.kr/')">한국주택금융공사</a>
+					<a href="javascript:" class="logo_company aff15" onclick="goBrandPR('http://www.lottecastle.co.kr/')">롯데캐슬</a>
+				</div>
+			</div>
+			<!-- //브랜드PR관 -->
+		</div>
+		<ul class="quick_b type2 mgt4">
+			<li class="notification">
+				<a href="javascript:" id="cmdAlarmSave">
+					<strong>분양알리미 신청하기</strong>
+					<p>분양정보를 보다 편리하게 확인하세요!</p>
+				</a>
+			</li>
+			<li class="ss_guide">
+				<a href="/?_c=lots&amp;_s=offerStrategy&amp;_m=lotsOfferGuide">
+					<strong>청약가이드 보기</strong>
+					<p>청약신청 순서 A에서 Z까지, 신청 전 꼭 확인하세요</p>
+				</a>
+			</li>
+		</ul>
 	</div>
 </div>
-<!-- 바디 시작 -->
+<!-- 바디 끝  -->
 
+<!-- 분양웹진 신청 레이업팝업 -->
+<div id="lp_layout_webzine">
+</div>
 
 <!--전체로딩-->
 <div class="loading_wrap" style="display:none;">
@@ -882,345 +1266,630 @@
 
 
 
-<script type="text/javascript" src="/W1/js/Lots/Lots.js"></script>
-<script type="text/javascript" src="/W1/js/PageUtil.js"></script>
-<script type="text/javascript" src="/W1/js/search.js"></script>
-
 <script type="text/javascript">
-var util1 = new PageUtil();
-var __loadingString = "<div class=\"loding_wrap on\"><img src=\"https://image.r114.co.kr/W1/images/sub/loding.gif\" alt=\"로딩중\"></div>";
 
-var page = isEmpty(getParameterByName("page")) ? "1" : decodeURI(getParameterByName("page")) ;
-var type_g = isEmpty(getParameterByName("type_g")) ? "" : decodeURI(getParameterByName("type_g")) ;
-var ArrType_g = isEmpty(getParameterByName("ArrType_g")) ? "" : decodeURI(getParameterByName("ArrType_g")) ;
-var orderby = isEmpty(getParameterByName("orderby")) ? "입주시기" : decodeURI(getParameterByName("orderby")) ;
-var ordersort = isEmpty(getParameterByName("ordersort")) ? "desc" : decodeURI(getParameterByName("ordersort")) ;
-var addr1 = isEmpty(getParameterByName("addr1")) ? "" : decodeURI(getParameterByName("addr1")) ;
-var addr2 = isEmpty(getParameterByName("addr2")) ? "" : decodeURI(getParameterByName("addr2")) ;
-var addr3 = isEmpty(getParameterByName("addr3")) ? "" : decodeURI(getParameterByName("addr3")) ;
-var year = isEmpty(getParameterByName("year")) ? "" : decodeURI(getParameterByName("year")) ;
-var month = isEmpty(getParameterByName("month")) ? "" : decodeURI(getParameterByName("month")) ;
+	var calendarDate;
+	var lotsScheduleData;
+	var loadFirst = true;
 
-var _CALLBACKFUNCALL	= "fnAreaSearchAll";		// 선택 전체
-var _CALLBACKFUNC		= "fnAreaSearch";			// 선택 하위
-var _CALLBACKFUNCSEARCH = "fnAreaSearchIn";			// 입력
+	var SEL_LOTS_ADDR1 = "";
+	var SEL_LOTS_ADDR2 = "";
+	var SEL_LOTS_ESTATE = "";
 
-$(document).ready(function() {
-	util1.setNum = 1;
-	util1.curPage = page;
-	util1.callFunction = fn_setIpjuList;
-	fn_setIpjuList();
-	//search_CreateAddrHtml("body");
+	$(document).ready(function() {
 
-	$('#ipjuMonth').on('selectmenuchange', function() {
-		var val = $("select#ipjuMonth option:selected").attr('value');
-		fn_go("sel")
-	});
-});
+		getLotsNewsList();
 
-function fnAreaSearch( code, level, name, posX, posY, Addr1, Addr2, Addr3){
-	/*fn_selectSearchValue('', Addr1, Addr2, Addr3, '');
-	document.ipjuSearch.page = "1";
-	document.ipjuSearch.submit();
-	*/
-	if ( !fnDateCheck() )
-	{
-		return;
-	}
-	else
-	{
-		window.location.href = "/?_c=lots&_m=ipjuinfo&type_g="+type_g+"&ArrType_g="+ArrType_g+"&orderby="+orderby+"&ordersort="+ordersort+"&page=1&addr1="+Addr1+"&addr2="+Addr2+"&addr3="+Addr3+"&year="+year+"&month="+month;
-	}
+		getTrendsList();
 
-}
+		getLotsRecommendList();
 
-function fnAreaSearchAll(pCartNo, pLevel, all, upPosX, upPosY, Addr1, Addr2, Addr3, tmpval, code, posX, posY){
-	/*fn_selectSearchValue('', Addr1, Addr2, Addr3, '');
-	document.ipjuSearch.page = "1";
-	document.ipjuSearch.submit();*/
-	if ( !fnDateCheck() )
-	{
-		return;
-	}
-	else
-	{
-		window.location.href = "/?_c=lots&_m=ipjuinfo&type_g="+type_g+"&ArrType_g="+ArrType_g+"&orderby="+orderby+"&ordersort="+ordersort+"&page=1&addr1="+Addr1+"&addr2="+Addr2+"&addr3="+Addr3+"&year="+year+"&month="+month;
-	}
-}
+		getLotsScene();
 
-function fnAreaSearchIn(Addr1, Addr2, Addr3, coordx, coordy, gubuncode, gubuncode1, gubuncode2, identifycode, searchkeyword){
-	/*fn_selectSearchValue('', Addr1, Addr2, Addr3, '');
-	document.ipjuSearch.page = "1";
-	document.ipjuSearch.submit();*/
-	if ( !fnDateCheck() )
-	{
-		return;
-	}
-	else
-	{
-		window.location.href = "/?_c=lots&_m=ipjuinfo&type_g="+type_g+"&ArrType_g="+ArrType_g+"&orderby="+orderby+"&ordersort="+ordersort+"&page=1&addr1="+Addr1+"&addr2="+Addr2+"&addr3="+Addr3+"&year="+year+"&month="+month;
-	}
-}
+		getLotsHotissueList();
 
-function fn_selectSearchValue(identifycode, addr1, addr2, addr3, gubuncode){
-	$("#ipjuSearch [name=addr1]").val(addr1);
-	$("#ipjuSearch [name=addr2]").val(addr2);
-	$("#ipjuSearch [name=addr3]").val(addr3);
-	$("#ipjuSearch [name=addr1search]").val(addr1 +' '+ addr2 +' '+ addr3 );
-	fn_autoFillSearchReset();
-	fn_setIpjuList();
-}
+		calendarDate = todayToDateString().substr(0, 6) + "01";
+		setLotsCalendar(todayToDateString());
 
-function fn_autoFillSearchReset(){
-	var addrAutoList = $("#moveAutoFillAddressDiv");
-	addrAutoList.css("display","none");
-	addrAutoList.html("");
-}
-function fn_autoFillSearchKeyIn(inputKey){
-	fn_autoFillSearchReset();
-	var addrAutoList = $("#moveAutoFillAddressDiv");
-	var jsonSearchAddressList = '{"rows":[]}';
-	if ( inputKey.trim().length >= 2) {
-		jsonSearchAddressList = fn_APIAutoFill( inputKey , 0 , 3);
-	}
-	returnData = JSON.parse(jsonSearchAddressList);
-	if ( returnData.rows.length < 1){
-		return false;
-	}
-	for (addri = 0; addri < returnData.rows.length ; addri ++ ){
-		if ( returnData.rows[addri].addr1 ){
-			addrAutoList.append('<div onclick=fn_selectSearchValue("'+ returnData.rows[addri].identifycode+'", "'+ returnData.rows[addri].addr1+'", "'+ returnData.rows[addri].addr2+'", "'+ returnData.rows[addri].addr3+'", "'+ returnData.rows[addri].gubuncode+'"); style="cursor:pointer">&nbsp;'+ returnData.rows[addri].addr1+'&nbsp;'+ returnData.rows[addri].addr2+'&nbsp;'+ returnData.rows[addri].addr3+'&nbsp;</div>')
-		}
-	}
-	addrAutoList.css("display","");
-}
+		getFutureLotsScheduleDate( getLotsScheduleInfo );
+		//getLotsScheduleInfo( todayToDateString() );
 
-function fn_setIpjuList(){
-	$("#ipjuSearch [name=page]").val(util1.curPage);
-	$(".list_ipju").html("<div style='line-height:500px;text-align:center;width:750px;' >"+__loadingString+"</div>");
+		$("#cmdPrevDate").on("click", function() {
+			calendarDate = getYearMonth(calendarDate, "prev") +  "01";
+			setLotsCalendar(calendarDate);
+		});
 
-	$.ajax({
-		type:"POST",
-		data:$("#ipjuSearch").serialize(),
-		url:"/?_c=lots&_m=ipjuinfo&_a=ipjuajax",
-		dataType:"html",
-		success:function(data){
-			var res = data.split("<!--@#$ INFO AREA $#@-->");
-			util1.totalCnt = parseInt(res[1]); // {총글수};
-			util1.curPage  = parseInt(res[2]); // {현재페이지};
-			util1.pageRows = parseInt(res[3]); // {출력글수};
-			util1.disPagepCnt = parseInt(res[4]); // {출력페이지수}
-			util1.setTotalPage();
-			$("#ipjuListTotal").html(res[1])
+		$("#cmdNextDate").on("click", function() {
+			calendarDate = getYearMonth(calendarDate, "next") +  "01";
+			setLotsCalendar(calendarDate);
+		});
 
-			$(".list_ipju").html(res[0])
-			fn_DrowPageNumber(1, ".paging")	;
-			//console.log(res[0]);
-		},
-		error:function(reparam){
-			//console.log(reparam);
-			//console.log("error");
-		}
-	});
-}
-
-
-function fn_go(mode){
-	var goYear = document.ipjuSearch.year.value;
-	var goMonth = document.ipjuSearch.month.value;
-
-	minDateVal = document.ipjuSearch.minDate.value;
-	maxDateVal = document.ipjuSearch.maxDate.value;
-
-	if ( mode == "+"){
-		goMonth = parseInt(goMonth) + 1;
-		if  ( parseInt(goMonth) > 12){
-			document.ipjuSearch.year.value = parseInt(goYear) + 1 ;
-			document.ipjuSearch.month.value = 1;
-		}else {
-			document.ipjuSearch.month.value = goMonth;
-		}
-	}else if ( mode == "-"){
-		goMonth = parseInt(goMonth) - 1;
-		if  ( parseInt(goMonth) < 1){
-			document.ipjuSearch.year.value = parseInt(goYear) - 1 ;
-			document.ipjuSearch.month.value = 12;
-		}else {
-			document.ipjuSearch.month.value = goMonth;
-		}
-	}
-
-	var goYear = document.ipjuSearch.year.value;
-	var goMonth = document.ipjuSearch.month.value;
-
-	goMonthStr = (parseInt(goMonth)< 10)? "0"+goMonth : goMonth ;
-	goYearMonth = goYear + goMonthStr;
-
-	$("#ipjuYear").val(goYear);
-	$("#ipjuYear").selectmenu("destroy").selectmenu({style:'dropdown'});
-	$("#ipjuYear").selectmenu("refresh");
-
-	$("#ipjuMonth").val(goMonth);
-	$("#ipjuMonth").selectmenu("destroy").selectmenu({style:'dropdown'});
-	$("#ipjuMonth").selectmenu("refresh");
-
-	if  ( (goYearMonth < minDateVal) && ( mode == "-") )  {
-		alert("조회기간이 아닙니다.");
-		return  false;
-	}
-	else if  ( (goYearMonth > maxDateVal) && ( mode == "+") )  {
-		alert("조회기간이 아닙니다.");
-		return  false;
-	}
-	else
-	{
-
-		if  ( ( mode == "sel") )  {
-			if ( ( goYearMonth > maxDateVal ) || ( goYearMonth < minDateVal) ) {
-				alert("조회기간이 아닙니다.");
-				return  false;
+		// 분양알리미 신청하기
+		$("#cmdAlarmSave").on("click", function() {
+			var url = "/?_c=mypage&_s=MarketPriceNotification&_m=marketPriceNotificationSell";
+			if (fn_isLogin() == "") {
+				alert(ALERT_REQUEST_LOGIN);
+				fn_loginDiv(url);
 			}
-		}
-		else if  ( ( mode == "-") || ( mode == "+"))  {
-			if ( ( goYearMonth > maxDateVal ) || ( goYearMonth < minDateVal) ) {
-				alert("조회기간이 아닙니다.");
-				return  false;
+			else {
+				window.location.href = url;
 			}
+		});
+
+		// 분양정보 더보기
+		$("#cmdInfoList").on("click", function() {
+		
+			goLotsInfoListPage();
+			
+		});
+	});
+
+	/* 이전달, 다음달 */
+	function getYearMonth(dt, way) {
+
+		var year = parseInt(dt.substr(0,4));
+		var month = parseInt(dt.substr(4,2));
+		var day = parseInt(dt.substr(6,2));
+
+		if (way == "prev") {
+			month = month - 1;
+		}
+		else {
+			month = month + 1;
 		}
 
-		util1.curPage = 1;
-
-		window.location.href = "/?_c=lots&_m=ipjuinfo&type_g="+type_g+"&ArrType_g="+ArrType_g+"&orderby="+orderby+"&ordersort="+ordersort+"&page=1&addr1="+addr1+"&addr2="+addr2+"&addr3="+addr3+"&year="+goYear+"&month="+goMonth;
-
-	}
-}
-
-/* 입주날짜 체크 */
-function fnDateCheck()
-{
-	var goYear = document.ipjuSearch.year.value;
-	var goMonth = document.ipjuSearch.month.value;
-
-	goMonthStr = (parseInt(goMonth)< 10)? "0"+goMonth : goMonth ;
-	goYearMonth = goYear + goMonthStr;
-
-	var minDateVal = document.ipjuSearch.minDate.value;
-	var maxDateVal = document.ipjuSearch.maxDate.value;
-
-
-	if  ( (goYearMonth < minDateVal)  )  {
-		alert("조회기간이 아닙니다.");
-		return  false;
-	}
-	else if  ( (goYearMonth > maxDateVal) )  {
-		alert("조회기간이 아닙니다.");
-		return  false;
-	}
-	else if  ( ( goYearMonth > maxDateVal ) || ( goYearMonth < minDateVal) ) {
-		alert("조회기간이 아닙니다.");
-		return  false;
-	}
-	else
-	{
-		return true;
-	}
-}
-
-function fn_type(type){
-	if ( !fnDateCheck() )
-	{
-		return;
-	}
-	else
-	{
-		var goYear = document.ipjuSearch.year.value;
-		var goMonth = document.ipjuSearch.month.value;
-
-		window.location.href = "/?_c=lots&_m=ipjuinfo&type_g="+type+"&ArrType_g="+ArrType_g+"&orderby="+orderby+"&ordersort="+ordersort+"&page=1&addr1="+addr1+"&addr2="+addr2+"&addr3="+addr3+"&year="+goYear+"&month="+goMonth;
-
-	}
-}
-
-
-function fn_orderby(vals) {
-	if ( !fnDateCheck() )
-	{
-		return;
-	}
-	else
-	{
-		if ( document.ipjuSearch.orderby.value != vals ){
-			document.ipjuSearch.ordersort.value = "desc";
-		}else if ( document.ipjuSearch.ordersort.value == "desc"){
-			document.ipjuSearch.ordersort.value = "asc";
-		}else {
-			document.ipjuSearch.ordersort.value = "desc";
+		if (month < 1) {
+			year--;
+			month = 12;
 		}
-		document.ipjuSearch.orderby.value = vals;
+		else if (month > 12) {
+			year++;
+			month = 1;
+		}
 
-		window.location.href = "/?_c=lots&_m=ipjuinfo&type_g="+type_g+"&ArrType_g="+ArrType_g+"&orderby="+vals+"&ordersort="+document.ipjuSearch.ordersort.value+"&page=1&addr1="+addr1+"&addr2="+addr2+"&addr3="+addr3+"&year="+year+"&month="+month;
+		return year.toString() + pad(month, 2);
 	}
-}
 
-function setUtilObj(setNum){
-	if(setNum == 1){
-		return util1;
+	function todayToDateString() {
+		var today = new Date();
+		var year = today.getFullYear();
+		var month = today.getMonth()  +1;
+		var day = today.getDate();
+
+		return pad(year, 4) + pad(month, 2) + pad(day, 2)
 	}
-}
 
-function fn_DrowPageNumber(setNum, setArea){
-	var setUtil = setUtilObj(setNum)
-	setUtil.setTotalPage();
-	$(setArea).html(setUtil.Drow());
-}
+	/* 유형 선택 */
+	function changeEstateType(kind) {
 
-function goPage(pageNo, setNum){
-	var setUtil = setUtilObj(setNum)
+		$("#estateType").find("a").each(function(index) {
+			$(this).removeClass("selected");
+			if (index == (kind-1)) {
+				$(this).addClass("selected");
+			}
+		});
 
-	setUtil.curPage = pageNo;
-	setUtil.callFunction();
-}
+		// 분양정보 조회
+		getLotsByImageMap(kind, "", "");
 
-function next_page(setNum){
-	var setUtil = setUtilObj(setNum)
+	}
 
-	setUtil.curPage = setUtil.getNextPage();
-	setUtil.callFunction();
-}
+	/* 분양웹진 신청 레이어 */
+	function openReceiveWebzine(container) {
 
-function next(setNum){
-	var setUtil = setUtilObj(setNum)
+		getUserInfoServer(function(result, data){
+				if (result == false){
+					if (confirm(ALERT_REQUEST_LOGIN)){
+						fn_loginDiv();
+						return;
+					}
+					else{
+						return false;
+					}
+				}
+				else
+				{
+					var formData = {container: container};
 
-	setUtil.curPage = setUtil.getNext();
-	setUtil.callFunction();
-}
+					$.ajax({
+						url : "/?_c=lots&_s=webzine&_m=webzine",
+						type: "POST",
+						data : formData,
+						success: function(data, textStatus, jqXHR){
+							var res = data.split("<!--@#$ INFO AREA $#@-->");
+							if (data.length > 0) { // 자료가 있을때.
+								$(container).html(res[0]);
+								openLp(container);				
+							}
+							else { // 자료가 없을때.
+								// $('#lp_layout2').html("");
+							}
+						},
+						error: function (jqXHR, textStatus, errorThrown){
+					 		// 	alert("code:"+jqXHR.status+"\n"+"message:"+jqXHR.responseText+"\n"+"error:"+errorThrown);
+						}
+					});
+				}
+			});
+	}
 
-function prev_page(setNum){
-	var setUtil = setUtilObj(setNum)
+	/* 분양웹진 신청 등록 */
+	function receiveWebzine() {
 
-	setUtil.curPage = setUtil.getPrevPage();
-	setUtil.callFunction();
-}
+		$.ajax({
+			url : "/?_c=lots&_s=webzine&_m=webzine&_a=ReceiveWebzine",
+			type: "POST",
+			//data : formData,
+			success: function(data, textStatus, jqXHR){
+				var res = data.split("<!--@#$ INFO AREA $#@-->");
+				if (data.length > 0) { // 자료가 있을때.
+					alert("정상적으로 신청되었습니다");
+					closeLp("#lp_layout_webzine");
+				}
+				else { // 자료가 없을때.
+					// $('#lp_layout2').html("");
+				}
+			},
+			error: function (jqXHR, textStatus, errorThrown){
+		 		// 	alert("code:"+jqXHR.status+"\n"+"message:"+jqXHR.responseText+"\n"+"error:"+errorThrown);
+			}
+		});
 
-function prev(setNum){
-	var setUtil = setUtilObj(setNum)
+	}
 
-	setUtil.curPage = setUtil.getPrev();
-	setUtil.callFunction();
-}
+	/* 분양정보 조회  */
+	function getLotsByImageMap(estateType, addr1, addr2) {
 
-function goDetail(estateType, aptCode) {
-	// 자신의 URL 저장
-	$.QueryString.rtu = $.QueryStringSerialize() + $.HashSerialize();
-	// 상세 URL
-	$.QueryString._c = 'lots';
-	$.QueryString._m = 'lotsinfodetail';
-	$.QueryString.detail = 'ipju';
-	$.QueryString.type_g = estateType;
-	$.QueryString.aptcode = aptCode;
+		var kind, metro, county, clickMode;
 
-	window.location.href = $.QueryStringSerialize();
-}
+		if (estateType == "") {
+			clickMode = "map";
+			$("#estateType").find("a").each(function(index) {
+				if ($(this).hasClass("selected")) {
+					kind = index+1;
+				}
+			});
+		}
+		else {
+			kind = estateType;
+			clickMode = "estate";
+		}
+
+		switch ( kind ) {
+			case 1 : kind = "아파트"; break;
+			case 2 : kind = "오피스텔"; break;
+			case 3 : kind = "도시형생활주택"; break;
+			case 4 : kind = "상가"; break;
+			case 5 : kind = "아파트형공장"; break;
+			default : kind= "";
+		}
+
+		if (addr1 == "") {
+			 metro = $('#frameMap').contents().find('#addr1').val();
+			 county = $('#frameMap').contents().find('#addr2').val();
+		}
+		else {
+			metro = addr1;
+			county = addr2;
+		}
+		
+		SEL_LOTS_ADDR1 = metro;
+		SEL_LOTS_ADDR2 = county;
+
+		if (estateType == "") {
+			$("#estateType").find("a").each(function(index) {
+				if ($(this).hasClass("selected")) {
+					SEL_LOTS_ESTATE = index+1;
+				}
+			});
+		}
+		else {
+			SEL_LOTS_ESTATE = estateType;
+		}	
+		
+		if (!loadFirst && clickMode == "map") {
+			goLotsInfoListPage();
+		}
+		else {
+			if (kind != "" && kind != "undefined" && metro != "" && metro != "undefined") 	{
+				var formData = { "addr1": metro, "addr2": county, "estateType": kind };
+	
+				$.ajax({
+					url : "/?_c=lots&_m=lotsDefault&_a=lotsInfoListByImageMap.ajax",
+					type: "POST",
+					data : formData,
+					success: function(data, textStatus, jqXHR){
+						if (jQuery.trim(data).length > 0) { // 자료가 있을때.
+							$("#saleInfoList").html(data);
+						}
+						else { // 자료가 없을때.
+							$("#saleInfoList").html("<li class='result_nodata'>분양정보가 없습니다.</li>");
+						}
+									
+					},
+					error: function (jqXHR, textStatus, errorThrown){
+				 		$("#saleInfoList").html("<li class='result_nodata'>분양정보가 없습니다.</li>");
+					}
+				});
+			}		
+		}
+		
+		loadFirst = false;
+		
+	}
+
+	/* 분양단지 상세 조회 */
+	function goLotsInfoDetailPage(typeGubun, compelxCd, owner) {
+		/**********************************************************************
+		 Modified by Mornlux(2017-12-05)
+		 상세페이지에서 자신을 호출한 페이지로 되돌아 갈 수 있도록 수정
+		**********************************************************************/
+		// 복귀할 URL
+		$.QueryString._c = 'lots';
+		if(owner == 'schedule') {
+			//일정
+			$.QueryString._s = 'lotsSchedule';
+			$.QueryString._m = 'lotsSchedule';
+		}
+		else {
+			//정보
+			$.QueryString._s = 'info';
+			$.QueryString._m = 'infolist';
+		}
+		$.QueryString.rtu = $.QueryStringSerialize() + $.HashSerialize();
+
+		// 상세 URL
+		$.QueryString._c = 'lots';
+		$.QueryString._m = 'lotsinfodetail';
+		$.QueryString.type_g = typeGubun;
+		$.QueryString.aptcode = compelxCd;
+
+		window.location.href = $.QueryStringSerialize();
+		//window.location.href = "/?_c=lots&_m=lotsinfodetail&type_g="+ typeGubun +"&aptcode=" + compelxCd;
+	}
+
+	/* 분양 뉴스 */
+	function getLotsNewsList() {
+
+		$.ajax({
+			url : "/?_c=lots&_m=lotsDefault&_a=lotsNewsList.ajax",
+			type: "POST",
+			//data : formData,
+			success: function(data, textStatus, jqXHR){
+				if (jQuery.trim(data).length > 0) { // 자료가 있을때.
+					$("#lotsNewsList").html(data);
+				}
+				else { // 자료가 없을때.
+					$("#lotsNewsList").html("<li class='result_nodata'>뉴스정보가 없습니다.</li>");
+				}
+			},
+			error: function (jqXHR, textStatus, errorThrown){
+		 		$("#lotsNewsList").html("<li class='result_nodata'>뉴스정보가 없습니다.</li>");
+			}
+		});
+
+	}
+
+	/* 업계동향 */
+	function getTrendsList() {
+
+		$.ajax({
+			url : "/?_c=lots&_m=lotsDefault&_a=LotsTrendsList.ajax",
+			type: "POST",
+			//data : formData,
+			success: function(data, textStatus, jqXHR){
+				if (jQuery.trim(data).length > 0) { // 자료가 있을때.
+					$("#list_trends").html(data);
+				}
+				else { // 자료가 없을때.
+					$("#list_trends").html("<li class='result_nodata'>정보가 없습니다.</li>");
+				}
+			},
+			error: function (jqXHR, textStatus, errorThrown){
+		 		$("#list_trends").html("<li class='result_nodata'>정보가 없습니다.</li>");
+			}
+		});
+
+	}
+
+	/* 추천분양현장 */
+	function getLotsRecommendList() {
+
+		$.ajax({
+			url : "/?_c=lots&_m=lotsDefault&_a=lotsRecommendList.ajax",
+			type: "POST",
+			//data : formData,
+			success: function(data, textStatus, jqXHR){
+				if (jQuery.trim(data).length > 0) { // 자료가 있을때.
+					$("#lotsRecommendList").html(data);
+				}
+				else { // 자료가 없을때.
+					$("#lotsRecommendList").html("<li class='result_nodata'>정보가 없습니다.</li>");
+				}
+			},
+			error: function (jqXHR, textStatus, errorThrown){
+		 		$("#lotsRecommendList").html("<li class='result_nodata'>정보가 없습니다.</li>");
+			}
+		});
+
+	}
+
+	/* 분양현장 */
+	function getLotsScene() {
+
+		$.ajax({
+			url : "/?_c=lots&_m=lotsDefault&_a=lotsSceneList.ajax",
+			type: "POST",
+			//data : formData,
+			success: function(data, textStatus, jqXHR){
+				if (jQuery.trim(data).length > 0) { // 자료가 있을때.
+					$("#lotsSceneList").html(data);
+				}
+				else { // 자료가 없을때.
+					$("#lotsSceneList").html("<li class='result_nodata'>정보가 없습니다.</li>");
+				}
+			},
+			error: function (jqXHR, textStatus, errorThrown){
+		 		$("#lotsSceneList").html("<li class='result_nodata'>정보가 없습니다.</li>");
+			}
+		});
+
+	}
+
+	/* 분양일정 달력 기본 설정  */
+	function setLotsCalendar(dt) {
+
+		var mm, dd, week, weekofDay, dateView;
+
+		week = new Array('일', '월', '화', '수', '목', '금', '토');
+
+		var year = dt.substr(0,4);
+		var month = dt.substr(4,2);
+		var day = dt.substr(6,2);
+		var date = new Date(year, month-1, day);
+
+		mm = parseInt(dt.substr(4, 2));
+		dd = parseInt(dt.substr(6, 2));
+		weekofDay = week[date.getDay()];
+
+//		dateView = "&lt;"  + mm + "월 " + dd + "일(" + weekofDay +") 분양일정"  + "&gt; ";
+//		$("#lotsScheduleDate").html(dateView);
+
+		$.when(
+			getLotsScheduleCount(dt)
+		).done(function() {
+			makeCalendar(dt);
+		});
+
+	}
+
+	/* 달력(월간) */
+	function makeCalendar(dt) {
+
+		var calendar;
+		var year = dt.substr(0,4);
+		var month = dt.substr(4,2);
+		var day = dt.substr(6,2);
+		var todate = todayToDateString();
+
+		// 현재 년, 월의 1일의 요일
+		var theDate = new Date(year, month-1, 1);
+		var theDay = theDate.getDay();
+
+		var last = [31,28,31,30,31,30,31,31,30,31,30,31];
+		// 윤년
+		if (year%4 == 0 && (year%100 !=0 || year%400 != 0)) {
+		    last[1] = 29;
+		}
+		// 현재 월의 마지막 일이 며칠인지.
+		var lastDate = last[month-1];
+
+
+		// 현재 월의 달력에 필요한 행의 개수
+		// theDay(빈 칸의 수), lastDate(월의 전체 일수)
+		var row = Math.ceil((theDay+lastDate)/7);
+
+		calendar  = "<tr>";
+		calendar += "<th>일</th>";
+		calendar += "<th>월</th>";
+		calendar += "<th>화</th>";
+		calendar += "<th>수</th>";
+		calendar += "<th>목</th>";
+		calendar += "<th>금</th>";
+		calendar += "<th>토</th>";
+		calendar += "</tr>";
+
+		var dateNum = 1 - theDay;
+
+		for(var i = 0; i < row; i++) {
+			calendar += '			<tr>';
+			for(var j = 0; j < 7; j++, dateNum++) {
+				if( dateNum < 1 || dateNum > lastDate ) {
+					calendar += '				<td> </td>';
+					continue;
+				}
+
+				var isToday = false;
+
+				if (parseInt(year) == parseInt(todate.substr(0,4)) && parseInt(month) == parseInt(todate.substr(4, 2)) && parseInt(dateNum) == parseInt(todate.substr(6, 2)) ) {
+					// {"날짜":"20171018","오픈수":"0","공고수":"0","청약수":"0","발표수":"1","계약수":"0","건수":"1"}
+					$.each (lotsScheduleData.rows, function(index, entry) {
+						if ( (year + month + pad(dateNum,2)) == entry["날짜"]  &&  parseInt(entry["건수"]) > 0 ) {
+							isToday = true;
+						}
+					});
+					if ( isToday == true ) {
+						calendar += '				<td><span class="today"><a href="javascript:getLotsScheduleInfo(\'' +  (year + month + pad(dateNum,2))  + '\')\"><span>' + dateNum + '</span></a></span></td>';
+					}
+					else {
+						calendar += '				<td><span class="today">' + dateNum + '</span></td>';
+					}
+				}
+				else {
+					$.each (lotsScheduleData.rows, function(index, entry) {
+						if ( (year + month + pad(dateNum,2)) == entry["날짜"]  &&  parseInt(entry["건수"]) > 0 ) {
+							isToday = true;
+						}
+					});
+					if (isToday) {
+						if (j < 1) {
+							calendar += '				<td><a href="javascript:getLotsScheduleInfo(\'' +  (year + month + pad(dateNum,2))  + '\')\"><span style="color:red">' + dateNum + '</span></a></td>';
+						}
+						else {
+							calendar += '				<td><a href="javascript:getLotsScheduleInfo(\'' +  (year + month + pad(dateNum,2))  + '\')\"><span>' + dateNum + '</span></a></td>';
+						}
+					}
+					else {
+						 if (j < 1) {
+							calendar += '				<td><span style="color:red">' + dateNum + '</span></td>';
+						}
+						else {
+							calendar += '				<td><span>' + dateNum + '</span></td>';
+						}
+					}
+				}
+			}
+			calendar += '			</tr>';
+		}
+
+		$(".tbl_calendar").find("thead").html(calendar);
+
+		$("#todayYearMonth").html(year + ". " + month)
+
+	}
+
+	/*  분양일정이 있는 가장 가까운 시일  */
+	function getFutureLotsScheduleDate( fnc ) {
+
+		$.ajax({
+			url : "/?_c=lots&_m=lotsDefault&_a=futureLotsScheduleDate.ajax",
+			type: "POST",
+			success: function(data, textStatus, jqXHR){
+				if (jQuery.trim(data).length > 0) { // 자료가 있을때.
+					fnc(data);
+					//$("#lotsScheduleList").html(data);
+				}
+				else { // 자료가 없을때.
+					$("#lotsScheduleList").html("<li class='result_nodata'>분양일정이 없습니다.</li>");
+				}
+			},
+			error: function (jqXHR, textStatus, errorThrown){
+		 		$("#lotsScheduleList").html("<li class='result_nodata'>분양일정이 없습니다.</li>");
+			}
+		});
+	}
+
+	/* 분양일정 날짜별 분양정보 */
+	var getLotsScheduleInfo = function(dt) {
+
+		var formData = {searchDate: dt};
+
+		$.ajax({
+			url : "/?_c=lots&_m=lotsDefault&_a=lotsScheduleList.ajax",
+			type: "POST",
+			data : formData,
+			success: function(data, textStatus, jqXHR){
+				if (jQuery.trim(data).length > 0) { // 자료가 있을때.
+					$("#lotsScheduleList").html(data);
+				}
+				else { // 자료가 없을때.
+					$("#lotsScheduleList").html("<li class='result_nodata'>분양일정이 없습니다.</li>");
+				}
+			},
+			error: function (jqXHR, textStatus, errorThrown){
+		 		$("#lotsScheduleList").html("<li class='result_nodata'>분양일정이 없습니다.</li>");
+			}
+		});
+
+		var mm, dd, week, weekofDay, dateView;
+
+		week = new Array('일', '월', '화', '수', '목', '금', '토');
+
+		var year = dt.substr(0,4);
+		var month = dt.substr(4,2);
+		var day = dt.substr(6,2);
+		var date = new Date(year, month-1, day);
+
+		mm = parseInt(dt.substr(4, 2));
+		dd = parseInt(dt.substr(6, 2));
+		weekofDay = week[date.getDay()];
+
+		dateView = "&lt;"  + mm + "월 " + dd + "일(" + weekofDay +") 분양일정"  + "&gt; ";
+		$("#lotsScheduleDate").html(dateView);
+
+	}
+
+	/* 분양일정 월별 분양건수 */
+	function getLotsScheduleCount(date) {
+
+		var formData = {searchDate: date};
+
+		return $.ajax({
+			url : "/?_c=lots&_m=lotsDefault&_a=lotsScheduleCount.ajax",
+			type: "POST",
+			data : formData,
+			dataType:"json",
+			success: function(data, textStatus, jqXHR){
+				var list = eval(data);
+				if (jQuery.trim(list.result) == "OK") {
+					lotsScheduleData = eval(data);
+				}
+				else { // 자료가 없을때.
+					//$("#lotsScheduleList").html("<li class='result_nodata'>분양일정이 없습니다.</li>");
+				}
+			},
+			error: function (jqXHR, textStatus, errorThrown){
+		 		//$("#lotsScheduleList").html("<li class='result_nodata'>분양일정이 없습니다.</li>");
+			}
+		});
+
+	}
+
+	/* 핫이슈현장 */
+	function getLotsHotissueList() {
+
+		$.ajax({
+			url : "/?_c=lots&_m=lotsDefault&_a=lotsHotIssueList.ajax",
+			type: "POST",
+			//data : formData,
+			success: function(data, textStatus, jqXHR){
+				if (jQuery.trim(data).length > 0) { // 자료가 있을때.
+					$("#lotsHotIssueList").html(data);
+				}
+				else { // 자료가 없을때.
+					$("#lotsHotIssueList").html("<li class='result_nodata'>정보가 없습니다.</li>");
+				}
+			},
+			error: function (jqXHR, textStatus, errorThrown){
+		 		$("#lotsHotIssueList").html("<li class='result_nodata'>정보가 없습니다.</li>");
+			}
+		});
+
+	}
+
+	/* 브랜드PR관  */
+	function goBrandPR(url) {
+
+		window.open(url, target="_blank");
+
+	}
+	
+	/* 분양정보 페이지로 이동  */
+	function goLotsInfoListPage() {
+	
+		$.QueryString._c = 'lots';
+		$.QueryString._m = 'infolist';
+		
+		$.Hash.page = 1;
+		$.Hash.metro = SEL_LOTS_ADDR1;
+		$.Hash.county = SEL_LOTS_ADDR2;
+		$.Hash.tab = SEL_LOTS_ESTATE;
+	
+		location.href = $.QueryStringSerialize() + $.HashSerialize();
+	
+	}	
+	
+
 </script>
-<div class="ui-selectmenu-menu ui-front"><ul aria-hidden="true" aria-labelledby="ipjuYear-button" id="ipjuYear-menu" role="listbox" tabindex="0" class="ui-menu ui-corner-bottom ui-widget ui-widget-content"></ul></div><div class="ui-selectmenu-menu ui-front"><ul aria-hidden="true" aria-labelledby="ipjuMonth-button" id="ipjuMonth-menu" role="listbox" tabindex="0" class="ui-menu ui-corner-bottom ui-widget ui-widget-content"></ul></div><iframe name="easyXDM_Kakao_default8529_provider" id="easyXDM_Kakao_default8529_provider" src="https://kapi.kakao.com/cors/?xdm_e=https%3A%2F%2Fwww.r114.com&amp;xdm_c=default8529&amp;xdm_p=1" frameborder="0" style="position: absolute; top: -2000px; left: 0px;"></iframe><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/d_vbiawPdxB.js?version=44#channel=f4e3793d558b14&amp;origin=https%3A%2F%2Fwww.r114.com" style="border: none;"></iframe></div><div></div></div></div></body>
+<iframe name="easyXDM_Kakao_default4665_provider" id="easyXDM_Kakao_default4665_provider" src="https://kapi.kakao.com/cors/?xdm_e=https%3A%2F%2Fwww.r114.com&amp;xdm_c=default4665&amp;xdm_p=1" frameborder="0" style="position: absolute; top: -2000px; left: 0px;"></iframe><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/d_vbiawPdxB.js?version=44#channel=f1c1634fce6373c&amp;origin=https%3A%2F%2Fwww.r114.com" style="border: none;"></iframe></div><div></div></div></div></body>
 </html>
