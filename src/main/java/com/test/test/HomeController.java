@@ -112,6 +112,32 @@ public class HomeController {
 		return "bunyang/develop";
 	}
 	
+	/* 경매 */
+	@RequestMapping(value = "/gyeongmae/inquiry", method = RequestMethod.GET)
+	public String gyeongmaeInquiry() {
+		return "gyeongmae/inquiry";
+	}
+	@RequestMapping(value = "/gyeongmae/study", method = RequestMethod.GET)
+	public String gyeongmaeStudy() {
+		return "gyeongmae/study";
+	}
+	@RequestMapping(value = "/gyeongmae/result", method = RequestMethod.GET)
+	public String gyeongmaeResult() {
+		return "gyeongmae/result";
+	}
+	@RequestMapping(value = "/gyeongmae/community", method = RequestMethod.GET)
+	public String gyeongmaeCommunity() {
+		return "gyeongmae/community";
+	}
+	@RequestMapping(value = "/gyeongmae/fun", method = RequestMethod.GET)
+	public String gyeongmaeFun() {
+		return "gyeongmae/fun";
+	}
+	@RequestMapping(value = "/gyeongmae/mypage", method = RequestMethod.GET)
+	public String gyeongmaeMypage() {
+		return "gyeongmae/mypage";
+	}
+	
 	
 	
 }

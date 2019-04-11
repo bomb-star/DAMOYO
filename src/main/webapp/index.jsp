@@ -4,16 +4,25 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link href="${pageContext.request.contextPath}/resources/css/style.css"
+<title>부동산 114</title>
+<link href="${pageContext.request.contextPath}/resources/css/layout.css"
 	rel="stylesheet">
-
-<title>Insert title here</title>
+	<link href="${pageContext.request.contextPath}/resources/css/reset.css"
+	rel="stylesheet">
+	<link href="${pageContext.request.contextPath}/resources/css/jquery-ui.css"
+	rel="stylesheet">
+	<link href="${pageContext.request.contextPath}/resources/css/template.css"
+	rel="stylesheet">
+	<link href="${pageContext.request.contextPath}/resources/css/common.css"
+	rel="stylesheet">
+	<link href="${pageContext.request.contextPath}/resources/css/jquery.boxslider.css"
+	rel="stylesheet">
 </head>
 <body class="main">
 	<div id="top_layout" class="no_2depth">
 		<div class="top_wrap">
 			<div class="w_fix">
-				<a class="logo">logo</a>
+				<a class="logo_r114">logo</a>
 				<div class="search_wrap">
 					<form>
 						<input type="text" class="g_search"> <a class="btn_search">search</a>
@@ -139,21 +148,21 @@
 				</span></li>
 
 				<li class=""><span> <a
-						href="/?_c=service&amp;_m=Auction">경매</a>
+						href="${pageContext.request.contextPath}/gyeongmae/inquiry">경매</a>
 						<div class="layer_menu lm_9">
 							<ul>
 								<li class=""><a
-									href="/?_c=service&amp;_m=Auction&amp;tab=1">경매물건조회</a></li>
+									href="${pageContext.request.contextPath}/gyeongmae/inquiry">경매물건조회</a></li>
 								<li class=""><a
-									href="/?_c=service&amp;_m=Auction&amp;tab=2">경매STUDY</a></li>
+									href="${pageContext.request.contextPath}/gyeongmae/study">경매STUDY</a></li>
 								<li class=""><a
-									href="/?_c=service&amp;_m=Auction&amp;tab=3">경매결과/통계</a></li>
+									href="${pageContext.request.contextPath}/gyeongmae/result">경매결과/통계</a></li>
 								<li class=""><a
-									href="/?_c=service&amp;_m=Auction&amp;tab=4">경매커뮤니티</a></li>
+									href="${pageContext.request.contextPath}/gyeongmae/community">경매커뮤니티</a></li>
 								<li class=""><a
-									href="/?_c=service&amp;_m=Auction&amp;tab=5">FUN경매</a></li>
+									href="${pageContext.request.contextPath}/gyeongmae/fun">FUN경매</a></li>
 								<li class=""><a
-									href="/?_c=service&amp;_m=Auction&amp;tab=6">My페이지</a></li>
+									href="${pageContext.request.contextPath}/gyeongmae/mypage">My페이지</a></li>
 							</ul>
 						</div>
 				</span></li>

@@ -369,30 +369,41 @@
 					<li class=""><a href="/?_c=solution&amp;_m=event">이벤트</a></li>
 				</ul>
 			</li>	
-			
-			<li class="">
-				<span>
-					<a href="/?_c=service&amp;_m=Auction">경매</a>
-					<div class="layer_menu lm_9">
-						<ul>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=1">경매물건조회</a></li>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=2">경매STUDY</a></li>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=3">경매결과/통계</a></li>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=4">경매커뮤니티</a></li>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=5">FUN경매</a></li>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=6">My페이지</a></li>
-						</ul>
-					</div>
+			<li class=""><span> <a
+						href="${pageContext.request.contextPath}/gyeongmae/inquiry">경매</a>
+						<div class="layer_menu lm_9">
+							<ul>
+								<li class=""><a
+									href="${pageContext.request.contextPath}/gyeongmae/inquiry">경매물건조회</a></li>
+								<li class=""><a
+									href="${pageContext.request.contextPath}/gyeongmae/study">경매STUDY</a></li>
+								<li class=""><a
+									href="${pageContext.request.contextPath}/gyeongmae/result">경매결과/통계</a></li>
+								<li class=""><a
+									href="${pageContext.request.contextPath}/gyeongmae/community">경매커뮤니티</a></li>
+								<li class=""><a
+									href="${pageContext.request.contextPath}/gyeongmae/fun">FUN경매</a></li>
+								<li class=""><a
+									href="${pageContext.request.contextPath}/gyeongmae/mypage">My페이지</a></li>
+							</ul>
+						</div>
 				</span>
-                <ul>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=1">경매물건조회</a></li>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=2">경매STUDY</a></li>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=3">경매결과/통계</a></li>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=4">경매커뮤니티</a></li>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=5">FUN경매</a></li>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=6">My페이지</a></li>
-				</ul>
-			</li>
+				<ul>
+								<li class=""><a
+									href="${pageContext.request.contextPath}/gyeongmae/inquiry">경매물건조회</a></li>
+								<li class=""><a
+									href="${pageContext.request.contextPath}/gyeongmae/study">경매STUDY</a></li>
+								<li class=""><a
+									href="${pageContext.request.contextPath}/gyeongmae/result">경매결과/통계</a></li>
+								<li class=""><a
+									href="${pageContext.request.contextPath}/gyeongmae/community">경매커뮤니티</a></li>
+								<li class=""><a
+									href="${pageContext.request.contextPath}/gyeongmae/fun">FUN경매</a></li>
+								<li class=""><a
+									href="${pageContext.request.contextPath}/gyeongmae/mypage">My페이지</a></li>
+							</ul>
+				</li>
+			
 
 			<li class="">
 				<span>
