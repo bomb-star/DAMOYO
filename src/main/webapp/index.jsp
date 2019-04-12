@@ -22,7 +22,7 @@
 	<div id="top_layout" class="no_2depth">
 		<div class="top_wrap">
 			<div class="w_fix">
-				<a class="logo_r114">logo</a>
+				<a href="${pageContext.request.contextPath}/index" class="logo_r114">logo</a>
 				<div class="search_wrap">
 					<form>
 						<input type="text" class="g_search"> <a class="btn_search">search</a>

@@ -35,6 +35,12 @@ public class HomeController {
 		
 		return "home";
 	}
+	
+	@RequestMapping(value = "/index", method = RequestMethod.GET)
+	public String index() {
+		return "redirect:/";
+	}
+	
 	@RequestMapping(value = "/zicgurae/personal", method = RequestMethod.GET)
 	public String personal() {
 		return "zicgurae/personal";

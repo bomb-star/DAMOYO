@@ -417,23 +417,23 @@ var _AceTM = (function (_j, _s, _b, _o, _y) {
             </li>
            <li class="on">
 				<span>
-					<a href="/?_c=ask">매물의뢰</a>
+					<a href="${pageContext.request.contextPath}/eroe/eroeMain">매물의뢰</a>
 					<div class="layer_menu lm_2">
 						<ul>
 							<li class=""><a href="javascript:goAskSellPage();">내놓기</a></li>
 							<li class=""><a href="javascript:goAskBuyPage();">구하기</a></li>
-							<li class=""><a href="/?_c=ask&amp;_m=asklist">의뢰현황</a></li>
-							<li class="on"><a href="/?_c=ask&amp;_m=customerreview">고객후기</a></li>
-							<li class=""><a href="/?_c=ask&amp;_m=findagent">중개사무소찾기</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/eroe/eroeSatus">의뢰현황</a></li>
+							<li class="on"><a href="${pageContext.request.contextPath}/eroe/customerReview">고객후기</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/eroe/searchSalesman">중개사무소찾기</a></li>
 						</ul>
 					</div>
 				</span>
                 <ul>
 					<li class=""><a href="javascript:goAskSellPage();">내놓기</a></li>
 					<li class=""><a href="javascript:goAskBuyPage();">구하기</a></li>
-                    <li class=""><a href="/?_c=ask&amp;_m=asklist">의뢰현황</a></li>
-                    <li class="on"><a href="/?_c=ask&amp;_m=customerreview">고객후기</a></li>
-                    <li class=""><a href="/?_c=ask&amp;_m=findagent">중개사무소찾기</a></li>
+                    <li class=""><a href="${pageContext.request.contextPath}/eroe/eroeSatus">의뢰현황</a></li>
+                    <li class="on"><a href="${pageContext.request.contextPath}/eroe/customerReview">고객후기</a></li>
+                    <li class=""><a href="${pageContext.request.contextPath}/eroe/searchSalesman">중개사무소찾기</a></li>
                 </ul>
             </li>
 
@@ -646,9 +646,9 @@ var _AceTM = (function (_j, _s, _b, _o, _y) {
             </div>
             <div class="location">
                 <ul>
-                    <li><a href="/">홈</a></li>
-                    <li><a href="/?_c=ask">매물의뢰</a></li>
-                    <li><a href="/?_c=ask&amp;_m=customerreview">고객후기</a></li>
+                    <li><a href="${pageContext.request.contextPath}/index">홈</a></li>
+                    <li><a href="${pageContext.request.contextPath}/eroe/eroeMain">매물의뢰</a></li>
+                    <li><a href="${pageContext.request.contextPath}/eroe/customerReview">고객후기</a></li>
                 </ul>
             </div>
         </div>
