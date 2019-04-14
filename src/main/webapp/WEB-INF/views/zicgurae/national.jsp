@@ -199,10 +199,10 @@
     	<ul class="menu">
 			<li class="">
 				<span>
-					<a href="/?_c=memul&amp;_m=p10">매물/시세</a>
+					<a href="${pageContext.request.contextPath}/sisae/mainSisae">매물/시세</a>
 					<div class="layer_menu lm_1">
 						<ul class="col">
-							<li><a href="/?_c=memul&amp;_m=p10&amp;direct=A">아파트</a></li>
+							<li><a href="${pageContext.request.contextPath}/sisae/apartDetail">아파트</a></li>
 							<li><a href="/?_c=memul&amp;_m=p10&amp;direct=B">주상복합</a></li>
 							<li><a href="/?_c=memul&amp;_m=p10&amp;direct=C">재건축</a></li>
 							<li><a href="/?_c=memul&amp;_m=p10&amp;direct=D">오피스텔</a></li>
@@ -224,7 +224,7 @@
 					</div>
 				</span>
                 <ul id="MemulType1">
-                    <li><a href="/?_c=memul&amp;_m=p10&amp;direct=A">아파트</a></li>
+                    <li><a href="${pageContext.request.contextPath}/sisae/apartDetail">아파트</a></li>
                     <li><a href="/?_c=memul&amp;_m=p10&amp;direct=B">주상복합</a></li>
                     <li><a href="/?_c=memul&amp;_m=p10&amp;direct=C">재건축</a></li>
                     <li><a href="/?_c=memul&amp;_m=p10&amp;direct=D">오피스텔</a></li>
@@ -246,68 +246,68 @@
             </li>
            <li class="">
 				<span>
-					<a href="/?_c=ask">매물의뢰</a>
+					<a href="${pageContext.request.contextPath}/eroe/mainEroe">매물의뢰</a>
 					<div class="layer_menu lm_2">
 						<ul>
 							<li class=""><a href="javascript:goAskSellPage();">내놓기</a></li>
 							<li class=""><a href="javascript:goAskBuyPage();">구하기</a></li>
-							<li class=""><a href="/?_c=ask&amp;_m=asklist">의뢰현황</a></li>
-							<li class=""><a href="/?_c=ask&amp;_m=customerreview">고객후기</a></li>
-							<li class=""><a href="/?_c=ask&amp;_m=findagent">중개사무소찾기</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/eroe/eroeStatus">의뢰현황</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/eroe/customerReview">고객후기</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/eroe/searchSaleseman">중개사무소찾기</a></li>
 						</ul>
 					</div>
 				</span>
                 <ul>
 					<li class=""><a href="javascript:goAskSellPage();">내놓기</a></li>
 					<li class=""><a href="javascript:goAskBuyPage();">구하기</a></li>
-                    <li class=""><a href="/?_c=ask&amp;_m=asklist">의뢰현황</a></li>
-                    <li class=""><a href="/?_c=ask&amp;_m=customerreview">고객후기</a></li>
-                    <li class=""><a href="/?_c=ask&amp;_m=findagent">중개사무소찾기</a></li>
+                    <li class=""><a href="${pageContext.request.contextPath}/eroe/eroeStatus">의뢰현황</a></li>
+					<li class=""><a href="${pageContext.request.contextPath}/eroe/customerReview">고객후기</a></li>
+					<li class=""><a href="${pageContext.request.contextPath}/eroe/searchSaleseman">중개사무소찾기</a></li>
                 </ul>
             </li>
 
 			<li class="on">
 				<span>
-					<a href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistPersonal">직거래</a>
+					<a href="${pageContext.request.contextPath}/zicgurae/personal">직거래</a>
 					<div class="layer_menu lm_3">
 						<ul>
-							<li class=""><a href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistPersonal">개인매물</a></li>
-							<li class=""><a href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistEnterprise">기업매물</a></li>
-				            <li class="on"><a href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistState">국유재산사용/매각</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/zicgurae/personal">개인매물</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/zicgurae/company">기업매물</a></li>
+				            <li class=""><a href="${pageContext.request.contextPath}/zicgurae/national">국유재산사용/매각</a></li>
 						</ul>
 					</div>
 				</span>
                 <ul>
-                    <li class=""><a href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistPersonal">개인매물</a></li>
-					<li class=""><a href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistEnterprise">기업매물</a></li>
-                    <li class="on"><a href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistState">국유재산사용/매각</a></li>
+                    <li class=""><a href="${pageContext.request.contextPath}/zicgurae/personal">개인매물</a></li>
+					<li class=""><a href="${pageContext.request.contextPath}/zicgurae/company">기업매물</a></li>
+				    <li class=""><a href="${pageContext.request.contextPath}/zicgurae/national">국유재산사용/매각</a></li>
                 </ul>
             </li>
 
             <li class="">
 				<span>
-					<a href="/?_c=lots">분양</a>
+					<a href="${pageContext.request.contextPath}/bunyang/main">분양</a>
 					<div class="layer_menu lm_5">
 						<ul>
-							<li class=""><a href="/?_c=lots&amp;_s=info&amp;_m=infolist">분양정보</a></li>
-							<li class=""><a href="/?_c=lots&amp;_s=lotsSchedule&amp;_m=lotsSchedule">분양일정</a></li>
-							<li class=""><a href="/?_c=lots&amp;_m=lotsnews">분양뉴스</a></li>
-							<li class=""><a href="/?_c=lots&amp;_s=lotsScene&amp;_m=lotsScene">분양&amp;현장</a></li>
-							<li class=""><a href="/?_c=lots&amp;_m=ipjuinfo">입주지원센터</a></li>
-							<li class=""><a href="/?_c=lots&amp;_s=offerStrategy&amp;_m=lotsOfferGuide">청약전략</a></li>
-							<li class=""><a href="/?_c=lots&amp;_s=Jigu&amp;_m=JiguList">지역개발정보</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/bunyang/information">분양정보</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/bunyang/plan">분양일정</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/bunyang/news">분양뉴스</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/bunyang/site">분양&amp;현장</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/bunyang/supply">입주지원센터</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/bunyang/stategy">청약전략</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/bunyang/develop">지역개발정보</a></li>
 							<!--<li class=""><a href="/?_c=lots&_m=VrCenterlist&_s=VrCenterlist">VR분양관</a></li>			-->
 						</ul>
 					</div>
 				</span>
                 <ul>
-					<li class=""><a href="/?_c=lots&amp;_s=info&amp;_m=infolist">분양정보</a></li>
-					<li class=""><a href="/?_c=lots&amp;_s=lotsSchedule&amp;_m=lotsSchedule">분양일정</a></li>
-					<li class=""><a href="/?_c=lots&amp;_m=lotsnews">분양뉴스</a></li>
-					<li class=""><a href="/?_c=lots&amp;_s=lotsScene&amp;_m=lotsScene">분양&amp;현장</a></li>
-					<li class=""><a href="/?_c=lots&amp;_m=ipjuinfo">입주지원센터</a></li>
-					<li class=""><a href="/?_c=lots&amp;_s=offerStrategy&amp;_m=lotsOfferGuide">청약전략</a></li>
-					<li class=""><a href="/?_c=lots&amp;_s=Jigu&amp;_m=JiguList">지역개발정보</a></li>
+						<li class=""><a href="${pageContext.request.contextPath}/bunyang/information">분양정보</a></li>
+						<li class=""><a href="${pageContext.request.contextPath}/bunyang/plan">분양일정</a></li>
+						<li class=""><a href="${pageContext.request.contextPath}/bunyang/news">분양뉴스</a></li>
+						<li class=""><a href="${pageContext.request.contextPath}/bunyang/site">분양&amp;현장</a></li>
+						<li class=""><a href="${pageContext.request.contextPath}/bunyang/supply">입주지원센터</a></li>
+						<li class=""><a href="${pageContext.request.contextPath}/bunyang/stategy">청약전략</a></li>
+						<li class=""><a href="${pageContext.request.contextPath}/bunyang/develop">지역개발정보</a></li>
 					<!--<li class=""><a href="/?_c=lots&_m=VrCenterlist&_s=VrCenterlist">VR분양관</a></li>-->
 					
                 </ul>
@@ -372,25 +372,25 @@
 			
 			<li class="">
 				<span>
-					<a href="/?_c=service&amp;_m=Auction">경매</a>
+					<a href="${pageContext.request.contextPath}/gyeongmae/inquiry">경매</a>
 					<div class="layer_menu lm_9">
 						<ul>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=1">경매물건조회</a></li>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=2">경매STUDY</a></li>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=3">경매결과/통계</a></li>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=4">경매커뮤니티</a></li>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=5">FUN경매</a></li>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=6">My페이지</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/gyeongmae/inquiry">경매물건조회</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/gyeongmae/study">경매STUDY</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/gyeongmae/result">경매결과/통계</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/gyeongmae/community">경매커뮤니티</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/gyeongmae/fun">FUN경매</a></li>
+							<li class=""><a href="${pageContext.request.contextPath}/gyeongmae/myPage">My페이지</a></li>
 						</ul>
 					</div>
 				</span>
                 <ul>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=1">경매물건조회</a></li>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=2">경매STUDY</a></li>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=3">경매결과/통계</a></li>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=4">경매커뮤니티</a></li>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=5">FUN경매</a></li>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=6">My페이지</a></li>
+					<li class=""><a href="${pageContext.request.contextPath}/gyeongmae/inquiry">경매물건조회</a></li>
+					<li class=""><a href="${pageContext.request.contextPath}/gyeongmae/study">경매STUDY</a></li>
+					<li class=""><a href="${pageContext.request.contextPath}/gyeongmae/result">경매결과/통계</a></li>
+					<li class=""><a href="${pageContext.request.contextPath}/gyeongmae/community">경매커뮤니티</a></li>
+					<li class=""><a href="${pageContext.request.contextPath}/gyeongmae/fun">FUN경매</a></li>
+					<li class=""><a href="${pageContext.request.contextPath}/gyeongmae/myPage">My페이지</a></li>
 				</ul>
 			</li>
 
@@ -461,6 +461,7 @@
         </ul>
 
     </div>
+
 </div>
 <!-- 탑 끝 -->
 
@@ -1740,5 +1741,12 @@
 		setUtil.callFunction();
 	}
 
-</script><div class="ui-selectmenu-menu ui-front"><ul aria-hidden="true" aria-labelledby="useType-button" id="useType-menu" role="listbox" tabindex="0" class="ui-menu ui-corner-bottom ui-widget ui-widget-content"></ul></div><iframe name="easyXDM_Kakao_default4117_provider" id="easyXDM_Kakao_default4117_provider" src="https://kapi.kakao.com/cors/?xdm_e=https%3A%2F%2Fwww.r114.com&amp;xdm_c=default4117&amp;xdm_p=1" frameborder="0" style="position: absolute; top: -2000px; left: 0px;"></iframe><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/d_vbiawPdxB.js?version=44#channel=f3e2f74556712c&amp;origin=https%3A%2F%2Fwww.r114.com" style="border: none;"></iframe></div><div></div></div></div></body>
+</script><div class="ui-selectmenu-menu ui-front"><ul aria-hidden="true" aria-labelledby="useType-button" id="useType-menu" role="listbox" tabindex="0" class="ui-menu ui-corner-bottom ui-widget ui-widget-content"></ul></div><iframe name="easyXDM_Kakao_default4117_provider" id="easyXDM_Kakao_default4117_provider" src="https://kapi.kakao.com/cors/?xdm_e=https%3A%2F%2Fwww.r114.com&amp;xdm_c=default4117&amp;xdm_p=1" frameborder="0" style="position: absolute; top: -2000px; left: 0px;"></iframe><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div>
+				<iframe name="fb_xdm_frame_https" frameborder="0"
+					allowtransparency="true" allowfullscreen="true" scrolling="no"
+					allow="encrypted-media" id="fb_xdm_frame_https" aria-hidden="true"
+					title="Facebook Cross Domain Communication Frame" tabindex="-1"
+					src="https://staticxx.facebook.com/connect/xd_arbiter/r/d_vbiawPdxB.js?version=44#channel=f3e2f74556712c&amp;origin=https%3A%2F%2Fwww.r114.com"
+					style="border: none;"></iframe>
+			</div><div></div></div></div></body>
 </html>

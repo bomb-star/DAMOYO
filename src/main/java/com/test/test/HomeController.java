@@ -36,11 +36,13 @@ public class HomeController {
 		return "home";
 	}
 	
+	/* ¸ÞÀÎ */
 	@RequestMapping(value = "/index", method = RequestMethod.GET)
 	public String index() {
 		return "redirect:/";
 	}
 	
+	/* Á÷°Å·¡ */
 	@RequestMapping(value = "/zicgurae/personal", method = RequestMethod.GET)
 	public String personal() {
 		return "zicgurae/personal";
@@ -54,11 +56,18 @@ public class HomeController {
 		return "zicgurae/national";
 	}
 	
+	/* ½Ã¼¼ */
 	@RequestMapping(value = "/sisae/mainSisae", method = RequestMethod.GET)
 	public String mainSisae() {
 		return "sisae/mainSisae";
 	}
 	
+	@RequestMapping(value = "/sisae/apartDetail", method = RequestMethod.GET)
+	public String apartDetail() {
+		return "sisae/apartDetail";
+	}
+	
+	/* ÀÇ·Ú */
 	@RequestMapping(value = "/eroe/mainEroe", method = RequestMethod.GET)
 	public String mainEroe() {
 		return "eroe/mainEroe";
@@ -79,9 +88,29 @@ public class HomeController {
 		return "eroe/customerReview";
 	}
 	
-	@RequestMapping(value = "/eroe/searchSalesman", method = RequestMethod.GET)
+	@RequestMapping(value = "/eroe/searchSaleseman", method = RequestMethod.GET)
 	public String searchSalesman() {
-		return "eroe/searchSalesman";
+		return "eroe/searchSaleseman";
+	}
+	
+	@RequestMapping(value = "/eroe/eroeDetail", method = RequestMethod.GET)
+	public String eroeDetail() {
+		return "eroe/eroeDetail";
+	}
+	
+	@RequestMapping(value = "/eroe/mamulList", method = RequestMethod.GET)
+	public String mamulList() {
+		return "eroe/mamulList";
+	}
+	
+	@RequestMapping(value = "/eroe/toziDetail", method = RequestMethod.GET)
+	public String toziDetail() {
+		return "eroe/toziDetail";
+	}
+	
+	@RequestMapping(value = "/eroe/customerReview_tab2", method = RequestMethod.GET)
+	public String customerReview_tab2() {
+		return "eroe/customerReview_tab2";
 	}
 	
 	/* ë¶„ì–‘ */

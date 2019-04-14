@@ -9,13 +9,18 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta property="fb:app_id" content="1381871691878925">
-<meta id="metaURL" property="og:url"content="https://www.r114.com/Default.asp?_c=memul&amp;_m=p10">
+<meta id="metaURL" property="og:url"
+	content="https://www.r114.com/Default.asp?_c=memul&amp;_m=p10">
 <meta id="metaType" property="og:type" content="website">
-<meta id="metaImg" property="og:image"	content="https://image.r114.co.kr/W1/images/common/fe_logo.png">
+<meta id="metaImg" property="og:image"
+	content="https://image.r114.co.kr/W1/images/common/fe_logo.png">
 <meta id="metaTitle" property="og:title" content="부동산 빅데이터 플랫폼 부동산114">
-<meta id="metaDescription" property="og:description"content="종합부동산포털, 매물, 시세, 실거래가, 분양, 리서치, 매물의뢰, 창업지원, 컨설팅, 솔루션, 부동산뉴스 제공">
-<meta id="metaKeyword" name="keyword"content="종합부동산포털, 매물, 시세, 실거래가, 분양, 리서치, 매물의뢰, 창업지원, 컨설팅, 솔루션, 부동산뉴스 제공">
-<meta name="description"content="종합부동산포털, 매물, 시세, 실거래가, 분양, 리서치, 매물의뢰, 창업지원, 컨설팅, 솔루션, 부동산뉴스 제공">
+<meta id="metaDescription" property="og:description"
+	content="종합부동산포털, 매물, 시세, 실거래가, 분양, 리서치, 매물의뢰, 창업지원, 컨설팅, 솔루션, 부동산뉴스 제공">
+<meta id="metaKeyword" name="keyword"
+	content="종합부동산포털, 매물, 시세, 실거래가, 분양, 리서치, 매물의뢰, 창업지원, 컨설팅, 솔루션, 부동산뉴스 제공">
+<meta name="description"
+	content="종합부동산포털, 매물, 시세, 실거래가, 분양, 리서치, 매물의뢰, 창업지원, 컨설팅, 솔루션, 부동산뉴스 제공">
 <meta name="twitter:card" content="summary">
 
 <title>부동산114</title>
@@ -41,7 +46,8 @@
 	<div class="top_wrap">
 		<div class="w_fix clearfix">
 
-			<a href="${pageContext.request.contextPath}/index" class="logo_r114">부동산114 로고</a>
+			<a href="${pageContext.request.contextPath}/index" class="logo_r114">부동산114
+				로고</a>
 
 			<div class="inp_wrap search_wrap" id="dqSearchKeywordForm">
 				<form id="dqSearchForm" name="dqSearchForm">
@@ -105,10 +111,12 @@
 
 	<div class="menu_wrap">
 		<ul class="menu">
-			<li class="on"><span> <a href="${pageContext.request.contextPath}/sisae/mainSisae">매물/시세</a>
+			<li class="on"><span> <a
+					href="${pageContext.request.contextPath}/sisae/mainSisae">매물/시세</a>
 					<div class="layer_menu lm_1">
 						<ul class="col">
-							<li><a href="/?_c=memul&amp;_m=p10&amp;direct=A">아파트</a></li>
+							<li><a
+								href="${pageContext.request.contextPath}/sisae/apartDetail">아파트</a></li>
 							<li><a href="/?_c=memul&amp;_m=p10&amp;direct=B">주상복합</a></li>
 							<li><a href="/?_c=memul&amp;_m=p10&amp;direct=C">재건축</a></li>
 							<li><a href="/?_c=memul&amp;_m=p10&amp;direct=D">오피스텔</a></li>
@@ -130,60 +138,25 @@
 					</div>
 			</span>
 				<ul id="MemulType1">
-					<li class="on"><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A01"
-						data-fcode="A"> 아파트</a></li>
-					<li><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A01"
-						data-fcode="B"> 주상복합</a></li>
-					<li><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A01"
-						data-fcode="C"> 재건축</a></li>
-					<li><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A02"
-						data-fcode="D"> 오피스텔</a></li>
-					<li><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A01"
-						data-fcode="E"> 분양권</a></li>
-					<li><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A05"
-						data-fcode="F"> 빌라</a></li>
-					<li><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A03"
-						data-fcode="G"> 원룸</a></li>
-					<li><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A04"
-						data-fcode="H"> 주택</a></li>
-					<li><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A06"
-						data-fcode="I"> 재개발</a></li>
-					<li><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A07"
-						data-fcode="J"> 상가</a></li>
-					<li><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A08"
-						data-fcode="K"> 사무실</a></li>
-					<li><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A09"
-						data-fcode="L"> 건물</a></li>
-					<li><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A10"
-						data-fcode="M"> 공장</a></li>
-					<li><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A10"
-						data-fcode="N"> 창고</a></li>
-					<li><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A11"
-						data-fcode="O"> 토지</a></li>
-					<li><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A12"
-						data-fcode="P"> 숙박/펜션</a></li>
-					<li><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A12"
-						data-fcode="Q"> 경매</a></li>
-					<li><a href="javascript:;"
-						onclick="javascript:fnc_MemulType1_sel(this);" data-value="A12"
-						data-fcode="R"> 기타</a></li>
+					<li><a
+						href="${pageContext.request.contextPath}/sisae/apartDetail">아파트</a></li>
+					<li><a href="/?_c=memul&amp;_m=p10&amp;direct=B">주상복합</a></li>
+					<li><a href="/?_c=memul&amp;_m=p10&amp;direct=C">재건축</a></li>
+					<li><a href="/?_c=memul&amp;_m=p10&amp;direct=D">오피스텔</a></li>
+					<li><a href="/?_c=memul&amp;_m=p10&amp;direct=E">분양권</a></li>
+					<li><a href="/?_c=memul&amp;_m=p10&amp;direct=F">빌라</a></li>
+					<li><a href="/?_c=memul&amp;_m=p10&amp;direct=G">원룸</a></li>
+					<li><a href="/?_c=memul&amp;_m=p10&amp;direct=H">주택</a></li>
+					<li><a href="/?_c=memul&amp;_m=p10&amp;direct=I">재개발</a></li>
+					<li><a href="/?_c=memul&amp;_m=p10&amp;direct=J">상가</a></li>
+					<li><a href="/?_c=memul&amp;_m=p10&amp;direct=K">사무실</a></li>
+					<li><a href="/?_c=memul&amp;_m=p10&amp;direct=L">건물</a></li>
+					<li><a href="/?_c=memul&amp;_m=p10&amp;direct=M">공장</a></li>
+					<li><a href="/?_c=memul&amp;_m=p10&amp;direct=N">창고</a></li>
+					<li><a href="/?_c=memul&amp;_m=p10&amp;direct=O">토지</a></li>
+					<li><a href="/?_c=memul&amp;_m=p10&amp;direct=P">숙박/펜션</a></li>
+					<li><a href="/?_c=memul&amp;_m=p10&amp;direct=Q">경매</a></li>
+					<li><a href="/?_c=memul&amp;_m=p10&amp;direct=R">기타</a></li>
 				</ul></li>
 			<li class=""><span> <a
 					href="${pageContext.request.contextPath}/eroe/mainEroe">매물의뢰</a>
@@ -196,7 +169,7 @@
 							<li class=""><a
 								href="${pageContext.request.contextPath}/eroe/customerReview">고객후기</a></li>
 							<li class=""><a
-								href="${pageContext.request.contextPath}/eroe/searchSalesman">중개사무소찾기</a></li>
+								href="${pageContext.request.contextPath}/eroe/searchSaleseman">중개사무소찾기</a></li>
 						</ul>
 					</div>
 			</span>
@@ -208,59 +181,68 @@
 					<li class=""><a
 						href="${pageContext.request.contextPath}/eroe/customerReview">고객후기</a></li>
 					<li class=""><a
-						href="${pageContext.request.contextPath}/eroe/searchSalesman">중개사무소찾기</a></li>
+						href="${pageContext.request.contextPath}/eroe/searchSaleseman">중개사무소찾기</a></li>
 				</ul></li>
 
 			<li class=""><span> <a
-					href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistPersonal">직거래</a>
+					href="${pageContext.request.contextPath}/zicgurae/personal">직거래</a>
 					<div class="layer_menu lm_3">
 						<ul>
 							<li class=""><a
-								href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistPersonal">개인매물</a></li>
+								href="${pageContext.request.contextPath}/zicgurae/personal">개인매물</a></li>
 							<li class=""><a
-								href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistEnterprise">기업매물</a></li>
+								href="${pageContext.request.contextPath}/zicgurae/company">기업매물</a></li>
 							<li class=""><a
-								href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistState">국유재산사용/매각</a></li>
+								href="${pageContext.request.contextPath}/zicgurae/national">국유재산사용/매각</a></li>
 						</ul>
 					</div>
 			</span>
 				<ul>
 					<li class=""><a
-						href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistPersonal">개인매물</a></li>
+						href="${pageContext.request.contextPath}/zicgurae/personal">개인매물</a></li>
 					<li class=""><a
-						href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistEnterprise">기업매물</a></li>
+						href="${pageContext.request.contextPath}/zicgurae/company">기업매물</a></li>
 					<li class=""><a
-						href="/?_c=service&amp;_s=directdeal&amp;_m=directdeallistState">국유재산사용/매각</a></li>
+						href="${pageContext.request.contextPath}/zicgurae/national">국유재산사용/매각</a></li>
 				</ul></li>
 
-			<li class=""><span> <a href="/?_c=lots">분양</a>
+			<li class=""><span> <a
+					href="${pageContext.request.contextPath}/bunyang/main">분양</a>
 					<div class="layer_menu lm_5">
 						<ul>
-							<li class=""><a href="/?_c=lots&amp;_s=info&amp;_m=infolist">분양정보</a></li>
 							<li class=""><a
-								href="/?_c=lots&amp;_s=lotsSchedule&amp;_m=lotsSchedule">분양일정</a></li>
-							<li class=""><a href="/?_c=lots&amp;_m=lotsnews">분양뉴스</a></li>
+								href="${pageContext.request.contextPath}/bunyang/information">분양정보</a></li>
 							<li class=""><a
-								href="/?_c=lots&amp;_s=lotsScene&amp;_m=lotsScene">분양&amp;현장</a></li>
-							<li class=""><a href="/?_c=lots&amp;_m=ipjuinfo">입주지원센터</a></li>
+								href="${pageContext.request.contextPath}/bunyang/plan">분양일정</a></li>
 							<li class=""><a
-								href="/?_c=lots&amp;_s=offerStrategy&amp;_m=lotsOfferGuide">청약전략</a></li>
-							<li class=""><a href="/?_c=lots&amp;_s=Jigu&amp;_m=JiguList">지역개발정보</a></li>
+								href="${pageContext.request.contextPath}/bunyang/news">분양뉴스</a></li>
+							<li class=""><a
+								href="${pageContext.request.contextPath}/bunyang/site">분양&amp;현장</a></li>
+							<li class=""><a
+								href="${pageContext.request.contextPath}/bunyang/supply">입주지원센터</a></li>
+							<li class=""><a
+								href="${pageContext.request.contextPath}/bunyang/stategy">청약전략</a></li>
+							<li class=""><a
+								href="${pageContext.request.contextPath}/bunyang/develop">지역개발정보</a></li>
 							<!--<li class=""><a href="/?_c=lots&_m=VrCenterlist&_s=VrCenterlist">VR분양관</a></li>			-->
 						</ul>
 					</div>
 			</span>
 				<ul>
-					<li class=""><a href="/?_c=lots&amp;_s=info&amp;_m=infolist">분양정보</a></li>
 					<li class=""><a
-						href="/?_c=lots&amp;_s=lotsSchedule&amp;_m=lotsSchedule">분양일정</a></li>
-					<li class=""><a href="/?_c=lots&amp;_m=lotsnews">분양뉴스</a></li>
+						href="${pageContext.request.contextPath}/bunyang/information">분양정보</a></li>
 					<li class=""><a
-						href="/?_c=lots&amp;_s=lotsScene&amp;_m=lotsScene">분양&amp;현장</a></li>
-					<li class=""><a href="/?_c=lots&amp;_m=ipjuinfo">입주지원센터</a></li>
+						href="${pageContext.request.contextPath}/bunyang/plan">분양일정</a></li>
 					<li class=""><a
-						href="/?_c=lots&amp;_s=offerStrategy&amp;_m=lotsOfferGuide">청약전략</a></li>
-					<li class=""><a href="/?_c=lots&amp;_s=Jigu&amp;_m=JiguList">지역개발정보</a></li>
+						href="${pageContext.request.contextPath}/bunyang/news">분양뉴스</a></li>
+					<li class=""><a
+						href="${pageContext.request.contextPath}/bunyang/site">분양&amp;현장</a></li>
+					<li class=""><a
+						href="${pageContext.request.contextPath}/bunyang/supply">입주지원센터</a></li>
+					<li class=""><a
+						href="${pageContext.request.contextPath}/bunyang/stategy">청약전략</a></li>
+					<li class=""><a
+						href="${pageContext.request.contextPath}/bunyang/develop">지역개발정보</a></li>
 					<!--<li class=""><a href="/?_c=lots&_m=VrCenterlist&_s=VrCenterlist">VR분양관</a></li>-->
 
 				</ul></li>
@@ -328,25 +310,38 @@
 					<li class=""><a href="/?_c=solution&amp;_m=event">이벤트</a></li>
 				</ul></li>
 
-			<li class=""><span> <a href="/?_c=service&amp;_m=Auction">경매</a>
+			<li class=""><span> <a
+					href="${pageContext.request.contextPath}/gyeongmae/inquiry">경매</a>
 					<div class="layer_menu lm_9">
 						<ul>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=1">경매물건조회</a></li>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=2">경매STUDY</a></li>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=3">경매결과/통계</a></li>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=4">경매커뮤니티</a></li>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=5">FUN경매</a></li>
-							<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=6">My페이지</a></li>
+							<li class=""><a
+								href="${pageContext.request.contextPath}/gyeongmae/inquiry">경매물건조회</a></li>
+							<li class=""><a
+								href="${pageContext.request.contextPath}/gyeongmae/study">경매STUDY</a></li>
+							<li class=""><a
+								href="${pageContext.request.contextPath}/gyeongmae/result">경매결과/통계</a></li>
+							<li class=""><a
+								href="${pageContext.request.contextPath}/gyeongmae/community">경매커뮤니티</a></li>
+							<li class=""><a
+								href="${pageContext.request.contextPath}/gyeongmae/fun">FUN경매</a></li>
+							<li class=""><a
+								href="${pageContext.request.contextPath}/gyeongmae/myPage">My페이지</a></li>
 						</ul>
 					</div>
 			</span>
 				<ul>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=1">경매물건조회</a></li>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=2">경매STUDY</a></li>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=3">경매결과/통계</a></li>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=4">경매커뮤니티</a></li>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=5">FUN경매</a></li>
-					<li class=""><a href="/?_c=service&amp;_m=Auction&amp;tab=6">My페이지</a></li>
+					<li class=""><a
+						href="${pageContext.request.contextPath}/gyeongmae/inquiry">경매물건조회</a></li>
+					<li class=""><a
+						href="${pageContext.request.contextPath}/gyeongmae/study">경매STUDY</a></li>
+					<li class=""><a
+						href="${pageContext.request.contextPath}/gyeongmae/result">경매결과/통계</a></li>
+					<li class=""><a
+						href="${pageContext.request.contextPath}/gyeongmae/community">경매커뮤니티</a></li>
+					<li class=""><a
+						href="${pageContext.request.contextPath}/gyeongmae/fun">FUN경매</a></li>
+					<li class=""><a
+						href="${pageContext.request.contextPath}/gyeongmae/myPage">My페이지</a></li>
 				</ul></li>
 
 			<li class=""><span> <a
@@ -417,6 +412,7 @@
 		</ul>
 
 	</div>
+
 </div>
 <!-- 탑 끝 -->
 
@@ -1246,18 +1242,32 @@
 								<span class="blind">통계</span>
 							</button>
 							<ul class="off">
-								<li id="statGbn11" style="display: none;"><a href="#"onclick="fn_view_option(&quot;ST&quot;,&quot;11&quot;);">실거래가</a></li>
-								<li id="statGbn12" style="display: none;"><a href="#"onclick="fn_view_option(&quot;ST&quot;,&quot;12&quot;);">거래율</a></li>
-								<li id="statGbn20" style="display: none;"><a href="#"onclick="fn_view_option(&quot;ST&quot;,&quot;20&quot;);">R114시세</a></li>
-								<li id="statGbn21" style="display: none;"><a href="#"onclick="fn_view_option(&quot;ST&quot;,&quot;21&quot;);">매물가격변동률</a></li>
-								<li id="statGbn22" style="display: none;"><a href="#"onclick="fn_view_option(&quot;ST&quot;,&quot;22&quot;);">임대수익률</a></li>
-								<li id="statGbn13" style="display: list-item;"><a href="#"onclick="fn_view_option(&quot;ST&quot;,&quot;13&quot;);">입주예정</a></li>
-								<li id="statGbn14" style="display: list-item;"><a href="#"onclick="fn_view_option(&quot;ST&quot;,&quot;14&quot;);">최근입주</a></li>
-								<li id="statGbn15" style="display: none;"><a href="#"onclick="fn_view_option(&quot;ST&quot;,&quot;15&quot;);">평균분양가</a></li>
-								<li id="statGbn16" style="display: none;"><a href="#"onclick="fn_view_option(&quot;ST&quot;,&quot;16&quot;);">지가변동률</a></li>
-								<li id="statGbn17" style="display: none;"><a href="#"onclick="fn_view_option(&quot;ST&quot;,&quot;17&quot;);">거래량</a></li>
-								<li id="statGbn18" style="display: none;"><a href="#"onclick="fn_view_option(&quot;ST&quot;,&quot;18&quot;);">경매 매각률</a></li>
-								<li id="statGbn19" style="display: none;"><a href="#"onclick="fn_view_option(&quot;ST&quot;,&quot;19&quot;);">경매 매각가율</a></li>
+								<li id="statGbn11" style="display: none;"><a href="#"
+									onclick="fn_view_option(&quot;ST&quot;,&quot;11&quot;);">실거래가</a></li>
+								<li id="statGbn12" style="display: none;"><a href="#"
+									onclick="fn_view_option(&quot;ST&quot;,&quot;12&quot;);">거래율</a></li>
+								<li id="statGbn20" style="display: none;"><a href="#"
+									onclick="fn_view_option(&quot;ST&quot;,&quot;20&quot;);">R114시세</a></li>
+								<li id="statGbn21" style="display: none;"><a href="#"
+									onclick="fn_view_option(&quot;ST&quot;,&quot;21&quot;);">매물가격변동률</a></li>
+								<li id="statGbn22" style="display: none;"><a href="#"
+									onclick="fn_view_option(&quot;ST&quot;,&quot;22&quot;);">임대수익률</a></li>
+								<li id="statGbn13" style="display: list-item;"><a href="#"
+									onclick="fn_view_option(&quot;ST&quot;,&quot;13&quot;);">입주예정</a></li>
+								<li id="statGbn14" style="display: list-item;"><a href="#"
+									onclick="fn_view_option(&quot;ST&quot;,&quot;14&quot;);">최근입주</a></li>
+								<li id="statGbn15" style="display: none;"><a href="#"
+									onclick="fn_view_option(&quot;ST&quot;,&quot;15&quot;);">평균분양가</a></li>
+								<li id="statGbn16" style="display: none;"><a href="#"
+									onclick="fn_view_option(&quot;ST&quot;,&quot;16&quot;);">지가변동률</a></li>
+								<li id="statGbn17" style="display: none;"><a href="#"
+									onclick="fn_view_option(&quot;ST&quot;,&quot;17&quot;);">거래량</a></li>
+								<li id="statGbn18" style="display: none;"><a href="#"
+									onclick="fn_view_option(&quot;ST&quot;,&quot;18&quot;);">경매
+										매각률</a></li>
+								<li id="statGbn19" style="display: none;"><a href="#"
+									onclick="fn_view_option(&quot;ST&quot;,&quot;19&quot;);">경매
+										매각가율</a></li>
 							</ul>
 						</div>
 						<div>
@@ -1278,8 +1288,10 @@
 								<span class="blind">교통</span>
 							</button>
 							<ul class="off">
-								<li id="statGbn01"><a href="#"	onclick="fn_view_option(&quot;BS&quot;);">버스</a></li>
-								<li id="statGbn02"><a href="#"	onclick="fn_view_option(&quot;T&quot;);">지하철</a></li>
+								<li id="statGbn01"><a href="#"
+									onclick="fn_view_option(&quot;BS&quot;);">버스</a></li>
+								<li id="statGbn02"><a href="#"
+									onclick="fn_view_option(&quot;T&quot;);">지하철</a></li>
 							</ul>
 						</div>
 						<div>
@@ -1288,11 +1300,16 @@
 								<span class="blind">학교</span>
 							</button>
 							<ul class="off">
-								<li><a href="#"onclick="fn_view_option(&quot;SC&quot;,&quot;01&quot;);">어린이집</a></li>
-								<li><a href="#"onclick="fn_view_option(&quot;SC&quot;,&quot;02&quot;);">유치원</a></li>
-								<li><a href="#"onclick="fn_view_option(&quot;SC&quot;,&quot;11&quot;);">초등학교</a></li>
-								<li><a href="#"onclick="fn_view_option(&quot;SC&quot;,&quot;12&quot;);">중학교</a></li>
-								<li><a href="#"onclick="fn_view_option(&quot;SC&quot;,&quot;13&quot;);">고등학교</a></li>
+								<li><a href="#"
+									onclick="fn_view_option(&quot;SC&quot;,&quot;01&quot;);">어린이집</a></li>
+								<li><a href="#"
+									onclick="fn_view_option(&quot;SC&quot;,&quot;02&quot;);">유치원</a></li>
+								<li><a href="#"
+									onclick="fn_view_option(&quot;SC&quot;,&quot;11&quot;);">초등학교</a></li>
+								<li><a href="#"
+									onclick="fn_view_option(&quot;SC&quot;,&quot;12&quot;);">중학교</a></li>
+								<li><a href="#"
+									onclick="fn_view_option(&quot;SC&quot;,&quot;13&quot;);">고등학교</a></li>
 							</ul>
 						</div>
 						<div>
@@ -1424,8 +1441,7 @@
 								<div style="position: absolute; z-index: 1;">
 									<svg version="1.1"
 										style="stroke: none; stroke-dashoffset: 0.5; stroke-linejoin: round; fill: none; transform: translateZ(0px); position: absolute; left: -1485px; top: -779px; width: 3745px; height: 1930px;"
-										viewBox="0 0 3745 1930">
-									<defs></defs></svg>
+										viewBox="0 0 3745 1930"> <defs></defs></svg>
 								</div>
 								<div
 									style="position: absolute; z-index: 1; width: 100%; height: 0px;">
@@ -1931,9 +1947,8 @@
 			</div>
 
 			<div class="location_banner_wrap" id="MktMemulAd" style="display:;">
-				<iframe src="/?_c=memul&amp;_m=MemulDefault&amp;_a=MemulMktAd"
-					id="ifrmMktAd" scrolling="no" marginheight="0" marginwidth="0"
-					frameborder="0" width="100%" height="78px"></iframe>
+				<iframe src="" id="ifrmMktAd" scrolling="no" marginheight="0"
+					marginwidth="0" frameborder="0" width="100%" height="78px"></iframe>
 			</div>
 			<!-- 메인 배너영역 끝-->
 			<script type="text/javascript">
@@ -2082,10 +2097,10 @@
 			</h4>
 			<ul class="list_article Best" style="">
 
-				<li><a href="javascript:"
-					onclick="goHouseDetailPage('0033F367B55FFC', '2')" class="cont">
-						<strong class="tit_a"><span> 장미1차 3동</span><em><span
-								class="tag_comm2 m">매매</span>135,000 만원</em></strong> <span
+				<li><a
+					href="${pageContext.request.contextPath}/sisae/apartDetail"
+					class="cont"> <strong class="tit_a"><span> 장미1차
+								3동</span><em><span class="tag_comm2 m">매매</span>135,000 만원</em></strong> <span
 						class="tag_comm3 type2">알짜매물<em>19.04.08</em></span>
 						<div class="thumb">
 							<img
@@ -2798,8 +2813,8 @@
 							class="tit"><span class="tag_comm2 type1">매매</span></span> <span
 							class="thumb"><img
 								src="https://image.r114.co.kr/directimages/2010/06/result_2010_5_0_23_34_46_684_1.jpg"
-								alt=""></span> <span class="s_type">토지<br>
-							<em>10,000 만원</em></span>
+								alt=""></span> <span class="s_type">토지<br> <em>10,000
+									만원</em></span>
 							<div class="info type2">
 								<span class="loc">천안시 안서동 325㎡ </span>
 								<p class="desc">* 현재는 지목이 임야로 되어있지만, 산지전용허가,
@@ -2815,8 +2830,8 @@
 							class="tit"><span class="tag_comm2 type1">매매</span></span> <span
 							class="thumb"><img
 								src="https://image.r114.co.kr/directimages/2018/05/606A5001B96D443D885B1B1CFF65E220.jpg"
-								alt=""></span> <span class="s_type">전원농가주택<br>
-							<em>33,000 만원</em></span>
+								alt=""></span> <span class="s_type">전원농가주택<br> <em>33,000
+									만원</em></span>
 							<div class="info type2">
 								<span class="loc">평창군 방림면 96㎡ </span>
 								<p class="desc">* 노출콘크리트조의 모던하고 심플한 전원주택으로 배산임수를 갖춘
@@ -2835,8 +2850,8 @@
 							class="tit"><span class="tag_comm2 type1">매매</span></span> <span
 							class="thumb"><img
 								src="https://image.r114.co.kr/directimages/2019/04/E3AE5F83866D45AF9E894D7FBD593FCE.jpg"
-								alt=""></span> <span class="s_type">단독다가구<br>
-							<em>130,000 만원</em></span>
+								alt=""></span> <span class="s_type">단독다가구<br> <em>130,000
+									만원</em></span>
 							<div class="info type2">
 								<span class="loc">성북구 성북동 281㎡ </span>
 								<p class="desc">1964년 성북동 개발시 축조된 튼튼한 언덕위의 집. 정원에는 오래된 정원수
@@ -2850,8 +2865,8 @@
 					<li><a href="javascript:"
 						onclick="goDirectDealDetailPage('77717', 'P')"> <span
 							class="tit"><span class="tag_comm2 type1">매매</span></span> <span
-							class="thumb"></span> <span class="s_type">토지<br>
-							<em>32,000 만원</em></span>
+							class="thumb"></span> <span class="s_type">토지<br> <em>32,000
+									만원</em></span>
 							<div class="info type2">
 								<span class="loc">홍천군 서면 1,928㎡ </span>
 								<p class="desc">남춘천 IC에서 5분 홍천강 300미터 대명비발디 7분거리 팔봉산 1봉뒤
@@ -2866,8 +2881,8 @@
 							class="tit"><span class="tag_comm2 type1">매매</span></span> <span
 							class="thumb"><img
 								src="https://image.r114.co.kr/directimages/2019/03/74B8CB6AEEE144D4A03E6319D22D860E.jpg"
-								alt=""></span> <span class="s_type">연립빌라다세대<br>
-							<em>12,000 만원</em></span>
+								alt=""></span> <span class="s_type">연립빌라다세대<br> <em>12,000
+									만원</em></span>
 							<div class="info type2">
 								<span class="loc">안산시 와동 99㎡ </span>
 								<p class="desc">-깨끗하게 올 수리된 집. -각방 신형 개별에어컨 설치(3개소), 화장실
@@ -2947,10 +2962,10 @@
 					<li><a href="javascript:"
 						onclick="goDirectDealDetailPage('994', 'C')"> <span
 							class="tit"><span class="tag_comm2 type1">매매</span><br>
-							<span class="tag_comm2 type3">VIP</span></span> <span class="thumb"><img
+								<span class="tag_comm2 type3">VIP</span></span> <span class="thumb"><img
 								src="https://image.r114.co.kr/support/directbank/2019/02/FA77A7449DEF462EA6D8D10BA06AE3FA.JPG"
-								alt=""></span> <span class="s_type">토지<br>
-							<em>1,103,958 ~ 2,000,000 만원</em></span>
+								alt=""></span> <span class="s_type">토지<br> <em>1,103,958
+									~ 2,000,000 만원</em></span>
 							<div class="info">
 								<span class="loc">경상북도 경주시 천북면 1㎡</span>
 								<p class="desc">토지</p>
@@ -2960,10 +2975,10 @@
 					<li><a href="javascript:"
 						onclick="goDirectDealDetailPage('996', 'C')"> <span
 							class="tit"><span class="tag_comm2 type1">매매</span><br>
-							<span class="tag_comm2 type4">기업</span></span> <span class="thumb"><img
+								<span class="tag_comm2 type4">기업</span></span> <span class="thumb"><img
 								src="https://image.r114.co.kr/support/directbank/2019/02/1전경가로_2.jpg"
-								alt=""></span> <span class="s_type">빌딩<br>
-							<em>200,000 만원</em></span>
+								alt=""></span> <span class="s_type">빌딩<br> <em>200,000
+									만원</em></span>
 							<div class="info">
 								<span class="loc">경기도 남양주시 진접읍 2㎡</span>
 								<p class="desc">빌딩</p>
@@ -2973,10 +2988,10 @@
 					<li><a href="javascript:"
 						onclick="goDirectDealDetailPage('970', 'C')"> <span
 							class="tit"><span class="tag_comm2 type1">매매</span><br>
-							<span class="tag_comm2 type4">기업</span></span> <span class="thumb"><img
+								<span class="tag_comm2 type4">기업</span></span> <span class="thumb"><img
 								src="https://image.r114.co.kr/support/directbank/2018/11/6922887892D14599B8C3369E2F44D429.jpg"
-								alt=""></span> <span class="s_type">공장<br>
-							<em>325,200 만원</em></span>
+								alt=""></span> <span class="s_type">공장<br> <em>325,200
+									만원</em></span>
 							<div class="info">
 								<span class="loc">충청북도 진천군 덕산면 3㎡</span>
 								<p class="desc">공장</p>
@@ -2986,9 +3001,9 @@
 					<li><a href="javascript:"
 						onclick="goDirectDealDetailPage('984', 'C')"> <span
 							class="tit"><span class="tag_comm2 type1">매매</span><br>
-							<span class="tag_comm2 type4">기업</span></span> <span class="thumb"><img
+								<span class="tag_comm2 type4">기업</span></span> <span class="thumb"><img
 								src="" alt="" style="display: none;"></span> <span class="s_type">토지<br>
-							<em>180,000 만원</em></span>
+								<em>180,000 만원</em></span>
 							<div class="info">
 								<span class="loc">전라북도 익산시 왕궁면 4㎡</span>
 								<p class="desc">토지</p>
@@ -2998,9 +3013,9 @@
 					<li><a href="javascript:"
 						onclick="goDirectDealDetailPage('983', 'C')"> <span
 							class="tit"><span class="tag_comm2 type1">매매</span><br>
-							<span class="tag_comm2 type4">기업</span></span> <span class="thumb"><img
+								<span class="tag_comm2 type4">기업</span></span> <span class="thumb"><img
 								src="" alt="" style="display: none;"></span> <span class="s_type">토지<br>
-							<em>평당 110만원</em></span>
+								<em>평당 110만원</em></span>
 							<div class="info">
 								<span class="loc">전라북도 전주시 평화동1가 5㎡</span>
 								<p class="desc">토지</p>
@@ -3029,10 +3044,8 @@
 			<!-- 매물 하단 광고 -->
 			<div class="ad_bottom" id="divMemulBottom" style="">
 				<div class="bn_iframe">
-					<iframe
-						src="/?_c=memul&amp;_m=memulRight&amp;_a=MemulBottomAdvertise&amp;adType=total"
-						scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
-						width="100%" height="280px" style="display: block"></iframe>
+					<iframe src="" scrolling="no" marginheight="0" marginwidth="0"
+						frameborder="0" width="100%" height="280px" style="display: block"></iframe>
 				</div>
 			</div>
 			<!--// 매물 하단 광고 -->
@@ -3069,17 +3082,14 @@
 			</div>
 			<div class="right_inner_wrap" id="divMemulRight02">
 				<div class="bn_iframe" id="ad_side_rigth1">
-					<iframe src="/?_c=memul&amp;_m=memulRight&amp;_a=MemulSubAdvertise"
-						scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
-						width="100%" height="280px" style="display: block"></iframe>
+					<iframe src="" scrolling="no" marginheight="0" marginwidth="0"
+						frameborder="0" width="100%" height="280px" style="display: block"></iframe>
 				</div>
 			</div>
 			<div class="right_inner_wrap" id="divMemulRight03">
 				<div class="bx_gray" id="ad_side_right2">
-					<iframe
-						src="/?_c=memul&amp;_m=memulRight&amp;_a=MemulSubAdvertise2&amp;adType=total"
-						scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
-						width="100%" height="218px"
+					<iframe src="" scrolling="no" marginheight="0" marginwidth="0"
+						frameborder="0" width="100%" height="218px"
 						style="margin: 0; border: 0; padding-top: 5px"></iframe>
 				</div>
 			</div>
@@ -7137,10 +7147,8 @@
 			</div>
 			<div class="right_inner_wrap" id="divMemulRight05">
 				<div class="bn_vertical_thin" id="ad_side_right3">
-					<iframe
-						src="/?_c=memul&amp;_m=memulRight&amp;_a=MemulSubAdvertise3&amp;adType=total"
-						scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
-						width="100%" height="600px"></iframe>
+					<iframe src="" scrolling="no" marginheight="0" marginwidth="0"
+						frameborder="0" width="100%" height="600px"></iframe>
 				</div>
 			</div>
 		</div>
@@ -7418,9 +7426,9 @@
 									시세모니터링</li>
 								<li>시세 제공 중개사무소 변경 : 시세 제공 중개사무소가 이전 혹은 폐업을 하였을 때, 또는 시세가
 									부정확하게 제공될 때에는 부동산114가 조사, 검증 후에 변경합니다.<br>그리고, 일반인도 부정확한
-									시세라고 판단될 때에는 중개사무소 수정을 요청할 수 있습니다.<br>
-								<a href="javascript:" class="link"
-									onclick="goMyInquiryCenter();">시세모니터 수정 요청</a>
+									시세라고 판단될 때에는 중개사무소 수정을 요청할 수 있습니다.<br> <a
+									href="javascript:" class="link" onclick="goMyInquiryCenter();">시세모니터
+										수정 요청</a>
 								</li>
 								<li>
 									<div class="deco_arr red">조사 및 통계관련 문의 : 리서치센터 DB개발팀 (☎
