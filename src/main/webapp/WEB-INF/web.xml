@@ -64,6 +64,6 @@
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 	
-	<welcom-file-list>index.jsp</welcom-file-list>
+s
 
 </web-app>

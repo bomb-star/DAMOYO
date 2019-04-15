@@ -5,22 +5,53 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>부동산 114</title>
-<link href="${pageContext.request.contextPath}/resources/css/layout.css"
-	rel="stylesheet">
-<link href="${pageContext.request.contextPath}/resources/css/reset.css"
-	rel="stylesheet">
-<link
-	href="${pageContext.request.contextPath}/resources/css/jquery-ui.css"
-	rel="stylesheet">
-<link
-	href="${pageContext.request.contextPath}/resources/css/template.css"
-	rel="stylesheet">
-<link href="${pageContext.request.contextPath}/resources/css/common.css"
-	rel="stylesheet">
-<link
-	href="${pageContext.request.contextPath}/resources/css/jquery.boxslider.css"
-	rel="stylesheet">
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/jquery-3.2.1.js'></script>
+
+<link href="${pageContext.request.contextPath}/resources/css/layout.css"rel="stylesheet">
+<link href="${pageContext.request.contextPath}/resources/css/reset.css"rel="stylesheet">
+<link href="${pageContext.request.contextPath}/resources/css/jquery-ui.css"rel="stylesheet">
+<link href="${pageContext.request.contextPath}/resources/css/template.css"rel="stylesheet">
+<link href="${pageContext.request.contextPath}/resources/css/common.css"rel="stylesheet">
+<link href="${pageContext.request.contextPath}/resources/css/jquery.boxslider.css"rel="stylesheet">
+	
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/Ask/ask.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/Home/footer.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/Home/searchKeywordForm.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/Memul/default.filter.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/Memul/default.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/Memul/rightBanner.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/Memul/sise.common.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/Memul/statistics.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/Memul1/complexDetail.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/Memul1/educationChart.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/Memul1/educationInfo.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/Memul1/memul.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/MyPage/joinMain.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/MyPage/questionToAgent.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/Plugin/moment/moment-with-locales.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/accessLogging.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/appJS.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/common.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/common2.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/history.min.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/jquery.ba-hashchange.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/jquery.browser.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/jquery.bxslider.min.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/jquery.cookie.min.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/jquery.form.min.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/jquery.marquee.min.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/jquery.number.min.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/jquery.scrollintoview.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/mapPopup.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/muse7th.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/PageUtil.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/printThis.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/purl.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/site.js'></script>
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/typedarray.js'></script>
+	
 </head>
+
 <body class="main">
 	<div id="top_layout" class="no_2depth">
 		<div class="top_wrap">
@@ -1606,7 +1637,6 @@
 
 		</div>
 	</div>
-
 
 </body>
 </html>

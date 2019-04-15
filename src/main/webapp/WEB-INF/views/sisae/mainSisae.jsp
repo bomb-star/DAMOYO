@@ -22,23 +22,18 @@
 <meta name="description"
 	content="종합부동산포털, 매물, 시세, 실거래가, 분양, 리서치, 매물의뢰, 창업지원, 컨설팅, 솔루션, 부동산뉴스 제공">
 <meta name="twitter:card" content="summary">
+<script type='text/javascript' src='${pageContext.request.contextPath}/resources/js/jquery-3.2.1.js'></script>
 
 <title>부동산114</title>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
-<link href="${pageContext.request.contextPath}/resources/css/layout.css"
-	rel="stylesheet">
-<link href="${pageContext.request.contextPath}/resources/css/reset.css"
-	rel="stylesheet">
-<link
-	href="${pageContext.request.contextPath}/resources/css/jquery-ui.css"
-	rel="stylesheet">
-<link
-	href="${pageContext.request.contextPath}/resources/css/template.css"
-	rel="stylesheet">
-<link href="${pageContext.request.contextPath}/resources/css/common.css"
-	rel="stylesheet">
+<link href="${pageContext.request.contextPath}/resources/css/layout.css"rel="stylesheet">
+<link href="${pageContext.request.contextPath}/resources/css/reset.css"rel="stylesheet">
+<link href="${pageContext.request.contextPath}/resources/css/jquery-ui.css"rel="stylesheet">
+<link href="${pageContext.request.contextPath}/resources/css/template.css"rel="stylesheet">
+<link href="${pageContext.request.contextPath}/resources/css/common.css"rel="stylesheet">
+	
 </head>
 
 <!-- 탑 시작 -->
@@ -489,37 +484,6 @@
 </div>
 <script charset="UTF-8"
 	src="https://s1.daumcdn.net/svc/attach/U03/cssjs/mapapi/libs/1.0.1/1515130215283/services.js"></script>
-<script type="text/javascript" src="/W1/js/appJS.js?ver=4"></script>
-<script type="text/javascript" src="/W1/js/muse7th.js"></script>
-<script type="text/javascript"
-	src="/W1/js/Memul/default.js?v=20190408110822"></script>
-<script type="text/javascript" src="/W1/js/Memul/default.filter.js?v=2"></script>
-<script type="text/javascript" src="/W1/js/memul/educationChart.js"></script>
-<script type="text/javascript" src="/W1/js/memul/educationInfo.js"></script>
-<script type="text/javascript" src="/W1/js/memul/complexDetail.js"></script>
-<script type="text/javascript" src="/W1/js/memul/memul.js"></script>
-<script type="text/javascript" src="/W1/js/printThis.js"></script>
-<script type="text/javascript" src="/W1/js/PageUtil.js"></script>
-<script type="text/javascript" src="/W1/js/MyPage/questionToAgent.js"></script>
-<script type="text/javascript"
-	src="/W1/js/Memul/sise.common.js?rnd=333333"></script>
-<script type="text/javascript" src="/W1/js/Memul/statistics.js"></script>
-<script type="text/javascript" src="/gis/gis.statistics.js"></script>
-<script type="text/javascript"
-	src="/gis/gis.roadview.js?ver=20190408110822"></script>
-<script type="text/javascript" src="/W1/js/accessLogging.js"></script>
-<script type="text/javascript" src="/W1/js/Memul/rightBanner.js"></script>
-<script type="text/javascript"
-	src="/W1/js/Plugin/ion.rangeSlider/ion.rangeSlider.min.js"></script>
-<script type="text/javascript"
-	src="/W1/js/Plugin/moment/moment-with-locales.js"></script>
-
-<link rel="stylesheet"
-	href="/W1/js/Plugin/ion.rangeSlider/css/ion.rangeSlider.custom.css"
-	type="text/css">
-<link rel="stylesheet"
-	href="/W1/js/Plugin/ion.rangeSlider/css/ion.rangeSlider.skinR114.gis.memul.trade.css"
-	type="text/css">
 
 <input type="hidden" id="txt_cortarInfo" name="txt_cortarInfo"
 	value="1114010300|4">
@@ -7127,8 +7091,8 @@
 
 				<script type="text/javascript">
 
-	$(document).ready( function() {
-		slide_recommendOffice_load();
+	/* $(document).ready( function() {
+		//slide_recommendOffice_load();
 		
 		if($.browser.msie && parseInt($.browser.version) <= parseInt(8)){
 			$("#ad_side_right2").remove();
@@ -7141,7 +7105,7 @@
 			$(this).children().last().find(".emnum").remove();
 		});
 
-	});
+	}); */
 
 </script>
 			</div>
@@ -8325,5 +8289,7 @@
 	id="easyXDM_Kakao_default737_provider"
 	src="https://kapi.kakao.com/cors/?xdm_e=https%3A%2F%2Fwww.r114.com&amp;xdm_c=default737&amp;xdm_p=1"
 	frameborder="0" style="position: absolute; top: -2000px; left: 0px;"></iframe>
+	
+	
 </body>
 </html>
